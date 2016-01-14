@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Testing</title>
+	<script type="text/javascript" src="3rdParty/jquery-ui-1.10.3/jquery-1.9.1.js"></script>
+	<script type="text/javascript" src="3rdParty/jquery-ui-1.10.3/ui/jquery-ui.js"></script>
+    <script type="text/javascript" src="3rdParty/Cesium/Build/Cesium/Cesium.js"></script>
+    <script type="text/javascript" src="3rdParty/d3/d3.v3.js"></script>
+	<script type="text/javascript">
+		var sharedObject = {
+			dispatch : d3.dispatch("nationMouseover"),
+			yearData : [],
+			flyTo : null
+		};
+    </script>
+    <style>
+      @import url(3rdParty/jquery-ui-1.10.3/themes/vader/jquery-ui.css);
+      @import url(d3chart.css);
+      @import url(3rdParty/Cesium/Build/Cesium/Widgets/widgets.css);
+      body {
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+<body>
+	<div id="cesiumContainer"></div>
+	<div id="radio" style="position:absolute; top:0px; right:50%; height: 30px">
+		<input type="radio" id="health" name="healthwealth" checked="checked"><label for="health">Health</label>
+		<input type="radio" id="wealth" name="healthwealth"><label for="wealth">Wealth</label>
+	</div>
+	<div id="chart"></div>
+	<div id="info" title="Nation Health and Wealth"></div>
+	<script type="text/javascript" src="d3example.js"></script>
+	<script type="text/javascript" src="globe.js"></script>
+</body>
+</html>
