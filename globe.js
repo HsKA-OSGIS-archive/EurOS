@@ -22,9 +22,8 @@
         this._isLoading = false;
         this._loading = new Cesium.Event();
         this._year = 1800;
-        this._wealthScale = d3.scale.log().domain([300, 1e5]).range([0, 10000000.0]);
-        this._healthScale = d3.scale.linear().domain([10, 85]).range([0, 10000000.0]);
-        this._populationScale = d3.scale.sqrt().domain([0, 5e8]).range([5.0, 30000000000.0]);
+/* 
+        this._populationScale = d3.scale.linear().domain([0, 5e8]).range([0, 10000000.0]); */
         this._colorScale = d3.scale.category20c();
         this._selectedEntity = undefined;
     };
@@ -146,7 +145,7 @@
             // Construct Population related Properties
 			var population1 = new Cesium.SampledPositionProperty();
             var sampledPopulation = new Cesium.SampledProperty(Number);
-			var heightPosition = Cesium.Cartesian3.fromDegrees(nation.lon, nation.lat, this._populationScale(nation.population[0][1]), ellipsoid, cartesian3Scratch);
+			var heightPosition = Cesium.Cartesian3.fromDegrees(nation.lon, nation.lat, nation.population[0][1]/10);
             population1.addSample(Cesium.JulianDate.fromIso8601("1799"), heightPosition);
 
             sampledPopulation.addSample(Cesium.JulianDate.fromIso8601("1799"), nation.population[0][1]);
@@ -154,7 +153,7 @@
             for (var j = 0; j < nation.population.length; j++) {
                 var year = nation.population[j][0];
                 population = nation.population[j][1];
-				heightPosition = Cesium.Cartesian3.fromDegrees(nation.lon, nation.lat, this._healthScale(population), ellipsoid, cartesian3Scratch);
+				heightPosition = Cesium.Cartesian3.fromDegrees(nation.lon, nation.lat, population/10);
                 population1.addSample(Cesium.JulianDate.fromIso8601(year.toString()), heightPosition);
                 sampledPopulation.addSample(Cesium.JulianDate.fromIso8601(year.toString()), population);
             }
@@ -166,7 +165,7 @@
 			
 			// CAMBIO DE COLOR
             var outlineMaterial = new Cesium.PolylineOutlineMaterialProperty();
-            outlineMaterial.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString(this._colorScale(nation.region)));
+            outlineMaterial.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString(this._colorScale(nation.population[0][1]))); // Hay que poner rangos
             outlineMaterial.outlineColor = new Cesium.ConstantProperty(new Cesium.Color(0.0, 0.0, 0.0, 1.0));
             outlineMaterial.outlineWidth = new Cesium.ConstantProperty(3.0);
             polyline.material = outlineMaterial;
@@ -180,12 +179,8 @@
 			
 			
             // Add data properties to entity
-            entity.addProperty('region');
-            entity.region = nation.region;
-            entity.addProperty('wealth');
-            entity.wealth = wealth;
-            entity.addProperty('health');
-            entity.health = health;
+
+
             entity.addProperty('surfacePosition');
             entity.surfacePosition = surfacePosition;
             entity.addProperty('nationData'); // CAMBIAR NATIONDATA POR ESTACION
@@ -195,8 +190,6 @@
 
             entity.addProperty('population');
             entity.population = sampledPopulation;
-
-            //entity.description = new Cesium.ConstantProperty("foo");
 
 
             //Add the entity to the collection.
