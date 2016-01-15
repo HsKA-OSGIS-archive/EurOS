@@ -139,14 +139,15 @@
             var station = data[i];
             var surfacePosition = Cesium.Cartesian3.fromDegrees(station.lon, station.lat, 0.0);
 
-         
-
 
             // Construct Population related Properties
 			var radiation1 = new Cesium.SampledPositionProperty();
             var sampledRadiation = new Cesium.SampledProperty(Number);
 			var heightPosition = Cesium.Cartesian3.fromDegrees(station.lon, station.lat, station.radio[0][1]*1000000);
 
+			radiation1.addSample(Cesium.JulianDate.fromIso8601("2015"), heightPosition);
+            sampledRadiation.addSample(Cesium.JulianDate.fromIso8601("2015"), radio);
+			
             var radio = 0.0;
             for (var j = 0; j < station.radio.length; j++) {
                 var year = station.radio[j][0];
@@ -156,6 +157,9 @@
                 radiation1.addSample(Cesium.JulianDate.fromIso8601(year), heightPosition);
                 sampledRadiation.addSample(Cesium.JulianDate.fromIso8601(year), radio);
             }
+			
+			radiation1.addSample(Cesium.JulianDate.fromIso8601("2015"), heightPosition);
+            sampledRadiation.addSample(Cesium.JulianDate.fromIso8601("2015"), radio);
 
 
             var polyline = new Cesium.PolylineGraphics();
@@ -183,9 +187,6 @@
             entity.surfacePosition = surfacePosition;
             entity.addProperty('stationData'); // CAMBIAR NATIONDATA POR ESTACION
             entity.stationData = station;
-
-
-
             entity.addProperty('radio');
             entity.radio = sampledRadiation;
 
@@ -263,7 +264,7 @@
             var pickedObject = viewer.scene.pick(movement.endPosition);
             if (Cesium.defined(pickedObject) && Cesium.defined(pickedObject.id)) {
                 if (Cesium.defined(pickedObject.id.stationData)) {
-                    sharedObject.dispatch.stationMouseover(pickedObject.id.stationData, pickedObject);
+                    sharedObject.dispatch.nationMouseover(pickedObject.id.stationData, pickedObject);
                     healthAndWealth.selectedEntity = pickedObject.id;
                 }
             }
@@ -283,17 +284,17 @@
         Cesium.ScreenSpaceEventType.LEFT_CLICK
     );
 
-    // Response to a station's mouseover event
-    sharedObject.dispatch.on("stationMouseover.cesium", function(stationObject) {
+    // Response to a nation's mouseover event
+    sharedObject.dispatch.on("nationMouseover.cesium", function(nationObject) {
 
         $("#info table").remove();
         $("#info").append("<table> \
-        <tr><td>Population:</td><td>" +parseFloat(stationObject.radio).toFixed(1)+"</td></tr>\
+        <tr><td>Radiation:</td><td>" +parseFloat(nationObject.radio[0][1]).toFixed(5)+"</td></tr>\
         </table>\
         ");
         $("#info table").css("font-size", "10px");
         $("#info").dialog({
-            title : stationObject.name,
+            title : nationObject.name,
             width: 200,
             height: 150,
             modal: false,
@@ -304,22 +305,22 @@
 
 	  
 	 
-    // define functionality for flying to a station
-    // this callback is triggered when a station is clicked
+    // define functionality for flying to a nation
+    // this callback is triggered when a nation is clicked
     sharedObject.flyTo = function(stationData) {
         var ellipsoid = viewer.scene.globe.ellipsoid;
 
-        var destistation = Cesium.Cartographic.fromDegrees(stationData.lon, stationData.lat - 5.0, 10000000.0);
-        var destCartesian = ellipsoid.cartographicToCartesian(destistation);
-        destistation = ellipsoid.cartesianToCartographic(destCartesian);
+        var destination = Cesium.Cartographic.fromDegrees(stationData.lon, stationData.lat - 5.0, 10000000.0);
+        var destCartesian = ellipsoid.cartographicToCartesian(destination);
+        destination = ellipsoid.cartesianToCartographic(destCartesian);
 
         // only fly there if it is not the camera's current position
         if (!ellipsoid
-                   .cartographicToCartesian(destistation)
+                   .cartographicToCartesian(destination)
                    .equalsEpsilon(viewer.scene.camera.positionWC, Cesium.Math.EPSILON6)) {
 
             viewer.scene.camera.flyTo({
-                destistation: destCartesian
+                destination: destCartesian
             });
         }
     };
