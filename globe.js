@@ -21,7 +21,7 @@
         this._error = new Cesium.Event();
         this._isLoading = false;
         this._loading = new Cesium.Event();
-        this._year = 1800;
+        this._year = Cesium.JulianDate.fromIso8601("2015-10-12T00:00:00Z");
 /* 
         this._radioScale = d3.scale.linear().domain([0, 5e8]).range([0, 10000000.0]); */
         this._colorScale = d3.scale.category20c();
@@ -51,7 +51,7 @@
             set : function(e) {
                 if (Cesium.defined(this._selectedEntity)) {
                     var entity = this._selectedEntity;
-                    entity.polyline.material.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString(this._colorScale(entity.region)));
+                    entity.polyline.material.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString(this._colorScale(entity.radio)));
                 }
                 if (Cesium.defined(e)) {
                     e.polyline.material.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString('#00ff00'));
@@ -209,9 +209,53 @@
     };
 
 
+	//Creamos la tabla que aparecerá cada vez que el tiempo sea diferente a 2015-10-12T01:00:00Z
+    HealthAndWealthDataSource.prototype._setInfoDialog = function(time) {
+        if (Cesium.defined(this._selectedEntity)) {
+            var radio = this._selectedEntity.radio.getValue(time);
+			
+            $("#info table").remove();
+            $("#info").append("<table> \
+            <tr><td>Radiation:</td><td>" +parseFloat(radio).toFixed(5)+"</td></tr>\
+            </table>\
+            ");
+            $("#info table").css("font-size", "10px");
+            $("#info").dialog({
+                title : this._selectedEntity.stationData.name,
+                width: 200,
+                height: 150,
+                modal: false,
+                position: {my: "right center", at: "right center", of: "canvas"},
+                show: "slow",
+                beforeClose: function(event, ui) {
+                    $("#info").data("dataSource").selectedEntity = undefined;
+                }
+            });
+            $("#info").data("dataSource", this);
+        }
+    };
+	// Se actualizará la tabla si el tiempo es diferente del inicial
+	HealthAndWealthDataSource.prototype.update = function(time) {
+		//El tiempo en cesium siempre es el juliano, que es el que hemos predefinido como inicial en la variable _year
+		var currentYear = time;
+		//console.log(window.displayYear);
 
+        if (currentYear !== this._year){
+            
+            this._year = currentYear;
+			
+            this._setInfoDialog(time);
+        }
 
+        return true;
+    };
+	
+	
+	
+	
+	
     $("body").css("background-color", "black");
+	
 
 
 
@@ -284,24 +328,7 @@
         Cesium.ScreenSpaceEventType.LEFT_CLICK
     );
 
-    // Response to a nation's mouseover event
-    sharedObject.dispatch.on("nationMouseover.cesium", function(nationObject) {
 
-        $("#info table").remove();
-        $("#info").append("<table> \
-        <tr><td>Radiation:</td><td>" +parseFloat(nationObject.radio[0][1]).toFixed(5)+"</td></tr>\
-        </table>\
-        ");
-        $("#info table").css("font-size", "10px");
-        $("#info").dialog({
-            title : nationObject.name,
-            width: 200,
-            height: 150,
-            modal: false,
-            position: {my: "right center", at: "right center", of: "canvas"},
-            show: "slow"
-        });
-      });
 
 	  
 	 
