@@ -222,8 +222,8 @@
             $("#info table").css("font-size", "10px");
             $("#info").dialog({
                 title : this._selectedEntity.stationData.name,
-                width: 200,
-                height: 150,
+                width: 250,
+                height: 100,
                 modal: false,
                 position: {my: "right center", at: "right center", of: "canvas"},
                 show: "slow",
@@ -235,18 +235,13 @@
         }
     };
 	// Se actualizará la tabla si el tiempo es diferente del inicial
+	
 	HealthAndWealthDataSource.prototype.update = function(time) {
 		//El tiempo en cesium siempre es el juliano, que es el que hemos predefinido como inicial en la variable _year
-		var currentYear = time;
-		//console.log(window.displayYear);
 
-        if (currentYear !== this._year){
-            
-            this._year = currentYear;
-			
+        if (time !== this._year ){
             this._setInfoDialog(time);
         }
-
         return true;
     };
 	
@@ -268,20 +263,23 @@
     var stamenTonerImagery = viewer.baseLayerPicker.viewModel.imageryProviderViewModels[8];
     viewer.baseLayerPicker.viewModel.selectedImagery = stamenTonerImagery;
 
-    // setup clockview model
 
-    // viewer.animation.viewModel.dateFormatter = function(date, viewModel) {
-        // Cesium.JulianDate.toGregorianDate(date, gregorianDate);
-        // return 'Year: ' + gregorianDate.year;
-    // };
-    // viewer.animation.viewModel.timeFormatter = function(date, viewModel) {
-        // return '';
-    // };
     viewer.scene.skyBox.show = false;
     viewer.scene.sun.show = false;
     viewer.scene.moon.show = false;
+	//viewer.zoomTo(viewer.entities);
+	
 
-    viewer.scene.morphToColumbusView(5.0)
+	//Colocamos unas coordenadas aproximadas a nuestros datos
+    viewer.camera.flyTo({
+        destination : Cesium.Cartesian3.fromDegrees(10.2, 43.2, 1000000.0),
+        orientation : {
+            heading : Cesium.Math.toRadians(0.0),
+            pitch : Cesium.Math.toRadians(-55.0),
+            roll : 0.0
+        }
+    });
+
 
     var healthAndWealth = new HealthAndWealthDataSource();
     healthAndWealth.loadUrl('radiologic.json');
@@ -328,16 +326,14 @@
         Cesium.ScreenSpaceEventType.LEFT_CLICK
     );
 
-
-
 	  
 	 
-    // define functionality for flying to a nation
-    // this callback is triggered when a nation is clicked
+    // define functionality for flying to a station
+    // this callback is triggered when a station is clicked
     sharedObject.flyTo = function(stationData) {
         var ellipsoid = viewer.scene.globe.ellipsoid;
 
-        var destination = Cesium.Cartographic.fromDegrees(stationData.lon, stationData.lat - 5.0, 10000000.0);
+        var destination = Cesium.Cartographic.fromDegrees(stationData.lon, stationData.lat-0.1, 1000000.0);
         var destCartesian = ellipsoid.cartographicToCartesian(destination);
         destination = ellipsoid.cartesianToCartographic(destCartesian);
 
