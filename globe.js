@@ -2,7 +2,7 @@
 
 (function() {
     "use strict";
-    var yearPerSec = 86400*365;
+    var yearPerSec = 86400;
     var gregorianDate = new Cesium.GregorianDate();
     var cartesian3Scratch = new Cesium.Cartesian3();
 
@@ -11,19 +11,19 @@
         this._name = "Health and Wealth";
         this._entityCollection = new Cesium.EntityCollection();
         this._clock = new Cesium.DataSourceClock();
-        this._clock.startTime = Cesium.JulianDate.fromIso8601("1800-01-02");
-        this._clock.stopTime = Cesium.JulianDate.fromIso8601("2009-01-02");
-        this._clock.currentTime = Cesium.JulianDate.fromIso8601("1800-01-02");
+        this._clock.startTime = Cesium.JulianDate.fromIso8601("2015-10-12");
+        this._clock.stopTime = Cesium.JulianDate.fromIso8601("2015-10-16");
+        this._clock.currentTime = Cesium.JulianDate.fromIso8601("2015-10-12");
         this._clock.clockRange = Cesium.ClockRange.LOOP_STOP;
         this._clock.clockStep = Cesium.ClockStep.SYSTEM_CLOCK_MULTIPLIER;
-        this._clock.multiplier = yearPerSec * 5;
+        this._clock.multiplier = yearPerSec/5;
         this._changed = new Cesium.Event();
         this._error = new Cesium.Event();
         this._isLoading = false;
         this._loading = new Cesium.Event();
         this._year = 1800;
 /* 
-        this._populationScale = d3.scale.linear().domain([0, 5e8]).range([0, 10000000.0]); */
+        this._radioScale = d3.scale.linear().domain([0, 5e8]).range([0, 10000000.0]); */
         this._colorScale = d3.scale.category20c();
         this._selectedEntity = undefined;
     };
@@ -134,50 +134,45 @@
         entities.suspendEvents();
         entities.removeAll();
 
-        // for each nation defined in nations_geo.json, create a polyline at that lat, lon
+        // for each station defined in stations_geo.json, create a polyline at that lat, lon
         for (var i = 0; i < data.length; i++){
-            var nation = data[i];
-            var surfacePosition = Cesium.Cartesian3.fromDegrees(nation.lon, nation.lat, 0.0);
+            var station = data[i];
+            var surfacePosition = Cesium.Cartesian3.fromDegrees(station.lon, station.lat, 0.0);
 
          
 
 
             // Construct Population related Properties
-			var population1 = new Cesium.SampledPositionProperty();
-            var sampledPopulation = new Cesium.SampledProperty(Number);
-			var heightPosition = Cesium.Cartesian3.fromDegrees(nation.lon, nation.lat, nation.population[0][1]/10);
-            population1.addSample(Cesium.JulianDate.fromIso8601("1799"), heightPosition);
+			var radiation1 = new Cesium.SampledPositionProperty();
+            var sampledRadiation = new Cesium.SampledProperty(Number);
+			var heightPosition = Cesium.Cartesian3.fromDegrees(station.lon, station.lat, station.radio[0][1]*1000000);
 
-            sampledPopulation.addSample(Cesium.JulianDate.fromIso8601("1799"), nation.population[0][1]);
-            var population = 0.0;
-            for (var j = 0; j < nation.population.length; j++) {
-                var year = nation.population[j][0];
-                population = nation.population[j][1];
-				heightPosition = Cesium.Cartesian3.fromDegrees(nation.lon, nation.lat, population/10);
+            var radio = 0.0;
+            for (var j = 0; j < station.radio.length; j++) {
+                var year = station.radio[j][0];
+                radio = station.radio[j][1];
+				heightPosition = Cesium.Cartesian3.fromDegrees(station.lon, station.lat, radio*1000000);
 				
-				
-				
-                population1.addSample(Cesium.JulianDate.fromIso8601(year), heightPosition);
-                sampledPopulation.addSample(Cesium.JulianDate.fromIso8601(year), population);
+                radiation1.addSample(Cesium.JulianDate.fromIso8601(year), heightPosition);
+                sampledRadiation.addSample(Cesium.JulianDate.fromIso8601(year), radio);
             }
-			population1.addSample(Cesium.JulianDate.fromIso8601("2010"), surfacePosition);
-            sampledPopulation.addSample(Cesium.JulianDate.fromIso8601("2010"), population);
+
 
             var polyline = new Cesium.PolylineGraphics();
             polyline.show = new Cesium.ConstantProperty(true);
 			
 			// CAMBIO DE COLOR
             var outlineMaterial = new Cesium.PolylineOutlineMaterialProperty();
-            outlineMaterial.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString(this._colorScale(nation.population[0][1]))); // Hay que poner rangos
+            outlineMaterial.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString(this._colorScale(station.radio[0][1]))); // Hay que poner rangos
             outlineMaterial.outlineColor = new Cesium.ConstantProperty(new Cesium.Color(0.0, 0.0, 0.0, 1.0));
             outlineMaterial.outlineWidth = new Cesium.ConstantProperty(3.0);
             polyline.material = outlineMaterial;
             polyline.width = 5.0;
             polyline.followSurface = new Cesium.ConstantProperty(false);
 
-            var entity = new Cesium.Entity(nation.name);
+            var entity = new Cesium.Entity(station.name);
             entity.polyline = polyline;
-            polyline.positions = new Cesium.PositionPropertyArray([new Cesium.ConstantPositionProperty(surfacePosition), population1]);
+            polyline.positions = new Cesium.PositionPropertyArray([new Cesium.ConstantPositionProperty(surfacePosition), radiation1]);
 
 			
 			
@@ -186,13 +181,13 @@
 
             entity.addProperty('surfacePosition');
             entity.surfacePosition = surfacePosition;
-            entity.addProperty('nationData'); // CAMBIAR NATIONDATA POR ESTACION
-            entity.nationData = nation;
+            entity.addProperty('stationData'); // CAMBIAR NATIONDATA POR ESTACION
+            entity.stationData = station;
 
 
 
-            entity.addProperty('population');
-            entity.population = sampledPopulation;
+            entity.addProperty('radio');
+            entity.radio = sampledRadiation;
 
 
             //Add the entity to the collection.
@@ -230,13 +225,13 @@
 
     // setup clockview model
 
-    viewer.animation.viewModel.dateFormatter = function(date, viewModel) {
-        Cesium.JulianDate.toGregorianDate(date, gregorianDate);
-        return 'Year: ' + gregorianDate.year;
-    };
-    viewer.animation.viewModel.timeFormatter = function(date, viewModel) {
-        return '';
-    };
+    // viewer.animation.viewModel.dateFormatter = function(date, viewModel) {
+        // Cesium.JulianDate.toGregorianDate(date, gregorianDate);
+        // return 'Year: ' + gregorianDate.year;
+    // };
+    // viewer.animation.viewModel.timeFormatter = function(date, viewModel) {
+        // return '';
+    // };
     viewer.scene.skyBox.show = false;
     viewer.scene.sun.show = false;
     viewer.scene.moon.show = false;
@@ -244,7 +239,7 @@
     viewer.scene.morphToColumbusView(5.0)
 
     var healthAndWealth = new HealthAndWealthDataSource();
-    healthAndWealth.loadUrl('nations_geo.json');
+    healthAndWealth.loadUrl('radiologic.json');
     viewer.dataSources.add(healthAndWealth);
 
 	
@@ -267,8 +262,8 @@
         function (movement) {
             var pickedObject = viewer.scene.pick(movement.endPosition);
             if (Cesium.defined(pickedObject) && Cesium.defined(pickedObject.id)) {
-                if (Cesium.defined(pickedObject.id.nationData)) {
-                    sharedObject.dispatch.nationMouseover(pickedObject.id.nationData, pickedObject);
+                if (Cesium.defined(pickedObject.id.stationData)) {
+                    sharedObject.dispatch.stationMouseover(pickedObject.id.stationData, pickedObject);
                     healthAndWealth.selectedEntity = pickedObject.id;
                 }
             }
@@ -282,23 +277,23 @@
             var pickedObject = viewer.scene.pick(movement.position);
 
             if (Cesium.defined(pickedObject) && Cesium.defined(pickedObject.id)) {
-                sharedObject.flyTo(pickedObject.id.nationData);
+                sharedObject.flyTo(pickedObject.id.stationData);
             }
         },
         Cesium.ScreenSpaceEventType.LEFT_CLICK
     );
 
-    // Response to a nation's mouseover event
-    sharedObject.dispatch.on("nationMouseover.cesium", function(nationObject) {
+    // Response to a station's mouseover event
+    sharedObject.dispatch.on("stationMouseover.cesium", function(stationObject) {
 
         $("#info table").remove();
         $("#info").append("<table> \
-        <tr><td>Population:</td><td>" +parseFloat(nationObject.population).toFixed(1)+"</td></tr>\
+        <tr><td>Population:</td><td>" +parseFloat(stationObject.radio).toFixed(1)+"</td></tr>\
         </table>\
         ");
         $("#info table").css("font-size", "10px");
         $("#info").dialog({
-            title : nationObject.name,
+            title : stationObject.name,
             width: 200,
             height: 150,
             modal: false,
@@ -309,22 +304,22 @@
 
 	  
 	 
-    // define functionality for flying to a nation
-    // this callback is triggered when a nation is clicked
-    sharedObject.flyTo = function(nationData) {
+    // define functionality for flying to a station
+    // this callback is triggered when a station is clicked
+    sharedObject.flyTo = function(stationData) {
         var ellipsoid = viewer.scene.globe.ellipsoid;
 
-        var destination = Cesium.Cartographic.fromDegrees(nationData.lon, nationData.lat - 5.0, 10000000.0);
-        var destCartesian = ellipsoid.cartographicToCartesian(destination);
-        destination = ellipsoid.cartesianToCartographic(destCartesian);
+        var destistation = Cesium.Cartographic.fromDegrees(stationData.lon, stationData.lat - 5.0, 10000000.0);
+        var destCartesian = ellipsoid.cartographicToCartesian(destistation);
+        destistation = ellipsoid.cartesianToCartographic(destCartesian);
 
         // only fly there if it is not the camera's current position
         if (!ellipsoid
-                   .cartographicToCartesian(destination)
+                   .cartographicToCartesian(destistation)
                    .equalsEpsilon(viewer.scene.camera.positionWC, Cesium.Math.EPSILON6)) {
 
             viewer.scene.camera.flyTo({
-                destination: destCartesian
+                destistation: destCartesian
             });
         }
     };
