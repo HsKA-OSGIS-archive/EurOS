@@ -154,8 +154,11 @@
                 var year = nation.population[j][0];
                 population = nation.population[j][1];
 				heightPosition = Cesium.Cartesian3.fromDegrees(nation.lon, nation.lat, population/10);
-                population1.addSample(Cesium.JulianDate.fromIso8601(year.toString()), heightPosition);
-                sampledPopulation.addSample(Cesium.JulianDate.fromIso8601(year.toString()), population);
+				
+				
+				
+                population1.addSample(Cesium.JulianDate.fromIso8601(year), heightPosition);
+                sampledPopulation.addSample(Cesium.JulianDate.fromIso8601(year), population);
             }
 			population1.addSample(Cesium.JulianDate.fromIso8601("2010"), surfacePosition);
             sampledPopulation.addSample(Cesium.JulianDate.fromIso8601("2010"), population);
@@ -211,9 +214,7 @@
 
 
 
-    $("#radio").buttonset();
-    $("#radio").css("font-size", "12px");
-    $("#radio").css("font-size", "12px");
+
     $("body").css("background-color", "black");
 
 
