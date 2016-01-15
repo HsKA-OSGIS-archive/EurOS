@@ -267,7 +267,6 @@
     viewer.scene.skyBox.show = false;
     viewer.scene.sun.show = false;
     viewer.scene.moon.show = false;
-	//viewer.zoomTo(viewer.entities);
 	
 
 	//Colocamos unas coordenadas aproximadas a nuestros datos
@@ -285,17 +284,6 @@
     healthAndWealth.loadUrl('radiologic.json');
     viewer.dataSources.add(healthAndWealth);
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	
@@ -333,7 +321,7 @@
     sharedObject.flyTo = function(stationData) {
         var ellipsoid = viewer.scene.globe.ellipsoid;
 
-        var destination = Cesium.Cartographic.fromDegrees(stationData.lon, stationData.lat-0.1, 1000000.0);
+        var destination = Cesium.Cartographic.fromDegrees(stationData.lon, stationData.lat-0.5, 100000.0);
         var destCartesian = ellipsoid.cartographicToCartesian(destination);
         destination = ellipsoid.cartesianToCartographic(destCartesian);
 
@@ -343,7 +331,12 @@
                    .equalsEpsilon(viewer.scene.camera.positionWC, Cesium.Math.EPSILON6)) {
 
             viewer.scene.camera.flyTo({
-                destination: destCartesian
+                destination: destCartesian,
+				orientation : {
+					heading : Cesium.Math.toRadians(0.0),
+					pitch : Cesium.Math.toRadians(-55.0),
+					roll : 0.0
+				}
             });
         }
     };
