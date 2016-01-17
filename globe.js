@@ -268,16 +268,31 @@
     viewer.scene.sun.show = false;
     viewer.scene.moon.show = false;
 	
-
-	//Colocamos unas coordenadas aproximadas a nuestros datos
-    viewer.camera.flyTo({
-        destination : Cesium.Cartesian3.fromDegrees(10.2, 43.2, 1000000.0),
-        orientation : {
-            heading : Cesium.Math.toRadians(0.0),
-            pitch : Cesium.Math.toRadians(-55.0),
-            roll : 0.0
-        }
-    });
+	
+	
+	//Le damos funcionalidad al boton home
+	viewer.homeButton.viewModel.command.beforeExecute.addEventListener(function(commandInfo){
+	//Si se pulsa hacemos un flyto
+		FlyTogermany()
+		//Le decimos al botón que no haga nada mas
+		commandInfo.cancel = true;
+	});
+	
+	
+	FlyTogermany();
+	
+	
+	//Creamos la funcion flytogermany q nos llevara a alemania. Colocamos unas coordenadas aproximadas a nuestros datos
+	function FlyTogermany (){
+		viewer.camera.flyTo({
+			destination : Cesium.Cartesian3.fromDegrees(10.2, 43.2, 1000000.0),
+			orientation : {
+				heading : Cesium.Math.toRadians(0.0),
+				pitch : Cesium.Math.toRadians(-55.0),
+				roll : 0.0
+			}
+		});
+	};
 
 
     var healthAndWealth = new HealthAndWealthDataSource();
