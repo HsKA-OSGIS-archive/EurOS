@@ -1,3 +1,7 @@
+setInterval(function(){
+    entity.polygon.material = Cesium.Color.fromRandom({alpha: 1.0});
+}, 2000);
+
 /*global sharedObject, d3*/
 Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTCsqcF7vfEJ4ZzVh3';
 (function() {
@@ -207,11 +211,13 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
             this._loading.raiseEvent(this, isLoading);
         }
     };
+	
 
 
 	//Creamos la tabla que aparecerá cada vez que el tiempo sea diferente a 2015-10-12T01:00:00Z
     HealthAndWealthDataSource.prototype._setInfoDialog = function(time) {
-        if (Cesium.defined(this._selectedEntity)) {
+		
+		if (Cesium.defined(this._selectedEntity)) {
             var radio = this._selectedEntity.radio.getValue(time);
 			
             $("#info table").remove();
@@ -300,6 +306,9 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
     viewer.dataSources.add(healthAndWealth);
 
 	
+	//Seleccionamos el map provider más basico
+	var stamenTonerImagery = viewer.baseLayerPicker.viewModel.imageryProviderViewModels[11];
+    viewer.baseLayerPicker.viewModel.selectedImagery = stamenTonerImagery;
 	
 	
     // If the mouse is over the billboard, change its scale and color
