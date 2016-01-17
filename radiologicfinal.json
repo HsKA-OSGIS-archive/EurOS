@@ -424,7 +424,7 @@
 	0.114778112190735]]
 },
 {
-	"name:" "Aalen-ST-Unterkochen",
+	"name": "Aalen-ST-Unterkochen",
 	"lon": 10.119,
 	"lat": 48.825,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -779,7 +779,7 @@
 	0.064593899604958]]
 },
 {
-	"name:" "Abenberg",
+	"name": "Abenberg",
 	"lon": 10.975,
 	"lat": 49.239,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -1292,7 +1292,7 @@
 	0.104597948396685]]
 },
 {
-	"name:" "Abtsdorf",
+	"name": "Abtsdorf",
 	"lon": 12.915,
 	"lat": 47.908,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -1755,7 +1755,7 @@
 	0.0869093640867472]]
 },
 {
-	"name:" "Achern-OT-Gamshurst",
+	"name": "Achern-OT-Gamshurst",
 	"lon": 8.023,
 	"lat": 48.657,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -2144,7 +2144,7 @@
 	0.113028666336161]]
 },
 {
-	"name:" "Adelsheim-ST-Leibenstadt",
+	"name": "Adelsheim-ST-Leibenstadt",
 	"lon": 9.419,
 	"lat": 49.370,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -2527,7 +2527,7 @@
 	0.123684875667095]]
 },
 {
-	"name:" "Adelshofen",
+	"name": "Adelshofen",
 	"lon": 10.174,
 	"lat": 49.441,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -2950,7 +2950,7 @@
 	0.115084319027241]]
 },
 {
-	"name:" "Adlkofen",
+	"name": "Adlkofen",
 	"lon": 12.261,
 	"lat": 48.548,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -3193,7 +3193,7 @@
 	0.109148971736431]]
 },
 {
-	"name:" "Adorf",
+	"name": "Adorf",
 	"lon": 12.293,
 	"lat": 50.330,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -3772,7 +3772,7 @@
 	0.13936158486503]]
 },
 {
-	"name:" "Aerzen/Gr.Berkel",
+	"name": "Aerzen/Gr.Berkel",
 	"lon": 9.328,
 	"lat": 52.062,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -4127,7 +4127,7 @@
 	0.102241516113281]]
 },
 {
-	"name:" "Aerzen/Königsförde",
+	"name": "Aerzen/Königsförde",
 	"lon": 9.273,
 	"lat": 52.065,
 	"radio": [["2015-10-12T03:40:00Z",
@@ -4266,7 +4266,7 @@
 	0.100382862243773]]
 },
 {
-	"name:" "Aglasterhausen-OT-Breit.",
+	"name": "Aglasterhausen-OT-Breit.",
 	"lon": 9.025,
 	"lat": 49.366,
 	"radio": [["2015-10-12T22:40:00Z",
@@ -4293,7 +4293,7 @@
 	0.126880645751953]]
 },
 {
-	"name:" "Ahaus-Alstätte",
+	"name": "Ahaus-Alstätte",
 	"lon": 6.911,
 	"lat": 52.131,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -4664,7 +4664,7 @@
 	0.0672931671142578]]
 },
 {
-	"name:" "Ahaus-Ottenstein",
+	"name": "Ahaus-Ottenstein",
 	"lon": 6.932,
 	"lat": 52.040,
 	"radio": [["2015-10-12T01:50:00Z",
@@ -4781,7 +4781,7 @@
 	0.079767219722271]]
 },
 {
-	"name:" "Ahaus-Wessum",
+	"name": "Ahaus-Wessum",
 	"lon": 6.941,
 	"lat": 52.081,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -5200,7 +5200,7 @@
 	0.0794535287773028]]
 },
 {
-	"name:" "Ahlbeck",
+	"name": "Ahlbeck",
 	"lon": 14.189,
 	"lat": 53.672,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -5615,7 +5615,7 @@
 	0.0576263741649201]]
 },
 {
-	"name:" "Ahlen-Tönnishäuschen",
+	"name": "Ahlen-Tönnishäuschen",
 	"lon": 7.883,
 	"lat": 51.813,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -6054,7 +6054,7 @@
 	0.0759092323027435]]
 },
 {
-	"name:" "Ahnsbeck",
+	"name": "Ahnsbeck",
 	"lon": 10.289,
 	"lat": 52.608,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -6477,7 +6477,7 @@
 	0.0653125048245545]]
 },
 {
-	"name:" "Ahrensbök",
+	"name": "Ahrensbök",
 	"lon": 10.566,
 	"lat": 54.005,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -6686,7 +6686,7 @@
 	0.0847006381243026]]
 },
 {
-	"name:" "Ahrensfelde",
+	"name": "Ahrensfelde",
 	"lon": 13.581,
 	"lat": 52.597,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -7175,7 +7175,7 @@
 	0.1024391362469]]
 },
 {
-	"name:" "Aitrach",
+	"name": "Aitrach",
 	"lon": 10.087,
 	"lat": 47.939,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -7702,7 +7702,7 @@
 	0.0922551549685136]]
 },
 {
-	"name:" "Albbruck-OT-Unteralpfen",
+	"name": "Albbruck-OT-Unteralpfen",
 	"lon": 8.132,
 	"lat": 47.653,
 	"radio": [["2015-10-12T09:50:00Z",
@@ -7757,7 +7757,7 @@
 	0.135231003165245]]
 },
 {
-	"name:" "Albstadt-ST-Ebingen",
+	"name": "Albstadt-ST-Ebingen",
 	"lon": 8.998,
 	"lat": 48.214,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -8090,7 +8090,7 @@
 	0.0983258363781224]]
 },
 {
-	"name:" "Alburg",
+	"name": "Alburg",
 	"lon": 12.540,
 	"lat": 48.865,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -8611,7 +8611,7 @@
 	0.107783883739921]]
 },
 {
-	"name:" "Alfeld-Wispenstein",
+	"name": "Alfeld-Wispenstein",
 	"lon": 9.844,
 	"lat": 51.948,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -9036,7 +9036,7 @@
 	0.0938009302571701]]
 },
 {
-	"name:" "Allershausen",
+	"name": "Allershausen",
 	"lon": 11.604,
 	"lat": 48.442,
 	"radio": [["2015-10-12T01:10:00Z",
@@ -9341,7 +9341,7 @@
 	0.0783764058414087]]
 },
 {
-	"name:" "Alpirsbach",
+	"name": "Alpirsbach",
 	"lon": 8.395,
 	"lat": 48.345,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -9636,7 +9636,7 @@
 	0.143767174989362]]
 },
 {
-	"name:" "Alsbach-Hähnlein",
+	"name": "Alsbach-Hähnlein",
 	"lon": 8.617,
 	"lat": 49.737,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -10075,7 +10075,7 @@
 	0.107478313040146]]
 },
 {
-	"name:" "Alsdorf-Zopp",
+	"name": "Alsdorf-Zopp",
 	"lon": 6.141,
 	"lat": 50.868,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -10530,7 +10530,7 @@
 	0.117652439689201]]
 },
 {
-	"name:" "Alsfeld",
+	"name": "Alsfeld",
 	"lon": 9.245,
 	"lat": 50.722,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -10997,7 +10997,7 @@
 	0.125361835728984]]
 },
 {
-	"name:" "Alsheim",
+	"name": "Alsheim",
 	"lon": 8.337,
 	"lat": 49.761,
 	"radio": [["2015-10-12T08:20:00Z",
@@ -11100,7 +11100,7 @@
 	0.106365218758583]]
 },
 {
-	"name:" "Alt-Zeschdorf",
+	"name": "Alt-Zeschdorf",
 	"lon": 14.444,
 	"lat": 52.424,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -11455,7 +11455,7 @@
 	0.0680156465273361]]
 },
 {
-	"name:" "Altenahr-Altenburg",
+	"name": "Altenahr-Altenburg",
 	"lon": 6.990,
 	"lat": 50.509,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -11482,7 +11482,7 @@
 	0.102860443294048]]
 },
 {
-	"name:" "Altenberg-OT-Georgenfeld",
+	"name": "Altenberg-OT-Georgenfeld",
 	"lon": 13.751,
 	"lat": 50.731,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -12103,7 +12103,7 @@
 	0.185501181906017]]
 },
 {
-	"name:" "Altenberge",
+	"name": "Altenberge",
 	"lon": 7.467,
 	"lat": 52.051,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -12338,7 +12338,7 @@
 	0.0900757762296616]]
 },
 {
-	"name:" "Altenfeld",
+	"name": "Altenfeld",
 	"lon": 10.957,
 	"lat": 50.564,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -12825,7 +12825,7 @@
 	0.155511854414979]]
 },
 {
-	"name:" "Altenglan-Mühlbach",
+	"name": "Altenglan-Mühlbach",
 	"lon": 7.462,
 	"lat": 49.540,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -12996,7 +12996,7 @@
 	0.142280252415971]]
 },
 {
-	"name:" "Altenhof",
+	"name": "Altenhof",
 	"lon": 13.728,
 	"lat": 52.921,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -13489,7 +13489,7 @@
 	0.0924636972361842]]
 },
 {
-	"name:" "Altenstadt",
+	"name": "Altenstadt",
 	"lon": 8.950,
 	"lat": 50.290,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -13916,7 +13916,7 @@
 	0.124031984440373]]
 },
 {
-	"name:" "Altentreptow",
+	"name": "Altentreptow",
 	"lon": 13.240,
 	"lat": 53.683,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -14307,7 +14307,7 @@
 	0.0725135505944738]]
 },
 {
-	"name:" "Altshausen",
+	"name": "Altshausen",
 	"lon": 9.533,
 	"lat": 47.938,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -14786,7 +14786,7 @@
 	0.0821803347838666]]
 },
 {
-	"name:" "Altusried",
+	"name": "Altusried",
 	"lon": 10.209,
 	"lat": 47.803,
 	"radio": [["2015-10-12T02:30:00Z",
@@ -15063,7 +15063,7 @@
 	0.0996620985637637]]
 },
 {
-	"name:" "Alzey",
+	"name": "Alzey",
 	"lon": 8.123,
 	"lat": 49.741,
 	"radio": [["2015-10-12T05:40:00Z",
@@ -15152,7 +15152,7 @@
 	0.138839721679688]]
 },
 {
-	"name:" "Andernach",
+	"name": "Andernach",
 	"lon": 7.421,
 	"lat": 50.424,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -15549,7 +15549,7 @@
 	0.148295024210532]]
 },
 {
-	"name:" "Angern",
+	"name": "Angern",
 	"lon": 11.724,
 	"lat": 52.362,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -15922,7 +15922,7 @@
 	0.0805367599944071]]
 },
 {
-	"name:" "Anklam",
+	"name": "Anklam",
 	"lon": 13.680,
 	"lat": 53.829,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -16317,7 +16317,7 @@
 	0.0710736347633461]]
 },
 {
-	"name:" "Ansbach",
+	"name": "Ansbach",
 	"lon": 10.566,
 	"lat": 49.319,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -16770,7 +16770,7 @@
 	0.108727930434003]]
 },
 {
-	"name:" "Apolda",
+	"name": "Apolda",
 	"lon": 11.510,
 	"lat": 51.018,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -17301,7 +17301,7 @@
 	0.100895761079391]]
 },
 {
-	"name:" "Arendsee",
+	"name": "Arendsee",
 	"lon": 11.501,
 	"lat": 52.877,
 	"radio": [["2015-10-13T06:00:00Z",
@@ -17354,7 +17354,7 @@
 	0.0798711851239205]]
 },
 {
-	"name:" "Arnsberg-Neheim",
+	"name": "Arnsberg-Neheim",
 	"lon": 7.978,
 	"lat": 51.463,
 	"radio": [["2015-10-12T01:00:00Z",
@@ -17475,7 +17475,7 @@
 	0.0921545333197978]]
 },
 {
-	"name:" "Arnschwang",
+	"name": "Arnschwang",
 	"lon": 12.805,
 	"lat": 49.274,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -17998,7 +17998,7 @@
 	0.10901373082949]]
 },
 {
-	"name:" "Artern",
+	"name": "Artern",
 	"lon": 11.292,
 	"lat": 51.375,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -18197,7 +18197,7 @@
 	0.129169533615536]]
 },
 {
-	"name:" "Asch",
+	"name": "Asch",
 	"lon": 12.470,
 	"lat": 49.864,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -18680,7 +18680,7 @@
 	0.136264997468102]]
 },
 {
-	"name:" "Aschau-A.Inn",
+	"name": "Aschau-A.Inn",
 	"lon": 12.350,
 	"lat": 48.195,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -18995,7 +18995,7 @@
 	0.110973206154046]]
 },
 {
-	"name:" "Ascheberg",
+	"name": "Ascheberg",
 	"lon": 7.625,
 	"lat": 51.788,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -19386,7 +19386,7 @@
 	0.0727174478019697]]
 },
 {
-	"name:" "Ascheffel",
+	"name": "Ascheffel",
 	"lon": 9.697,
 	"lat": 54.435,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -19747,7 +19747,7 @@
 	0.0732632992042455]]
 },
 {
-	"name:" "Aschersleben",
+	"name": "Aschersleben",
 	"lon": 11.493,
 	"lat": 51.757,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -19976,7 +19976,7 @@
 	0.115804890285749]]
 },
 {
-	"name:" "Asperg",
+	"name": "Asperg",
 	"lon": 9.135,
 	"lat": 48.900,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -20251,7 +20251,7 @@
 	0.125059524378679]]
 },
 {
-	"name:" "Aßlar",
+	"name": "Aßlar",
 	"lon": 8.446,
 	"lat": 50.598,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -20466,7 +20466,7 @@
 	0.112066266264737]]
 },
 {
-	"name:" "Ateritz",
+	"name": "Ateritz",
 	"lon": 12.618,
 	"lat": 51.719,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -20639,7 +20639,7 @@
 	0.0966791749654283]]
 },
 {
-	"name:" "Au-Am-Rhein",
+	"name": "Au-Am-Rhein",
 	"lon": 8.233,
 	"lat": 48.951,
 	"radio": [["2015-10-12T15:20:00Z",
@@ -20680,7 +20680,7 @@
 	0.0813245847821236]]
 },
 {
-	"name:" "Augsburg",
+	"name": "Augsburg",
 	"lon": 10.838,
 	"lat": 48.382,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -20973,7 +20973,7 @@
 	0.0991196670440064]]
 },
 {
-	"name:" "Aurich",
+	"name": "Aurich",
 	"lon": 7.500,
 	"lat": 53.468,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -21338,7 +21338,7 @@
 	0.0716910175833633]]
 },
 {
-	"name:" "Aurich-Middels",
+	"name": "Aurich-Middels",
 	"lon": 7.616,
 	"lat": 53.538,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -21725,7 +21725,7 @@
 	0.0690643879689462]]
 },
 {
-	"name:" "Auw-Bei-Prüm",
+	"name": "Auw-Bei-Prüm",
 	"lon": 6.341,
 	"lat": 50.303,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -22110,7 +22110,7 @@
 	0.123520672415102]]
 },
 {
-	"name:" "Averlak",
+	"name": "Averlak",
 	"lon": 9.188,
 	"lat": 53.938,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -22133,7 +22133,7 @@
 	0.0783243179321289]]
 },
 {
-	"name:" "Baar-Schwaben",
+	"name": "Baar-Schwaben",
 	"lon": 10.963,
 	"lat": 48.590,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -22664,7 +22664,7 @@
 	0.0739556354714129]]
 },
 {
-	"name:" "Backnang",
+	"name": "Backnang",
 	"lon": 9.446,
 	"lat": 48.954,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -22713,7 +22713,7 @@
 	0.0981187415153273]]
 },
 {
-	"name:" "Bad-Abbach",
+	"name": "Bad-Abbach",
 	"lon": 12.049,
 	"lat": 48.938,
 	"radio": [["2015-10-12T01:30:00Z",
@@ -22866,7 +22866,7 @@
 	0.0873238887841817]]
 },
 {
-	"name:" "Bad-Arolsen",
+	"name": "Bad-Arolsen",
 	"lon": 9.003,
 	"lat": 51.378,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -23315,7 +23315,7 @@
 	0.112821217298928]]
 },
 {
-	"name:" "Bad-Bellingen",
+	"name": "Bad-Bellingen",
 	"lon": 7.549,
 	"lat": 47.743,
 	"radio": [["2015-10-12T09:30:00Z",
@@ -23324,7 +23324,7 @@
 	0.0806951522827148]]
 },
 {
-	"name:" "Bad-Bentheim",
+	"name": "Bad-Bentheim",
 	"lon": 7.165,
 	"lat": 52.318,
 	"radio": [["2015-10-12T04:00:00Z",
@@ -23445,7 +23445,7 @@
 	0.0724126615556995]]
 },
 {
-	"name:" "Bad-Bentheim-Bardel",
+	"name": "Bad-Bentheim-Bardel",
 	"lon": 7.045,
 	"lat": 52.266,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -23614,7 +23614,7 @@
 	0.078581310551041]]
 },
 {
-	"name:" "Bad-Berleburg-Wemlighausen",
+	"name": "Bad-Berleburg-Wemlighausen",
 	"lon": 8.415,
 	"lat": 51.076,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -23883,7 +23883,7 @@
 	0.113658497791976]]
 },
 {
-	"name:" "Bad-Bevensen-OT-Medingen",
+	"name": "Bad-Bevensen-OT-Medingen",
 	"lon": 10.572,
 	"lat": 53.091,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -24130,7 +24130,7 @@
 	0.0626417565252161]]
 },
 {
-	"name:" "Bad-Birnbach",
+	"name": "Bad-Birnbach",
 	"lon": 13.093,
 	"lat": 48.451,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -24651,7 +24651,7 @@
 	0.0970797812891681]]
 },
 {
-	"name:" "Bad-Brückenau-OT-Volkers",
+	"name": "Bad-Brückenau-OT-Volkers",
 	"lon": 9.771,
 	"lat": 50.323,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -25092,7 +25092,7 @@
 	0.101382744601562]]
 },
 {
-	"name:" "Bad-Buchau",
+	"name": "Bad-Buchau",
 	"lon": 9.610,
 	"lat": 48.061,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -25467,7 +25467,7 @@
 	0.0824973495040282]]
 },
 {
-	"name:" "Bad-Camberg",
+	"name": "Bad-Camberg",
 	"lon": 8.266,
 	"lat": 50.299,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -25666,7 +25666,7 @@
 	0.142193763529118]]
 },
 {
-	"name:" "Bad-Doberan",
+	"name": "Bad-Doberan",
 	"lon": 11.870,
 	"lat": 54.126,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -25841,7 +25841,7 @@
 	0.0757851130240502]]
 },
 {
-	"name:" "Bad-Driburg",
+	"name": "Bad-Driburg",
 	"lon": 9.011,
 	"lat": 51.741,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -26168,7 +26168,7 @@
 	0.106139522573831]]
 },
 {
-	"name:" "Bad-Dürkheim",
+	"name": "Bad-Dürkheim",
 	"lon": 8.186,
 	"lat": 49.467,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -26507,7 +26507,7 @@
 	0.0872167871453153]]
 },
 {
-	"name:" "Bad-Essen",
+	"name": "Bad-Essen",
 	"lon": 8.340,
 	"lat": 52.317,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -26722,7 +26722,7 @@
 	0.111242159672666]]
 },
 {
-	"name:" "Bad-Füssing-OT-Egglfing",
+	"name": "Bad-Füssing-OT-Egglfing",
 	"lon": 13.313,
 	"lat": 48.336,
 	"radio": [["2015-10-12T01:50:00Z",
@@ -26807,7 +26807,7 @@
 	0.0934093279928769]]
 },
 {
-	"name:" "Bad-Gandersheim",
+	"name": "Bad-Gandersheim",
 	"lon": 10.003,
 	"lat": 51.876,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -27252,7 +27252,7 @@
 	0.115293338150853]]
 },
 {
-	"name:" "Bad-Gottleuba-OT-Oelsen",
+	"name": "Bad-Gottleuba-OT-Oelsen",
 	"lon": 13.931,
 	"lat": 50.814,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -27703,7 +27703,7 @@
 	0.130714560930783]]
 },
 {
-	"name:" "Bad-Hersfeld",
+	"name": "Bad-Hersfeld",
 	"lon": 9.738,
 	"lat": 50.852,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -27914,7 +27914,7 @@
 	0.104907446507081]]
 },
 {
-	"name:" "Bad-Hindelang-OT-Bad-Oberdorf",
+	"name": "Bad-Hindelang-OT-Bad-Oberdorf",
 	"lon": 10.390,
 	"lat": 47.494,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -28279,7 +28279,7 @@
 	0.125093853130195]]
 },
 {
-	"name:" "Bad-Honnef",
+	"name": "Bad-Honnef",
 	"lon": 7.216,
 	"lat": 50.631,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -28752,7 +28752,7 @@
 	0.103275230311611]]
 },
 {
-	"name:" "Bad-Iburg-Scheventorf",
+	"name": "Bad-Iburg-Scheventorf",
 	"lon": 8.045,
 	"lat": 52.142,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -28935,7 +28935,7 @@
 	0.076516110918972]]
 },
 {
-	"name:" "Bad-Kissingen-OT-Arnshausen",
+	"name": "Bad-Kissingen-OT-Arnshausen",
 	"lon": 10.083,
 	"lat": 50.169,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -29414,7 +29414,7 @@
 	0.0939559936523438]]
 },
 {
-	"name:" "Bad-Kleinen",
+	"name": "Bad-Kleinen",
 	"lon": 11.462,
 	"lat": 53.772,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -29803,7 +29803,7 @@
 	0.114260379810872]]
 },
 {
-	"name:" "Bad-Königshofen-OT-Untereßfeld",
+	"name": "Bad-Königshofen-OT-Untereßfeld",
 	"lon": 10.535,
 	"lat": 50.271,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -30166,7 +30166,7 @@
 	0.122180701023187]]
 },
 {
-	"name:" "Bad-Krozingen-OT-Hausen-A.d.M.",
+	"name": "Bad-Krozingen-OT-Hausen-A.d.M.",
 	"lon": 7.649,
 	"lat": 47.952,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -30335,7 +30335,7 @@
 	0.108299841804292]]
 },
 {
-	"name:" "Bad-Langensalza",
+	"name": "Bad-Langensalza",
 	"lon": 10.640,
 	"lat": 51.113,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -30662,7 +30662,7 @@
 	0.117244049688698]]
 },
 {
-	"name:" "Bad-Lauterberg-Im-Harz",
+	"name": "Bad-Lauterberg-Im-Harz",
 	"lon": 10.471,
 	"lat": 51.630,
 	"radio": [["2015-10-12T00:50:00Z",
@@ -30793,7 +30793,7 @@
 	0.122050813466186]]
 },
 {
-	"name:" "Bad-Liebenwerda",
+	"name": "Bad-Liebenwerda",
 	"lon": 13.394,
 	"lat": 51.528,
 	"radio": [["2015-10-15T00:50:00Z",
@@ -30802,7 +30802,7 @@
 	0.0778083801269531]]
 },
 {
-	"name:" "Bad-Lippspringe",
+	"name": "Bad-Lippspringe",
 	"lon": 8.839,
 	"lat": 51.785,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -31143,7 +31143,7 @@
 	0.0634626486325827]]
 },
 {
-	"name:" "Bad-Marienberg",
+	"name": "Bad-Marienberg",
 	"lon": 7.960,
 	"lat": 50.662,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -31538,7 +31538,7 @@
 	0.0888668224032715]]
 },
 {
-	"name:" "Bad-Mergentheim-ST-Herbsthausen",
+	"name": "Bad-Mergentheim-ST-Herbsthausen",
 	"lon": 9.833,
 	"lat": 49.409,
 	"radio": [["2015-10-12T01:50:00Z",
@@ -31599,14 +31599,14 @@
 	0.11549813134429]]
 },
 {
-	"name:" "Bad-Münder-OT-Beber",
+	"name": "Bad-Münder-OT-Beber",
 	"lon": 9.384,
 	"lat": 52.227,
 	"radio": [["2015-10-14T17:20:00Z",
 	0.0799741744995117]]
 },
 {
-	"name:" "Bad-Muskau-OT-Köbeln",
+	"name": "Bad-Muskau-OT-Köbeln",
 	"lon": 14.702,
 	"lat": 51.566,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -31717,7 +31717,7 @@
 	0.0628738742458213]]
 },
 {
-	"name:" "Bad-Oeynhausen-Wulferd.",
+	"name": "Bad-Oeynhausen-Wulferd.",
 	"lon": 8.747,
 	"lat": 52.257,
 	"radio": [["2015-10-12T07:40:00Z",
@@ -31762,7 +31762,7 @@
 	0.124044408053599]]
 },
 {
-	"name:" "Bad-Peterstal-Grießbach",
+	"name": "Bad-Peterstal-Grießbach",
 	"lon": 8.212,
 	"lat": 48.425,
 	"radio": [["2015-10-12T01:30:00Z",
@@ -31939,7 +31939,7 @@
 	0.11549615375142]]
 },
 {
-	"name:" "Bad-Pyrmont",
+	"name": "Bad-Pyrmont",
 	"lon": 9.297,
 	"lat": 51.971,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -32162,7 +32162,7 @@
 	0.0958596099941605]]
 },
 {
-	"name:" "Bad-Rappenau",
+	"name": "Bad-Rappenau",
 	"lon": 9.105,
 	"lat": 49.243,
 	"radio": [["2015-10-14T02:50:00Z",
@@ -32175,7 +32175,7 @@
 	0.109561927616596]]
 },
 {
-	"name:" "Bad-Reichenhall",
+	"name": "Bad-Reichenhall",
 	"lon": 12.861,
 	"lat": 47.727,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -32268,7 +32268,7 @@
 	0.125828585325474]]
 },
 {
-	"name:" "Bad-Salzuflen",
+	"name": "Bad-Salzuflen",
 	"lon": 8.752,
 	"lat": 52.105,
 	"radio": [["2015-10-12T01:10:00Z",
@@ -32441,7 +32441,7 @@
 	0.112084101271001]]
 },
 {
-	"name:" "Bad-Salzungen",
+	"name": "Bad-Salzungen",
 	"lon": 10.254,
 	"lat": 50.805,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -32898,7 +32898,7 @@
 	0.136426639117679]]
 },
 {
-	"name:" "Bad-Sassendorf",
+	"name": "Bad-Sassendorf",
 	"lon": 8.218,
 	"lat": 51.580,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -33111,7 +33111,7 @@
 	0.109804971262249]]
 },
 {
-	"name:" "Bad-Schwalbach",
+	"name": "Bad-Schwalbach",
 	"lon": 8.058,
 	"lat": 50.163,
 	"radio": [["2015-10-12T05:40:00Z",
@@ -33218,7 +33218,7 @@
 	0.122365921644135]]
 },
 {
-	"name:" "Bad-Staffelstein",
+	"name": "Bad-Staffelstein",
 	"lon": 11.086,
 	"lat": 50.067,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -33365,7 +33365,7 @@
 	0.107363000535839]]
 },
 {
-	"name:" "Bad-Urach",
+	"name": "Bad-Urach",
 	"lon": 9.403,
 	"lat": 48.482,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -33574,7 +33574,7 @@
 	0.0530762027075533]]
 },
 {
-	"name:" "Bad-Waldsee",
+	"name": "Bad-Waldsee",
 	"lon": 9.731,
 	"lat": 47.918,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -34097,7 +34097,7 @@
 	0.0891722676263414]]
 },
 {
-	"name:" "Bad-Wildbad",
+	"name": "Bad-Wildbad",
 	"lon": 8.534,
 	"lat": 48.703,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -34228,7 +34228,7 @@
 	0.0806360452445604]]
 },
 {
-	"name:" "Bad-Wildungen",
+	"name": "Bad-Wildungen",
 	"lon": 9.119,
 	"lat": 51.107,
 	"radio": [["2015-10-12T02:20:00Z",
@@ -34313,7 +34313,7 @@
 	0.140787820437227]]
 },
 {
-	"name:" "Bad-Wilsnack",
+	"name": "Bad-Wilsnack",
 	"lon": 11.943,
 	"lat": 52.958,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -34428,7 +34428,7 @@
 	0.0662322800787334]]
 },
 {
-	"name:" "Badersleben",
+	"name": "Badersleben",
 	"lon": 10.879,
 	"lat": 51.980,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -34593,7 +34593,7 @@
 	0.111281124658012]]
 },
 {
-	"name:" "Bärnau",
+	"name": "Bärnau",
 	"lon": 12.438,
 	"lat": 49.808,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -35138,7 +35138,7 @@
 	0.141708909796825]]
 },
 {
-	"name:" "Bahretal-OT-Gersdorf",
+	"name": "Bahretal-OT-Gersdorf",
 	"lon": 13.907,
 	"lat": 50.880,
 	"radio": [["2015-10-12T15:10:00Z",
@@ -35171,7 +35171,7 @@
 	0.138117225436556]]
 },
 {
-	"name:" "Baierbrunn",
+	"name": "Baierbrunn",
 	"lon": 11.481,
 	"lat": 48.017,
 	"radio": [["2015-10-12T06:20:00Z",
@@ -35440,7 +35440,7 @@
 	0.0926689018874084]]
 },
 {
-	"name:" "Baiersbronn-ST-Obertal",
+	"name": "Baiersbronn-ST-Obertal",
 	"lon": 8.278,
 	"lat": 48.528,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -35593,7 +35593,7 @@
 	0.105079137278048]]
 },
 {
-	"name:" "Balingen",
+	"name": "Balingen",
 	"lon": 8.848,
 	"lat": 48.275,
 	"radio": [["2015-10-12T01:10:00Z",
@@ -35612,14 +35612,14 @@
 	0.125724484503898]]
 },
 {
-	"name:" "Balje-Stade",
+	"name": "Balje-Stade",
 	"lon": 9.131,
 	"lat": 53.828,
 	"radio": [["2015-10-13T01:20:00Z",
 	0.0765714719891548]]
 },
 {
-	"name:" "Ballenstedt",
+	"name": "Ballenstedt",
 	"lon": 11.234,
 	"lat": 51.742,
 	"radio": [["2015-10-12T07:30:00Z",
@@ -35812,7 +35812,7 @@
 	0.10469974777758]]
 },
 {
-	"name:" "Baltrum",
+	"name": "Baltrum",
 	"lon": 7.372,
 	"lat": 53.729,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -36171,7 +36171,7 @@
 	0.0850600798857083]]
 },
 {
-	"name:" "Bamberg-OT-Babenberger-Viertel",
+	"name": "Bamberg-OT-Babenberger-Viertel",
 	"lon": 10.872,
 	"lat": 49.878,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -36448,7 +36448,7 @@
 	0.118683192211336]]
 },
 {
-	"name:" "Bargenstedt",
+	"name": "Bargenstedt",
 	"lon": 9.156,
 	"lat": 54.096,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -36557,7 +36557,7 @@
 	0.0482215844094753]]
 },
 {
-	"name:" "Bargum",
+	"name": "Bargum",
 	"lon": 8.999,
 	"lat": 54.691,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -36814,7 +36814,7 @@
 	0.0611941647999006]]
 },
 {
-	"name:" "Bark",
+	"name": "Bark",
 	"lon": 10.166,
 	"lat": 53.911,
 	"radio": [["2015-10-12T11:20:00Z",
@@ -36853,14 +36853,14 @@
 	0.0864849971759774]]
 },
 {
-	"name:" "Barlt",
+	"name": "Barlt",
 	"lon": 9.046,
 	"lat": 54.020,
 	"radio": [["2015-10-12T09:10:00Z",
 	0.0727777406573295]]
 },
 {
-	"name:" "Barnstorf",
+	"name": "Barnstorf",
 	"lon": 8.533,
 	"lat": 52.717,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -37211,7 +37211,7 @@
 	0.0729256174569888]]
 },
 {
-	"name:" "Barntrup-Alverdissen",
+	"name": "Barntrup-Alverdissen",
 	"lon": 9.115,
 	"lat": 52.037,
 	"radio": [["2015-10-12T07:30:00Z",
@@ -37282,7 +37282,7 @@
 	0.116832495601665]]
 },
 {
-	"name:" "Barßel-Barßelermoor",
+	"name": "Barßel-Barßelermoor",
 	"lon": 7.740,
 	"lat": 53.166,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -37601,7 +37601,7 @@
 	0.0675769208291845]]
 },
 {
-	"name:" "Baruth",
+	"name": "Baruth",
 	"lon": 13.500,
 	"lat": 52.061,
 	"radio": [["2015-10-12T03:00:00Z",
@@ -37738,7 +37738,7 @@
 	0.0726160335262825]]
 },
 {
-	"name:" "Barweiler",
+	"name": "Barweiler",
 	"lon": 6.870,
 	"lat": 50.360,
 	"radio": [["2015-10-12T01:30:00Z",
@@ -37887,7 +37887,7 @@
 	0.129271395610715]]
 },
 {
-	"name:" "Basepohl",
+	"name": "Basepohl",
 	"lon": 12.929,
 	"lat": 53.738,
 	"radio": [["2015-10-12T04:20:00Z",
@@ -37926,7 +37926,7 @@
 	0.102852585634067]]
 },
 {
-	"name:" "Bassum",
+	"name": "Bassum",
 	"lon": 8.735,
 	"lat": 52.852,
 	"radio": [["2015-10-12T03:30:00Z",
@@ -37993,7 +37993,7 @@
 	0.0800208122663057]]
 },
 {
-	"name:" "Battenberg-Eder",
+	"name": "Battenberg-Eder",
 	"lon": 8.633,
 	"lat": 51.014,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -38114,7 +38114,7 @@
 	0.108808097765504]]
 },
 {
-	"name:" "Baumgarten",
+	"name": "Baumgarten",
 	"lon": 10.439,
 	"lat": 48.487,
 	"radio": [["2015-10-12T01:30:00Z",
@@ -38263,7 +38263,7 @@
 	0.127013299860302]]
 },
 {
-	"name:" "Baunach",
+	"name": "Baunach",
 	"lon": 10.847,
 	"lat": 49.986,
 	"radio": [["2015-10-12T02:20:00Z",
@@ -38366,7 +38366,7 @@
 	0.0909957570844687]]
 },
 {
-	"name:" "Baunatal-OT-Großenritte",
+	"name": "Baunatal-OT-Großenritte",
 	"lon": 9.370,
 	"lat": 51.254,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -38427,7 +38427,7 @@
 	0.121212339656829]]
 },
 {
-	"name:" "Bautzen",
+	"name": "Bautzen",
 	"lon": 14.446,
 	"lat": 51.182,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -38970,7 +38970,7 @@
 	0.0919394976952452]]
 },
 {
-	"name:" "Bawinkel",
+	"name": "Bawinkel",
 	"lon": 7.402,
 	"lat": 52.601,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -39361,7 +39361,7 @@
 	0.0645962709574573]]
 },
 {
-	"name:" "Bederkesa",
+	"name": "Bederkesa",
 	"lon": 8.828,
 	"lat": 53.633,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -39584,7 +39584,7 @@
 	0.0691037033483373]]
 },
 {
-	"name:" "Behnsdorf",
+	"name": "Behnsdorf",
 	"lon": 11.151,
 	"lat": 52.318,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -40053,14 +40053,14 @@
 	0.0725144378775892]]
 },
 {
-	"name:" "Beidenfleth",
+	"name": "Beidenfleth",
 	"lon": 9.413,
 	"lat": 53.878,
 	"radio": [["2015-10-14T23:10:00Z",
 	0.0767784044146538]]
 },
 {
-	"name:" "Beiersdorf",
+	"name": "Beiersdorf",
 	"lon": 12.666,
 	"lat": 51.270,
 	"radio": [["2015-10-12T11:50:00Z",
@@ -40127,7 +40127,7 @@
 	0.136367138684276]]
 },
 {
-	"name:" "Belgern",
+	"name": "Belgern",
 	"lon": 13.122,
 	"lat": 51.479,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -40360,7 +40360,7 @@
 	0.113710252289251]]
 },
 {
-	"name:" "Belm",
+	"name": "Belm",
 	"lon": 8.169,
 	"lat": 52.317,
 	"radio": [["2015-10-12T00:50:00Z",
@@ -40405,7 +40405,7 @@
 	0.0844426679126609]]
 },
 {
-	"name:" "Bennigsen",
+	"name": "Bennigsen",
 	"lon": 9.673,
 	"lat": 52.235,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -40562,7 +40562,7 @@
 	0.0877430294273965]]
 },
 {
-	"name:" "Beratzhausen",
+	"name": "Beratzhausen",
 	"lon": 11.811,
 	"lat": 49.100,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -40817,7 +40817,7 @@
 	0.0810499523942754]]
 },
 {
-	"name:" "Berge",
+	"name": "Berge",
 	"lon": 7.743,
 	"lat": 52.619,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -41072,7 +41072,7 @@
 	0.0726176328989786]]
 },
 {
-	"name:" "Bergen",
+	"name": "Bergen",
 	"lon": 10.951,
 	"lat": 48.435,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -41311,14 +41311,14 @@
 	0.0846460552291917]]
 },
 {
-	"name:" "Bergheim-Niederaußem",
+	"name": "Bergheim-Niederaußem",
 	"lon": 6.676,
 	"lat": 50.978,
 	"radio": [["2015-10-15T19:20:00Z",
 	0.134096145629883]]
 },
 {
-	"name:" "Bergtheim-OT-Dipbach",
+	"name": "Bergtheim-OT-Dipbach",
 	"lon": 10.122,
 	"lat": 49.900,
 	"radio": [["2015-10-13T15:00:00Z",
@@ -41415,7 +41415,7 @@
 	0.127937995424238]]
 },
 {
-	"name:" "Berlin-Gatow",
+	"name": "Berlin-Gatow",
 	"lon": 13.150,
 	"lat": 52.474,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -41620,7 +41620,7 @@
 	0.0801878021612571]]
 },
 {
-	"name:" "Berlin-Karlshorst",
+	"name": "Berlin-Karlshorst",
 	"lon": 13.538,
 	"lat": 52.484,
 	"radio": [["2015-10-12T03:30:00Z",
@@ -41659,7 +41659,7 @@
 	0.0923619980140194]]
 },
 {
-	"name:" "Berlin-Rahnsdorf",
+	"name": "Berlin-Rahnsdorf",
 	"lon": 13.706,
 	"lat": 52.437,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -41896,7 +41896,7 @@
 	0.0830046290616428]]
 },
 {
-	"name:" "Berlin-Tempelhof",
+	"name": "Berlin-Tempelhof",
 	"lon": 13.402,
 	"lat": 52.468,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -42023,7 +42023,7 @@
 	0.0885563718456155]]
 },
 {
-	"name:" "Berlin-Wannsee",
+	"name": "Berlin-Wannsee",
 	"lon": 13.132,
 	"lat": 52.411,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -42080,7 +42080,7 @@
 	0.0697380913531639]]
 },
 {
-	"name:" "Bermatingen",
+	"name": "Bermatingen",
 	"lon": 9.339,
 	"lat": 47.727,
 	"radio": [["2015-10-13T12:40:00Z",
@@ -42211,7 +42211,7 @@
 	0.113236365124076]]
 },
 {
-	"name:" "Bernburg",
+	"name": "Bernburg",
 	"lon": 11.726,
 	"lat": 51.807,
 	"radio": [["2015-10-12T01:30:00Z",
@@ -42320,7 +42320,7 @@
 	0.128554844325822]]
 },
 {
-	"name:" "Bernhardswald",
+	"name": "Bernhardswald",
 	"lon": 12.247,
 	"lat": 49.085,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -42537,7 +42537,7 @@
 	0.156254798607004]]
 },
 {
-	"name:" "Bernkastel-Kues",
+	"name": "Bernkastel-Kues",
 	"lon": 7.064,
 	"lat": 49.928,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -42770,7 +42770,7 @@
 	0.115392206932444]]
 },
 {
-	"name:" "Bersenbrück-OT-Ahausen",
+	"name": "Bersenbrück-OT-Ahausen",
 	"lon": 7.904,
 	"lat": 52.570,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -42983,7 +42983,7 @@
 	0.099045868127979]]
 },
 {
-	"name:" "Beverungen-Dahlhausen",
+	"name": "Beverungen-Dahlhausen",
 	"lon": 9.286,
 	"lat": 51.630,
 	"radio": [["2015-10-12T01:50:00Z",
@@ -43012,7 +43012,7 @@
 	0.126087357643337]]
 },
 {
-	"name:" "Biblis-OT-Nordheim",
+	"name": "Biblis-OT-Nordheim",
 	"lon": 8.387,
 	"lat": 49.677,
 	"radio": [["2015-10-12T03:50:00Z",
@@ -43099,7 +43099,7 @@
 	0.0794051619143708]]
 },
 {
-	"name:" "Bichl",
+	"name": "Bichl",
 	"lon": 11.408,
 	"lat": 47.717,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -43414,7 +43414,7 @@
 	0.0908922836247802]]
 },
 {
-	"name:" "Biebesheim",
+	"name": "Biebesheim",
 	"lon": 8.483,
 	"lat": 49.775,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -43639,7 +43639,7 @@
 	0.0892210006713867]]
 },
 {
-	"name:" "Bielefeld",
+	"name": "Bielefeld",
 	"lon": 8.586,
 	"lat": 52.018,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -43740,7 +43740,7 @@
 	0.103377508904083]]
 },
 {
-	"name:" "Binswangen",
+	"name": "Binswangen",
 	"lon": 10.644,
 	"lat": 48.553,
 	"radio": [["2015-10-13T21:00:00Z",
@@ -43801,7 +43801,7 @@
 	0.088043507483418]]
 },
 {
-	"name:" "Bischofsheim-A.d.Rhön",
+	"name": "Bischofsheim-A.d.Rhön",
 	"lon": 9.976,
 	"lat": 50.386,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -43896,7 +43896,7 @@
 	0.123572879554002]]
 },
 {
-	"name:" "Bischofsmais",
+	"name": "Bischofsmais",
 	"lon": 13.089,
 	"lat": 48.914,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -44277,7 +44277,7 @@
 	0.162240982055664]]
 },
 {
-	"name:" "Bischofswerda",
+	"name": "Bischofswerda",
 	"lon": 14.198,
 	"lat": 51.138,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -44436,7 +44436,7 @@
 	0.124882846576952]]
 },
 {
-	"name:" "Bitterfeld",
+	"name": "Bitterfeld",
 	"lon": 12.292,
 	"lat": 51.625,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -44953,7 +44953,7 @@
 	0.0944600784044441]]
 },
 {
-	"name:" "Blaufelden-OT-Wiesenbach",
+	"name": "Blaufelden-OT-Wiesenbach",
 	"lon": 10.042,
 	"lat": 49.295,
 	"radio": [["2015-10-12T00:50:00Z",
@@ -45128,7 +45128,7 @@
 	0.106210290694843]]
 },
 {
-	"name:" "Bleicherode",
+	"name": "Bleicherode",
 	"lon": 10.575,
 	"lat": 51.438,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -45341,14 +45341,14 @@
 	0.131431993010724]]
 },
 {
-	"name:" "Blieskastel-Webenheim",
+	"name": "Blieskastel-Webenheim",
 	"lon": 7.268,
 	"lat": 49.235,
 	"radio": [["2015-10-13T01:10:00Z",
 	0.117760150234685]]
 },
 {
-	"name:" "Blindheim",
+	"name": "Blindheim",
 	"lon": 10.604,
 	"lat": 48.635,
 	"radio": [["2015-10-13T20:40:00Z",
@@ -45425,7 +45425,7 @@
 	0.165565313568123]]
 },
 {
-	"name:" "Bocholt-Liedern",
+	"name": "Bocholt-Liedern",
 	"lon": 6.537,
 	"lat": 51.829,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -45780,7 +45780,7 @@
 	0.0864852735351778]]
 },
 {
-	"name:" "Bochum",
+	"name": "Bochum",
 	"lon": 7.194,
 	"lat": 51.427,
 	"radio": [["2015-10-12T01:50:00Z",
@@ -45861,7 +45861,7 @@
 	0.128347362705074]]
 },
 {
-	"name:" "Bockenem-Bornum",
+	"name": "Bockenem-Bornum",
 	"lon": 10.142,
 	"lat": 51.976,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -46008,7 +46008,7 @@
 	0.0895262191125713]]
 },
 {
-	"name:" "Bodenwerder",
+	"name": "Bodenwerder",
 	"lon": 9.517,
 	"lat": 51.983,
 	"radio": [["2015-10-13T21:00:00Z",
@@ -46025,7 +46025,7 @@
 	0.124957015563259]]
 },
 {
-	"name:" "Böblingen",
+	"name": "Böblingen",
 	"lon": 9.041,
 	"lat": 48.692,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -46040,7 +46040,7 @@
 	0.122366703784655]]
 },
 {
-	"name:" "Böhmenkirch",
+	"name": "Böhmenkirch",
 	"lon": 9.933,
 	"lat": 48.683,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -46107,7 +46107,7 @@
 	0.103569706698899]]
 },
 {
-	"name:" "Böhmenkirch/Stötten",
+	"name": "Böhmenkirch/Stötten",
 	"lon": 9.865,
 	"lat": 48.665,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -46194,7 +46194,7 @@
 	0.0853671164583615]]
 },
 {
-	"name:" "Bönnigheim-ST-Hohenstein",
+	"name": "Bönnigheim-ST-Hohenstein",
 	"lon": 9.124,
 	"lat": 49.039,
 	"radio": [["2015-10-14T00:00:00Z",
@@ -46221,7 +46221,7 @@
 	0.137807846069336]]
 },
 {
-	"name:" "Börger-Samtgem.-Sögel",
+	"name": "Börger-Samtgem.-Sögel",
 	"lon": 7.535,
 	"lat": 52.916,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -46314,7 +46314,7 @@
 	0.0808436879462226]]
 },
 {
-	"name:" "Boitzenburg",
+	"name": "Boitzenburg",
 	"lon": 13.620,
 	"lat": 53.266,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -46423,7 +46423,7 @@
 	0.088144830728513]]
 },
 {
-	"name:" "Bokel",
+	"name": "Bokel",
 	"lon": 9.735,
 	"lat": 53.862,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -46730,7 +46730,7 @@
 	0.0686049852123283]]
 },
 {
-	"name:" "Bollendorf",
+	"name": "Bollendorf",
 	"lon": 6.353,
 	"lat": 49.852,
 	"radio": [["2015-10-12T19:50:00Z",
@@ -46771,7 +46771,7 @@
 	0.115803474054599]]
 },
 {
-	"name:" "Bonn-Roleber",
+	"name": "Bonn-Roleber",
 	"lon": 7.193,
 	"lat": 50.735,
 	"radio": [["2015-10-13T22:20:00Z",
@@ -46812,7 +46812,7 @@
 	0.132751280698138]]
 },
 {
-	"name:" "Bonndorf",
+	"name": "Bonndorf",
 	"lon": 8.338,
 	"lat": 47.817,
 	"radio": [["2015-10-12T02:10:00Z",
@@ -46825,7 +46825,7 @@
 	0.122785937268503]]
 },
 {
-	"name:" "Borken-Rhedebrügge",
+	"name": "Borken-Rhedebrügge",
 	"lon": 6.788,
 	"lat": 51.833,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -46930,7 +46930,7 @@
 	0.0803302996809654]]
 },
 {
-	"name:" "Borkum",
+	"name": "Borkum",
 	"lon": 6.703,
 	"lat": 53.598,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -47001,7 +47001,7 @@
 	0.0774504917762505]]
 },
 {
-	"name:" "Bornheim",
+	"name": "Bornheim",
 	"lon": 7.014,
 	"lat": 50.777,
 	"radio": [["2015-10-12T03:20:00Z",
@@ -47082,7 +47082,7 @@
 	0.102231484405485]]
 },
 {
-	"name:" "Bous",
+	"name": "Bous",
 	"lon": 6.794,
 	"lat": 49.278,
 	"radio": [["2015-10-13T19:40:00Z",
@@ -47097,7 +47097,7 @@
 	0.131125166763497]]
 },
 {
-	"name:" "Bovenau",
+	"name": "Bovenau",
 	"lon": 9.826,
 	"lat": 54.332,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -47226,7 +47226,7 @@
 	0.0807376923967266]]
 },
 {
-	"name:" "Bovenmoor",
+	"name": "Bovenmoor",
 	"lon": 8.981,
 	"lat": 53.704,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -47309,7 +47309,7 @@
 	0.0764234289769658]]
 },
 {
-	"name:" "Boxberg",
+	"name": "Boxberg",
 	"lon": 14.578,
 	"lat": 51.401,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -47862,7 +47862,7 @@
 	0.0779633404361496]]
 },
 {
-	"name:" "Boxberg-OT-Schweigern",
+	"name": "Boxberg-OT-Schweigern",
 	"lon": 9.664,
 	"lat": 49.489,
 	"radio": [["2015-10-12T21:20:00Z",
@@ -47939,7 +47939,7 @@
 	0.129171744897956]]
 },
 {
-	"name:" "Braak",
+	"name": "Braak",
 	"lon": 10.244,
 	"lat": 53.609,
 	"radio": [["2015-10-12T01:20:00Z",
@@ -48006,7 +48006,7 @@
 	0.0876321749970056]]
 },
 {
-	"name:" "Brake-Unterweser",
+	"name": "Brake-Unterweser",
 	"lon": 8.477,
 	"lat": 53.328,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -48079,7 +48079,7 @@
 	0.077451249917088]]
 },
 {
-	"name:" "Bramsche-Hesepe",
+	"name": "Bramsche-Hesepe",
 	"lon": 7.961,
 	"lat": 52.448,
 	"radio": [["2015-10-12T15:20:00Z",
@@ -48114,7 +48114,7 @@
 	0.0769351165562183]]
 },
 {
-	"name:" "Brannenburg",
+	"name": "Brannenburg",
 	"lon": 12.121,
 	"lat": 47.741,
 	"radio": [["2015-10-12T02:00:00Z",
@@ -48251,7 +48251,7 @@
 	0.129378634805843]]
 },
 {
-	"name:" "Braunlage",
+	"name": "Braunlage",
 	"lon": 10.602,
 	"lat": 51.723,
 	"radio": [["2015-10-15T07:20:00Z",
@@ -48278,7 +48278,7 @@
 	0.129479864471143]]
 },
 {
-	"name:" "Braunschweig-PTB",
+	"name": "Braunschweig-PTB",
 	"lon": 10.463,
 	"lat": 52.291,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -48485,7 +48485,7 @@
 	0.0885581053559935]]
 },
 {
-	"name:" "Braunschweig-Watenbüttel",
+	"name": "Braunschweig-Watenbüttel",
 	"lon": 10.446,
 	"lat": 52.291,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -48618,7 +48618,7 @@
 	0.0858556910058327]]
 },
 {
-	"name:" "Bredereiche",
+	"name": "Bredereiche",
 	"lon": 13.241,
 	"lat": 53.136,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -49107,7 +49107,7 @@
 	0.0764193148756543]]
 },
 {
-	"name:" "Bredstedt",
+	"name": "Bredstedt",
 	"lon": 8.974,
 	"lat": 54.613,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -49156,7 +49156,7 @@
 	0.0675787401010818]]
 },
 {
-	"name:" "Breitenhagen",
+	"name": "Breitenhagen",
 	"lon": 11.947,
 	"lat": 51.921,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -49399,7 +49399,7 @@
 	0.0978854598817494]]
 },
 {
-	"name:" "Bremen-Blumenthal",
+	"name": "Bremen-Blumenthal",
 	"lon": 8.582,
 	"lat": 53.188,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -49670,7 +49670,7 @@
 	0.0699424048303723]]
 },
 {
-	"name:" "Bremen-Mittelsbüren",
+	"name": "Bremen-Mittelsbüren",
 	"lon": 8.657,
 	"lat": 53.128,
 	"radio": [["2015-10-15T08:50:00Z",
@@ -49687,7 +49687,7 @@
 	0.096680830687783]]
 },
 {
-	"name:" "Bremen-Neuenlande",
+	"name": "Bremen-Neuenlande",
 	"lon": 8.798,
 	"lat": 53.045,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -49758,7 +49758,7 @@
 	0.0857799094545364]]
 },
 {
-	"name:" "Bremerhaven-Geestemünde",
+	"name": "Bremerhaven-Geestemünde",
 	"lon": 8.604,
 	"lat": 53.550,
 	"radio": [["2015-10-12T09:20:00Z",
@@ -49773,7 +49773,7 @@
 	0.0672521516680717]]
 },
 {
-	"name:" "Bremerhaven-Luneplate",
+	"name": "Bremerhaven-Luneplate",
 	"lon": 8.571,
 	"lat": 53.503,
 	"radio": [["2015-10-12T10:50:00Z",
@@ -49786,7 +49786,7 @@
 	3.33706665039062]]
 },
 {
-	"name:" "Bremervörde",
+	"name": "Bremervörde",
 	"lon": 9.174,
 	"lat": 53.496,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -49965,14 +49965,14 @@
 	0.0394587554037571]]
 },
 {
-	"name:" "Breuberg-OT-Rai-Breitenbach",
+	"name": "Breuberg-OT-Rai-Breitenbach",
 	"lon": 9.054,
 	"lat": 49.814,
 	"radio": [["2015-10-14T04:00:00Z",
 	0.14192110685367]]
 },
 {
-	"name:" "Briesen",
+	"name": "Briesen",
 	"lon": 14.281,
 	"lat": 52.348,
 	"radio": [["2015-10-14T15:30:00Z",
@@ -49983,7 +49983,7 @@
 	0.0884783701495439]]
 },
 {
-	"name:" "Brilon",
+	"name": "Brilon",
 	"lon": 8.577,
 	"lat": 51.393,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -50044,7 +50044,7 @@
 	0.140581521887677]]
 },
 {
-	"name:" "Bruck-In-Der-Oberpfalz",
+	"name": "Bruck-In-Der-Oberpfalz",
 	"lon": 12.301,
 	"lat": 49.249,
 	"radio": [["2015-10-12T02:50:00Z",
@@ -50217,7 +50217,7 @@
 	0.121841001725888]]
 },
 {
-	"name:" "Brück",
+	"name": "Brück",
 	"lon": 12.798,
 	"lat": 52.214,
 	"radio": [["2015-10-14T07:50:00Z",
@@ -50256,7 +50256,7 @@
 	0.0800831257954756]]
 },
 {
-	"name:" "Brunnen",
+	"name": "Brunnen",
 	"lon": 11.303,
 	"lat": 48.630,
 	"radio": [["2015-10-13T21:30:00Z",
@@ -50319,7 +50319,7 @@
 	0.122180999869032]]
 },
 {
-	"name:" "Bubenreuth",
+	"name": "Bubenreuth",
 	"lon": 11.027,
 	"lat": 49.627,
 	"radio": [["2015-10-12T01:00:00Z",
@@ -50510,7 +50510,7 @@
 	0.135646157222826]]
 },
 {
-	"name:" "Buch-Am-Buchrain",
+	"name": "Buch-Am-Buchrain",
 	"lon": 11.994,
 	"lat": 48.223,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -50789,7 +50789,7 @@
 	0.10641192948651]]
 },
 {
-	"name:" "Buchen",
+	"name": "Buchen",
 	"lon": 9.333,
 	"lat": 49.520,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -51210,14 +51210,14 @@
 	0.115759304044363]]
 },
 {
-	"name:" "Buchholz-In-Der-Nordheide",
+	"name": "Buchholz-In-Der-Nordheide",
 	"lon": 9.889,
 	"lat": 53.338,
 	"radio": [["2015-10-14T03:10:00Z",
 	0.0811491087079048]]
 },
 {
-	"name:" "Buchloe",
+	"name": "Buchloe",
 	"lon": 10.723,
 	"lat": 48.034,
 	"radio": [["2015-10-13T16:40:00Z",
@@ -51350,7 +51350,7 @@
 	0.118785717683116]]
 },
 {
-	"name:" "Buckow",
+	"name": "Buckow",
 	"lon": 14.075,
 	"lat": 52.577,
 	"radio": [["2015-10-14T15:00:00Z",
@@ -51363,7 +51363,7 @@
 	0.124464424751458]]
 },
 {
-	"name:" "Bühl",
+	"name": "Bühl",
 	"lon": 8.128,
 	"lat": 48.685,
 	"radio": [["2015-10-12T06:00:00Z",
@@ -51428,7 +51428,7 @@
 	0.119218713340296]]
 },
 {
-	"name:" "Büsingen",
+	"name": "Büsingen",
 	"lon": 8.681,
 	"lat": 47.693,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -51587,7 +51587,7 @@
 	0.107746758948818]]
 },
 {
-	"name:" "Bütthard-OT-Höttingen",
+	"name": "Bütthard-OT-Höttingen",
 	"lon": 9.906,
 	"lat": 49.606,
 	"radio": [["2015-10-12T01:20:00Z",
@@ -51708,7 +51708,7 @@
 	0.125617170528604]]
 },
 {
-	"name:" "Bunsoh",
+	"name": "Bunsoh",
 	"lon": 9.328,
 	"lat": 54.171,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -52035,7 +52035,7 @@
 	0.0771407726055705]]
 },
 {
-	"name:" "Burbach",
+	"name": "Burbach",
 	"lon": 8.078,
 	"lat": 50.709,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -52532,7 +52532,7 @@
 	0.083822799165281]]
 },
 {
-	"name:" "Burg",
+	"name": "Burg",
 	"lon": 11.853,
 	"lat": 52.278,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -52559,7 +52559,7 @@
 	0.138219019911464]]
 },
 {
-	"name:" "Burg-Dithmarschen",
+	"name": "Burg-Dithmarschen",
 	"lon": 9.255,
 	"lat": 54.002,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -52852,7 +52852,7 @@
 	0.0729263313428988]]
 },
 {
-	"name:" "Burg-Fehmarn",
+	"name": "Burg-Fehmarn",
 	"lon": 11.181,
 	"lat": 54.421,
 	"radio": [["2015-10-12T02:50:00Z",
@@ -52877,7 +52877,7 @@
 	0.0914354037342488]]
 },
 {
-	"name:" "Burgau-OT-Unterknörringen",
+	"name": "Burgau-OT-Unterknörringen",
 	"lon": 10.388,
 	"lat": 48.438,
 	"radio": [["2015-10-13T21:00:00Z",
@@ -52888,7 +52888,7 @@
 	0.15636445581913]]
 },
 {
-	"name:" "Burgbernheim",
+	"name": "Burgbernheim",
 	"lon": 10.325,
 	"lat": 49.444,
 	"radio": [["2015-10-12T00:50:00Z",
@@ -53059,14 +53059,14 @@
 	0.13726144971537]]
 },
 {
-	"name:" "Burgdorf",
+	"name": "Burgdorf",
 	"lon": 9.996,
 	"lat": 52.449,
 	"radio": [["2015-10-15T07:50:00Z",
 	0.10614082082806]]
 },
 {
-	"name:" "Burggrub",
+	"name": "Burggrub",
 	"lon": 11.270,
 	"lat": 50.289,
 	"radio": [["2015-10-12T07:20:00Z",
@@ -53127,7 +53127,7 @@
 	0.131912505775818]]
 },
 {
-	"name:" "Burghaslach",
+	"name": "Burghaslach",
 	"lon": 10.601,
 	"lat": 49.734,
 	"radio": [["2015-10-13T03:00:00Z",
@@ -53146,7 +53146,7 @@
 	0.137680593441169]]
 },
 {
-	"name:" "Burglengenfeld",
+	"name": "Burglengenfeld",
 	"lon": 12.063,
 	"lat": 49.202,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -53341,14 +53341,14 @@
 	0.128553927864965]]
 },
 {
-	"name:" "Burladingen",
+	"name": "Burladingen",
 	"lon": 9.145,
 	"lat": 48.289,
 	"radio": [["2015-10-13T04:50:00Z",
 	0.0894816322238957]]
 },
 {
-	"name:" "Burscheid-Hilgen",
+	"name": "Burscheid-Hilgen",
 	"lon": 7.145,
 	"lat": 51.104,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -53549,7 +53549,7 @@
 	0.128921579128027]]
 },
 {
-	"name:" "Buschow",
+	"name": "Buschow",
 	"lon": 12.634,
 	"lat": 52.590,
 	"radio": [["2015-10-12T04:20:00Z",
@@ -53656,7 +53656,7 @@
 	0.0718979271717395]]
 },
 {
-	"name:" "Butjadingen-Burhave",
+	"name": "Butjadingen-Burhave",
 	"lon": 8.361,
 	"lat": 53.572,
 	"radio": [["2015-10-12T03:20:00Z",
@@ -53681,7 +53681,7 @@
 	0.0911273606220775]]
 },
 {
-	"name:" "Butzbach-Bodenrod",
+	"name": "Butzbach-Bodenrod",
 	"lon": 8.541,
 	"lat": 50.395,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -53876,7 +53876,7 @@
 	0.136933969626686]]
 },
 {
-	"name:" "Buxtehude",
+	"name": "Buxtehude",
 	"lon": 9.693,
 	"lat": 53.457,
 	"radio": [["2015-10-12T07:50:00Z",
@@ -53899,7 +53899,7 @@
 	0.0749831245892702]]
 },
 {
-	"name:" "Cadenberge",
+	"name": "Cadenberge",
 	"lon": 9.065,
 	"lat": 53.766,
 	"radio": [["2015-10-12T04:40:00Z",
@@ -53912,7 +53912,7 @@
 	0.0659332451180467]]
 },
 {
-	"name:" "Cämmerswalde",
+	"name": "Cämmerswalde",
 	"lon": 13.508,
 	"lat": 50.709,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -54435,7 +54435,7 @@
 	0.154253020628889]]
 },
 {
-	"name:" "Calau",
+	"name": "Calau",
 	"lon": 13.965,
 	"lat": 51.747,
 	"radio": [["2015-10-14T09:40:00Z",
@@ -54448,7 +54448,7 @@
 	0.077862601320689]]
 },
 {
-	"name:" "Carlow",
+	"name": "Carlow",
 	"lon": 10.929,
 	"lat": 53.756,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -54635,7 +54635,7 @@
 	0.0856760286560161]]
 },
 {
-	"name:" "Carlsfeld",
+	"name": "Carlsfeld",
 	"lon": 12.585,
 	"lat": 50.437,
 	"radio": [["2015-10-12T16:20:00Z",
@@ -54734,7 +54734,7 @@
 	0.137805429696981]]
 },
 {
-	"name:" "Castrop-Rauxel",
+	"name": "Castrop-Rauxel",
 	"lon": 7.328,
 	"lat": 51.541,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -54807,7 +54807,7 @@
 	0.122693579150388]]
 },
 {
-	"name:" "Celle-Wietzenbruch",
+	"name": "Celle-Wietzenbruch",
 	"lon": 10.038,
 	"lat": 52.599,
 	"radio": [["2015-10-14T10:30:00Z",
@@ -54864,7 +54864,7 @@
 	0.0875297701186192]]
 },
 {
-	"name:" "Chamerau-OT-Lederdorn",
+	"name": "Chamerau-OT-Lederdorn",
 	"lon": 12.789,
 	"lat": 49.197,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -55229,7 +55229,7 @@
 	0.166180052132979]]
 },
 {
-	"name:" "Chemnitz",
+	"name": "Chemnitz",
 	"lon": 12.872,
 	"lat": 50.791,
 	"radio": [["2015-10-14T02:40:00Z",
@@ -55248,7 +55248,7 @@
 	0.146855769431137]]
 },
 {
-	"name:" "Cloppenburg",
+	"name": "Cloppenburg",
 	"lon": 8.014,
 	"lat": 52.839,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -55697,7 +55697,7 @@
 	0.0736814039294836]]
 },
 {
-	"name:" "Coburg",
+	"name": "Coburg",
 	"lon": 10.981,
 	"lat": 50.283,
 	"radio": [["2015-10-12T01:00:00Z",
@@ -55832,14 +55832,14 @@
 	0.135440211975067]]
 },
 {
-	"name:" "Coesfeld",
+	"name": "Coesfeld",
 	"lon": 7.088,
 	"lat": 51.871,
 	"radio": [["2015-10-12T01:30:00Z",
 	0.0742621588156129]]
 },
 {
-	"name:" "Cottbus",
+	"name": "Cottbus",
 	"lon": 14.317,
 	"lat": 51.776,
 	"radio": [["2015-10-12T17:40:00Z",
@@ -55870,7 +55870,7 @@
 	0.0876395019004131]]
 },
 {
-	"name:" "Cramme",
+	"name": "Cramme",
 	"lon": 10.460,
 	"lat": 52.114,
 	"radio": [["2015-10-12T20:00:00Z",
@@ -55907,7 +55907,7 @@
 	0.104699235543678]]
 },
 {
-	"name:" "Cremlingen-OT-Schandelah",
+	"name": "Cremlingen-OT-Schandelah",
 	"lon": 10.696,
 	"lat": 52.271,
 	"radio": [["2015-10-15T05:30:00Z",
@@ -55928,7 +55928,7 @@
 	0.124440506508336]]
 },
 {
-	"name:" "Creußen",
+	"name": "Creußen",
 	"lon": 11.620,
 	"lat": 49.849,
 	"radio": [["2015-10-15T03:00:00Z",
@@ -55955,14 +55955,14 @@
 	0.138733736473253]]
 },
 {
-	"name:" "Criewen",
+	"name": "Criewen",
 	"lon": 14.199,
 	"lat": 53.020,
 	"radio": [["2015-10-13T11:50:00Z",
 	0.0827973371426862]]
 },
 {
-	"name:" "Cuxhaven",
+	"name": "Cuxhaven",
 	"lon": 8.706,
 	"lat": 53.871,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -56301,7 +56301,7 @@
 	0.0781696222834181]]
 },
 {
-	"name:" "Dähre",
+	"name": "Dähre",
 	"lon": 10.886,
 	"lat": 52.793,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -56774,7 +56774,7 @@
 	0.0832070423404594]]
 },
 {
-	"name:" "Dahlenburg",
+	"name": "Dahlenburg",
 	"lon": 10.750,
 	"lat": 53.182,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -57007,7 +57007,7 @@
 	0.0681962981407718]]
 },
 {
-	"name:" "Dahme",
+	"name": "Dahme",
 	"lon": 11.090,
 	"lat": 54.202,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -57186,7 +57186,7 @@
 	0.091836920999673]]
 },
 {
-	"name:" "Damp",
+	"name": "Damp",
 	"lon": 9.958,
 	"lat": 54.573,
 	"radio": [["2015-10-14T21:10:00Z",
@@ -57197,7 +57197,7 @@
 	0.0865902037219585]]
 },
 {
-	"name:" "Darmstadt",
+	"name": "Darmstadt",
 	"lon": 8.586,
 	"lat": 49.842,
 	"radio": [["2015-10-14T00:50:00Z",
@@ -57234,7 +57234,7 @@
 	0.109430349332598]]
 },
 {
-	"name:" "Datteln",
+	"name": "Datteln",
 	"lon": 7.357,
 	"lat": 51.669,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -57439,7 +57439,7 @@
 	0.0745230306633843]]
 },
 {
-	"name:" "Dautphetal",
+	"name": "Dautphetal",
 	"lon": 8.531,
 	"lat": 50.818,
 	"radio": [["2015-10-14T09:00:00Z",
@@ -57534,7 +57534,7 @@
 	0.0951397973378692]]
 },
 {
-	"name:" "Deggenhausertal-OT-Limp.",
+	"name": "Deggenhausertal-OT-Limp.",
 	"lon": 9.431,
 	"lat": 47.795,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -57727,7 +57727,7 @@
 	0.102853900365245]]
 },
 {
-	"name:" "Delbrück",
+	"name": "Delbrück",
 	"lon": 8.564,
 	"lat": 51.757,
 	"radio": [["2015-10-15T06:40:00Z",
@@ -57736,7 +57736,7 @@
 	0.0760956372297713]]
 },
 {
-	"name:" "Delitzsch",
+	"name": "Delitzsch",
 	"lon": 12.338,
 	"lat": 51.535,
 	"radio": [["2015-10-14T07:20:00Z",
@@ -57803,7 +57803,7 @@
 	0.125468633596206]]
 },
 {
-	"name:" "Delmenhorst",
+	"name": "Delmenhorst",
 	"lon": 8.590,
 	"lat": 53.044,
 	"radio": [["2015-10-12T16:00:00Z",
@@ -57820,7 +57820,7 @@
 	0.0577044469753888]]
 },
 {
-	"name:" "Demmin",
+	"name": "Demmin",
 	"lon": 13.052,
 	"lat": 53.898,
 	"radio": [["2015-10-12T02:40:00Z",
@@ -57843,7 +57843,7 @@
 	0.111282757983841]]
 },
 {
-	"name:" "Denkendorf-OT-Gelbelsee",
+	"name": "Denkendorf-OT-Gelbelsee",
 	"lon": 11.429,
 	"lat": 48.947,
 	"radio": [["2015-10-13T19:20:00Z",
@@ -57920,7 +57920,7 @@
 	0.142402187189578]]
 },
 {
-	"name:" "Denkingen",
+	"name": "Denkingen",
 	"lon": 8.755,
 	"lat": 48.105,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -58005,7 +58005,7 @@
 	0.091416627678022]]
 },
 {
-	"name:" "Dersum",
+	"name": "Dersum",
 	"lon": 7.273,
 	"lat": 52.960,
 	"radio": [["2015-10-12T04:00:00Z",
@@ -58028,7 +58028,7 @@
 	0.0842363839443712]]
 },
 {
-	"name:" "Deschka",
+	"name": "Deschka",
 	"lon": 15.025,
 	"lat": 51.261,
 	"radio": [["2015-10-14T05:30:00Z",
@@ -58081,7 +58081,7 @@
 	0.136366805219695]]
 },
 {
-	"name:" "Dessau",
+	"name": "Dessau",
 	"lon": 12.182,
 	"lat": 51.834,
 	"radio": [["2015-10-14T13:00:00Z",
@@ -58092,7 +58092,7 @@
 	0.132151983508568]]
 },
 {
-	"name:" "Detmold",
+	"name": "Detmold",
 	"lon": 8.886,
 	"lat": 51.934,
 	"radio": [["2015-10-15T06:50:00Z",
@@ -58121,7 +58121,7 @@
 	0.146177841069725]]
 },
 {
-	"name:" "Dettum",
+	"name": "Dettum",
 	"lon": 10.666,
 	"lat": 52.175,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -58354,7 +58354,7 @@
 	0.105010785070015]]
 },
 {
-	"name:" "Deuselbach",
+	"name": "Deuselbach",
 	"lon": 7.054,
 	"lat": 49.762,
 	"radio": [["2015-10-13T08:10:00Z",
@@ -58389,7 +58389,7 @@
 	0.130609513052911]]
 },
 {
-	"name:" "Deutschneudorf",
+	"name": "Deutschneudorf",
 	"lon": 13.463,
 	"lat": 50.614,
 	"radio": [["2015-10-12T00:50:00Z",
@@ -58880,7 +58880,7 @@
 	0.136673556123475]]
 },
 {
-	"name:" "Dierdorf-Wienau",
+	"name": "Dierdorf-Wienau",
 	"lon": 7.648,
 	"lat": 50.565,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -59353,7 +59353,7 @@
 	0.110454507303562]]
 },
 {
-	"name:" "Dierhagen",
+	"name": "Dierhagen",
 	"lon": 12.310,
 	"lat": 54.282,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -59462,7 +59462,7 @@
 	0.0492305039572555]]
 },
 {
-	"name:" "Dieskau",
+	"name": "Dieskau",
 	"lon": 12.038,
 	"lat": 51.438,
 	"radio": [["2015-10-12T19:00:00Z",
@@ -59531,7 +59531,7 @@
 	0.0982232494272191]]
 },
 {
-	"name:" "Dießen-Am-Ammersee",
+	"name": "Dießen-Am-Ammersee",
 	"lon": 11.093,
 	"lat": 47.951,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -60122,7 +60122,7 @@
 	0.0990419914018646]]
 },
 {
-	"name:" "Dietrichingen",
+	"name": "Dietrichingen",
 	"lon": 7.440,
 	"lat": 49.189,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -60411,7 +60411,7 @@
 	0.104907959820186]]
 },
 {
-	"name:" "Dietzenbach",
+	"name": "Dietzenbach",
 	"lon": 8.800,
 	"lat": 50.020,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -60430,7 +60430,7 @@
 	0.141404998133212]]
 },
 {
-	"name:" "Dillenburg-OT-Donsbach",
+	"name": "Dillenburg-OT-Donsbach",
 	"lon": 8.240,
 	"lat": 50.727,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -60557,7 +60557,7 @@
 	0.138013404346516]]
 },
 {
-	"name:" "Dillingen-A.-D.-Donau",
+	"name": "Dillingen-A.-D.-Donau",
 	"lon": 10.498,
 	"lat": 48.569,
 	"radio": [["2015-10-12T04:30:00Z",
@@ -60672,7 +60672,7 @@
 	0.108198342872278]]
 },
 {
-	"name:" "Dinkelsbühl",
+	"name": "Dinkelsbühl",
 	"lon": 10.317,
 	"lat": 49.066,
 	"radio": [["2015-10-13T05:40:00Z",
@@ -60741,7 +60741,7 @@
 	0.125367354153724]]
 },
 {
-	"name:" "Dinkelscherben",
+	"name": "Dinkelscherben",
 	"lon": 10.590,
 	"lat": 48.354,
 	"radio": [["2015-10-13T03:10:00Z",
@@ -60752,7 +60752,7 @@
 	0.158735275268555]]
 },
 {
-	"name:" "Dinslaken",
+	"name": "Dinslaken",
 	"lon": 6.723,
 	"lat": 51.565,
 	"radio": [["2015-10-15T09:20:00Z",
@@ -60809,7 +60809,7 @@
 	0.0950890222184685]]
 },
 {
-	"name:" "Dippoldiswalde",
+	"name": "Dippoldiswalde",
 	"lon": 13.667,
 	"lat": 50.880,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -61332,7 +61332,7 @@
 	0.140934573054374]]
 },
 {
-	"name:" "Doberlug-Kirchhain",
+	"name": "Doberlug-Kirchhain",
 	"lon": 13.575,
 	"lat": 51.645,
 	"radio": [["2015-10-15T02:40:00Z",
@@ -61341,7 +61341,7 @@
 	0.0807127203988066]]
 },
 {
-	"name:" "Dörverden-OT-Westen",
+	"name": "Dörverden-OT-Westen",
 	"lon": 9.314,
 	"lat": 52.822,
 	"radio": [["2015-10-12T03:20:00Z",
@@ -61360,7 +61360,7 @@
 	0.0902029898322236]]
 },
 {
-	"name:" "Dollart/Ditzumerverlaat",
+	"name": "Dollart/Ditzumerverlaat",
 	"lon": 7.268,
 	"lat": 53.261,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -61521,7 +61521,7 @@
 	0.0846491618522338]]
 },
 {
-	"name:" "Dollerup",
+	"name": "Dollerup",
 	"lon": 9.672,
 	"lat": 54.784,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -61588,7 +61588,7 @@
 	0.0675954512770074]]
 },
 {
-	"name:" "Dommitzsch",
+	"name": "Dommitzsch",
 	"lon": 12.884,
 	"lat": 51.634,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -61993,7 +61993,7 @@
 	0.0934114174644928]]
 },
 {
-	"name:" "Donaueschingen",
+	"name": "Donaueschingen",
 	"lon": 8.511,
 	"lat": 47.943,
 	"radio": [["2015-10-12T02:40:00Z",
@@ -62036,7 +62036,7 @@
 	0.14001554776276]]
 },
 {
-	"name:" "Dorfprozelten",
+	"name": "Dorfprozelten",
 	"lon": 9.383,
 	"lat": 49.776,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -62377,7 +62377,7 @@
 	0.0863817233978249]]
 },
 {
-	"name:" "Dornstadt",
+	"name": "Dornstadt",
 	"lon": 9.940,
 	"lat": 48.467,
 	"radio": [["2015-10-13T18:50:00Z",
@@ -62396,7 +62396,7 @@
 	0.132225938178321]]
 },
 {
-	"name:" "Dortmund-Lichtendorf",
+	"name": "Dortmund-Lichtendorf",
 	"lon": 7.595,
 	"lat": 51.471,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -62469,7 +62469,7 @@
 	0.102334307947815]]
 },
 {
-	"name:" "Drage",
+	"name": "Drage",
 	"lon": 10.305,
 	"lat": 53.428,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -62590,7 +62590,7 @@
 	0.0872174272649015]]
 },
 {
-	"name:" "Drahnsdorf",
+	"name": "Drahnsdorf",
 	"lon": 13.578,
 	"lat": 51.915,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -62695,7 +62695,7 @@
 	0.0815637297747885]]
 },
 {
-	"name:" "Dransfeld",
+	"name": "Dransfeld",
 	"lon": 9.759,
 	"lat": 51.499,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -63144,14 +63144,14 @@
 	0.111998126742866]]
 },
 {
-	"name:" "Drehnow",
+	"name": "Drehnow",
 	"lon": 14.369,
 	"lat": 51.868,
 	"radio": [["2015-10-14T14:00:00Z",
 	0.135643005371094]]
 },
 {
-	"name:" "Dresden-OT-Rossendorf",
+	"name": "Dresden-OT-Rossendorf",
 	"lon": 13.947,
 	"lat": 51.061,
 	"radio": [["2015-10-14T03:30:00Z",
@@ -63188,7 +63188,7 @@
 	0.10542208556645]]
 },
 {
-	"name:" "Duingen",
+	"name": "Duingen",
 	"lon": 9.702,
 	"lat": 52.006,
 	"radio": [["2015-10-15T06:30:00Z",
@@ -63197,7 +63197,7 @@
 	0.137910842895508]]
 },
 {
-	"name:" "Duisburg-Rheinhausen",
+	"name": "Duisburg-Rheinhausen",
 	"lon": 6.699,
 	"lat": 51.412,
 	"radio": [["2015-10-15T09:50:00Z",
@@ -63216,7 +63216,7 @@
 	0.130712003569586]]
 },
 {
-	"name:" "Durlangen",
+	"name": "Durlangen",
 	"lon": 9.789,
 	"lat": 48.859,
 	"radio": [["2015-10-12T03:40:00Z",
@@ -63235,7 +63235,7 @@
 	0.129067038825908]]
 },
 {
-	"name:" "Ebeleben",
+	"name": "Ebeleben",
 	"lon": 10.724,
 	"lat": 51.284,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -63520,7 +63520,7 @@
 	0.112101766807614]]
 },
 {
-	"name:" "Ebermannstadt",
+	"name": "Ebermannstadt",
 	"lon": 11.189,
 	"lat": 49.782,
 	"radio": [["2015-10-15T04:10:00Z",
@@ -63533,7 +63533,7 @@
 	0.127716853557372]]
 },
 {
-	"name:" "Ebern",
+	"name": "Ebern",
 	"lon": 10.796,
 	"lat": 50.089,
 	"radio": [["2015-10-15T03:00:00Z",
@@ -63606,7 +63606,7 @@
 	0.126982529605382]]
 },
 {
-	"name:" "Ebersberg",
+	"name": "Ebersberg",
 	"lon": 11.960,
 	"lat": 48.076,
 	"radio": [["2015-10-12T16:30:00Z",
@@ -63625,7 +63625,7 @@
 	0.129272343987625]]
 },
 {
-	"name:" "Ebsdorfergrund.-OT--Hachborn",
+	"name": "Ebsdorfergrund.-OT--Hachborn",
 	"lon": 8.791,
 	"lat": 50.718,
 	"radio": [["2015-10-15T07:50:00Z",
@@ -63650,7 +63650,7 @@
 	0.145652921148576]]
 },
 {
-	"name:" "Echte",
+	"name": "Echte",
 	"lon": 10.056,
 	"lat": 51.787,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -63843,7 +63843,7 @@
 	0.10704996615576]]
 },
 {
-	"name:" "Eckernförde",
+	"name": "Eckernförde",
 	"lon": 9.868,
 	"lat": 54.475,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -63950,7 +63950,7 @@
 	0.0587813578163143]]
 },
 {
-	"name:" "Edewecht",
+	"name": "Edewecht",
 	"lon": 7.976,
 	"lat": 53.129,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -64321,7 +64321,7 @@
 	0.0688136950120714]]
 },
 {
-	"name:" "Efringen-Kirchen-OT-Istein",
+	"name": "Efringen-Kirchen-OT-Istein",
 	"lon": 7.539,
 	"lat": 47.659,
 	"radio": [["2015-10-15T10:10:00Z",
@@ -64330,7 +64330,7 @@
 	0.107050650353824]]
 },
 {
-	"name:" "Egeln",
+	"name": "Egeln",
 	"lon": 11.446,
 	"lat": 51.943,
 	"radio": [["2015-10-12T04:30:00Z",
@@ -64339,14 +64339,14 @@
 	0.141304265891631]]
 },
 {
-	"name:" "Eggenstein-Leopoldshafen",
+	"name": "Eggenstein-Leopoldshafen",
 	"lon": 8.404,
 	"lat": 49.092,
 	"radio": [["2015-10-12T21:10:00Z",
 	0.0783710554242134]]
 },
 {
-	"name:" "Ehingen",
+	"name": "Ehingen",
 	"lon": 9.734,
 	"lat": 48.272,
 	"radio": [["2015-10-13T19:50:00Z",
@@ -64357,7 +64357,7 @@
 	0.133485574127765]]
 },
 {
-	"name:" "Ehrenfriedersdorf",
+	"name": "Ehrenfriedersdorf",
 	"lon": 12.961,
 	"lat": 50.644,
 	"radio": [["2015-10-14T01:40:00Z",
@@ -64384,7 +64384,7 @@
 	0.132151660335532]]
 },
 {
-	"name:" "Eichendorf",
+	"name": "Eichendorf",
 	"lon": 12.860,
 	"lat": 48.632,
 	"radio": [["2015-10-13T23:10:00Z",
@@ -64397,7 +64397,7 @@
 	0.132540634758633]]
 },
 {
-	"name:" "Eilenburg",
+	"name": "Eilenburg",
 	"lon": 12.627,
 	"lat": 51.450,
 	"radio": [["2015-10-14T06:30:00Z",
@@ -64436,7 +64436,7 @@
 	0.128658312822241]]
 },
 {
-	"name:" "Einbeck",
+	"name": "Einbeck",
 	"lon": 9.868,
 	"lat": 51.833,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -64875,7 +64875,7 @@
 	0.0920438337720937]]
 },
 {
-	"name:" "Einhausen",
+	"name": "Einhausen",
 	"lon": 8.533,
 	"lat": 49.673,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -64910,7 +64910,7 @@
 	0.134639026846943]]
 },
 {
-	"name:" "Eisenach",
+	"name": "Eisenach",
 	"lon": 10.311,
 	"lat": 50.992,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -65109,7 +65109,7 @@
 	0.133897449044461]]
 },
 {
-	"name:" "Eisenhüttenstadt",
+	"name": "Eisenhüttenstadt",
 	"lon": 14.665,
 	"lat": 52.158,
 	"radio": [["2015-10-14T13:10:00Z",
@@ -65124,7 +65124,7 @@
 	0.0734405315414645]]
 },
 {
-	"name:" "Eisleben",
+	"name": "Eisleben",
 	"lon": 11.546,
 	"lat": 51.535,
 	"radio": [["2015-10-12T02:20:00Z",
@@ -65199,7 +65199,7 @@
 	0.133179100890003]]
 },
 {
-	"name:" "Eiterfeld-OT-Ufhausen",
+	"name": "Eiterfeld-OT-Ufhausen",
 	"lon": 9.852,
 	"lat": 50.767,
 	"radio": [["2015-10-12T00:50:00Z",
@@ -65334,7 +65334,7 @@
 	0.118892023021944]]
 },
 {
-	"name:" "Elbenschwand-OT-Langensee",
+	"name": "Elbenschwand-OT-Langensee",
 	"lon": 7.815,
 	"lat": 47.741,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -65687,7 +65687,7 @@
 	0.146283666839057]]
 },
 {
-	"name:" "Eldena",
+	"name": "Eldena",
 	"lon": 11.422,
 	"lat": 53.228,
 	"radio": [["2015-10-12T15:10:00Z",
@@ -65696,7 +65696,7 @@
 	0.0541635840095696]]
 },
 {
-	"name:" "Ellwangen-ST-Schrezheim",
+	"name": "Ellwangen-ST-Schrezheim",
 	"lon": 10.108,
 	"lat": 48.952,
 	"radio": [["2015-10-12T15:50:00Z",
@@ -65737,7 +65737,7 @@
 	0.124464822529969]]
 },
 {
-	"name:" "Elmenhorst",
+	"name": "Elmenhorst",
 	"lon": 10.260,
 	"lat": 53.757,
 	"radio": [["2015-10-12T09:50:00Z",
@@ -65746,14 +65746,14 @@
 	0.057102182366472]]
 },
 {
-	"name:" "Elmstein",
+	"name": "Elmstein",
 	"lon": 7.939,
 	"lat": 49.352,
 	"radio": [["2015-10-14T12:30:00Z",
 	0.0952310487627983]]
 },
 {
-	"name:" "Elzach",
+	"name": "Elzach",
 	"lon": 8.059,
 	"lat": 48.167,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -66128,7 +66128,7 @@
 	0.108609769986194]]
 },
 {
-	"name:" "Elze",
+	"name": "Elze",
 	"lon": 9.728,
 	"lat": 52.126,
 	"radio": [["2015-10-12T23:50:00Z",
@@ -66189,7 +66189,7 @@
 	0.11827453135467]]
 },
 {
-	"name:" "Emden-Larrelt",
+	"name": "Emden-Larrelt",
 	"lon": 7.161,
 	"lat": 53.362,
 	"radio": [["2015-10-12T14:40:00Z",
@@ -66204,7 +66204,7 @@
 	0.0652871660563186]]
 },
 {
-	"name:" "Emlichheim",
+	"name": "Emlichheim",
 	"lon": 6.844,
 	"lat": 52.616,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -66273,7 +66273,7 @@
 	0.0547221639560653]]
 },
 {
-	"name:" "Emmelsbüll",
+	"name": "Emmelsbüll",
 	"lon": 8.707,
 	"lat": 54.808,
 	"radio": [["2015-10-12T03:50:00Z",
@@ -66296,7 +66296,7 @@
 	2.59794214795827]]
 },
 {
-	"name:" "Engelsdorf-OT-Kleinpösna",
+	"name": "Engelsdorf-OT-Kleinpösna",
 	"lon": 12.517,
 	"lat": 51.309,
 	"radio": [["2015-10-15T08:00:00Z",
@@ -66305,14 +66305,14 @@
 	0.132768840761869]]
 },
 {
-	"name:" "Eppingen-ST-Elsenz",
+	"name": "Eppingen-ST-Elsenz",
 	"lon": 8.835,
 	"lat": 49.180,
 	"radio": [["2015-10-15T18:20:00Z",
 	0.133382380424136]]
 },
 {
-	"name:" "Erbach",
+	"name": "Erbach",
 	"lon": 9.002,
 	"lat": 49.663,
 	"radio": [["2015-10-14T03:00:00Z",
@@ -66363,7 +66363,7 @@
 	0.12257612512567]]
 },
 {
-	"name:" "Erdmannhausen",
+	"name": "Erdmannhausen",
 	"lon": 9.293,
 	"lat": 48.945,
 	"radio": [["2015-10-13T15:00:00Z",
@@ -66386,7 +66386,7 @@
 	0.128863938537778]]
 },
 {
-	"name:" "Erfde",
+	"name": "Erfde",
 	"lon": 9.302,
 	"lat": 54.307,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -66595,7 +66595,7 @@
 	0.0691220566628736]]
 },
 {
-	"name:" "Erftstadt-Friesheim",
+	"name": "Erftstadt-Friesheim",
 	"lon": 6.789,
 	"lat": 50.741,
 	"radio": [["2015-10-12T01:20:00Z",
@@ -66650,7 +66650,7 @@
 	0.116176698615129]]
 },
 {
-	"name:" "Erfurt",
+	"name": "Erfurt",
 	"lon": 11.090,
 	"lat": 50.971,
 	"radio": [["2015-10-14T05:30:00Z",
@@ -66677,7 +66677,7 @@
 	0.129080589319034]]
 },
 {
-	"name:" "Ering",
+	"name": "Ering",
 	"lon": 13.152,
 	"lat": 48.303,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -66874,7 +66874,7 @@
 	0.0909192531441817]]
 },
 {
-	"name:" "Erkheim",
+	"name": "Erkheim",
 	"lon": 10.338,
 	"lat": 48.032,
 	"radio": [["2015-10-13T17:40:00Z",
@@ -66943,7 +66943,7 @@
 	0.131842909368281]]
 },
 {
-	"name:" "Erlbach",
+	"name": "Erlbach",
 	"lon": 12.380,
 	"lat": 50.315,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -67022,7 +67022,7 @@
 	0.153311234269594]]
 },
 {
-	"name:" "Erndtebrück-Schameder",
+	"name": "Erndtebrück-Schameder",
 	"lon": 8.308,
 	"lat": 51.001,
 	"radio": [["2015-10-13T20:50:00Z",
@@ -67075,7 +67075,7 @@
 	0.134621376952599]]
 },
 {
-	"name:" "Eschede",
+	"name": "Eschede",
 	"lon": 10.243,
 	"lat": 52.735,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -67206,7 +67206,7 @@
 	0.0670646884480183]]
 },
 {
-	"name:" "Eschenburg-Simmersbach",
+	"name": "Eschenburg-Simmersbach",
 	"lon": 8.388,
 	"lat": 50.834,
 	"radio": [["2015-10-15T08:30:00Z",
@@ -67221,7 +67221,7 @@
 	0.142846015593562]]
 },
 {
-	"name:" "Eschenlohe",
+	"name": "Eschenlohe",
 	"lon": 11.186,
 	"lat": 47.588,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -67382,14 +67382,14 @@
 	0.122593163342658]]
 },
 {
-	"name:" "Esens",
+	"name": "Esens",
 	"lon": 7.606,
 	"lat": 53.651,
 	"radio": [["2015-10-14T23:40:00Z",
 	0.0513295577867395]]
 },
 {
-	"name:" "Essen-Bergeborbeck",
+	"name": "Essen-Bergeborbeck",
 	"lon": 6.960,
 	"lat": 51.485,
 	"radio": [["2015-10-15T10:10:00Z",
@@ -67408,7 +67408,7 @@
 	0.108506548191538]]
 },
 {
-	"name:" "Essen-Bredeney",
+	"name": "Essen-Bredeney",
 	"lon": 6.968,
 	"lat": 51.404,
 	"radio": [["2015-10-15T09:10:00Z",
@@ -67421,7 +67421,7 @@
 	0.126981717947993]]
 },
 {
-	"name:" "Esslingen",
+	"name": "Esslingen",
 	"lon": 9.321,
 	"lat": 48.746,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -67558,7 +67558,7 @@
 	0.116807679218836]]
 },
 {
-	"name:" "Ettersdorf",
+	"name": "Ettersdorf",
 	"lon": 12.261,
 	"lat": 48.772,
 	"radio": [["2015-10-13T03:20:00Z",
@@ -67619,14 +67619,14 @@
 	0.138937653543689]]
 },
 {
-	"name:" "Ettlingen",
+	"name": "Ettlingen",
 	"lon": 8.386,
 	"lat": 48.950,
 	"radio": [["2015-10-14T01:30:00Z",
 	0.158529281616211]]
 },
 {
-	"name:" "Ettringen",
+	"name": "Ettringen",
 	"lon": 10.658,
 	"lat": 48.100,
 	"radio": [["2015-10-13T20:10:00Z",
@@ -67685,7 +67685,7 @@
 	0.141509879746635]]
 },
 {
-	"name:" "Euerdorf",
+	"name": "Euerdorf",
 	"lon": 10.029,
 	"lat": 50.140,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -68040,7 +68040,7 @@
 	0.114336013793945]]
 },
 {
-	"name:" "Euskirchen",
+	"name": "Euskirchen",
 	"lon": 6.760,
 	"lat": 50.671,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -68133,21 +68133,21 @@
 	0.10521103054607]]
 },
 {
-	"name:" "Eußenheim-OT-Hundsbach",
+	"name": "Eußenheim-OT-Hundsbach",
 	"lon": 9.886,
 	"lat": 50.023,
 	"radio": [["2015-10-15T06:30:00Z",
 	0.136054992675781]]
 },
 {
-	"name:" "Eutin",
+	"name": "Eutin",
 	"lon": 10.599,
 	"lat": 54.146,
 	"radio": [["2015-10-12T00:00:00Z",
 	0.0702200592294096]]
 },
 {
-	"name:" "Everswinkel-Alverskirchen",
+	"name": "Everswinkel-Alverskirchen",
 	"lon": 7.807,
 	"lat": 51.911,
 	"radio": [["2015-10-12T03:20:00Z",
@@ -68192,7 +68192,7 @@
 	0.0571016350231088]]
 },
 {
-	"name:" "Exdorf",
+	"name": "Exdorf",
 	"lon": 10.545,
 	"lat": 50.456,
 	"radio": [["2015-10-12T02:00:00Z",
@@ -68229,14 +68229,14 @@
 	0.138113847999722]]
 },
 {
-	"name:" "Fahrbinde",
+	"name": "Fahrbinde",
 	"lon": 11.485,
 	"lat": 53.443,
 	"radio": [["2015-10-12T04:30:00Z",
 	0.0577043057398788]]
 },
 {
-	"name:" "Falkensee",
+	"name": "Falkensee",
 	"lon": 13.133,
 	"lat": 52.556,
 	"radio": [["2015-10-12T15:30:00Z",
@@ -68341,7 +68341,7 @@
 	0.0814392525630625]]
 },
 {
-	"name:" "Falkenstein",
+	"name": "Falkenstein",
 	"lon": 12.478,
 	"lat": 49.098,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -68560,7 +68560,7 @@
 	0.147856556415356]]
 },
 {
-	"name:" "Fall",
+	"name": "Fall",
 	"lon": 11.530,
 	"lat": 47.567,
 	"radio": [["2015-10-13T03:00:00Z",
@@ -68711,7 +68711,7 @@
 	0.138117900982656]]
 },
 {
-	"name:" "Faßberg",
+	"name": "Faßberg",
 	"lon": 10.165,
 	"lat": 52.900,
 	"radio": [["2015-10-12T03:20:00Z",
@@ -68780,7 +68780,7 @@
 	0.0611949469131648]]
 },
 {
-	"name:" "Fehrbellin",
+	"name": "Fehrbellin",
 	"lon": 12.759,
 	"lat": 52.792,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -69007,7 +69007,7 @@
 	0.0795900795757629]]
 },
 {
-	"name:" "Feichten-A.d.Alz",
+	"name": "Feichten-A.d.Alz",
 	"lon": 12.598,
 	"lat": 48.081,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -69084,7 +69084,7 @@
 	0.148290673210141]]
 },
 {
-	"name:" "Feldberg",
+	"name": "Feldberg",
 	"lon": 8.004,
 	"lat": 47.875,
 	"radio": [["2015-10-12T01:30:00Z",
@@ -69215,7 +69215,7 @@
 	0.142638310796056]]
 },
 {
-	"name:" "Feldberg-OT-Altglashütten",
+	"name": "Feldberg-OT-Altglashütten",
 	"lon": 8.108,
 	"lat": 47.861,
 	"radio": [["2015-10-12T01:30:00Z",
@@ -69372,7 +69372,7 @@
 	0.137910259239645]]
 },
 {
-	"name:" "Feldkirchen",
+	"name": "Feldkirchen",
 	"lon": 11.741,
 	"lat": 48.144,
 	"radio": [["2015-10-15T01:50:00Z",
@@ -69381,7 +69381,7 @@
 	0.151416778564453]]
 },
 {
-	"name:" "Feldkirchen-Westerham",
+	"name": "Feldkirchen-Westerham",
 	"lon": 11.843,
 	"lat": 47.915,
 	"radio": [["2015-10-12T01:10:00Z",
@@ -69470,7 +69470,7 @@
 	0.123413883581391]]
 },
 {
-	"name:" "Ferchesar",
+	"name": "Ferchesar",
 	"lon": 12.483,
 	"lat": 52.648,
 	"radio": [["2015-10-15T15:50:00Z",
@@ -69479,7 +69479,7 @@
 	0.102130659590021]]
 },
 {
-	"name:" "Feuchtwangen-OT-Banzenweiler",
+	"name": "Feuchtwangen-OT-Banzenweiler",
 	"lon": 10.312,
 	"lat": 49.197,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -69874,7 +69874,7 @@
 	0.125775225215549]]
 },
 {
-	"name:" "Fichtenberg",
+	"name": "Fichtenberg",
 	"lon": 9.713,
 	"lat": 48.989,
 	"radio": [["2015-10-12T02:50:00Z",
@@ -69905,7 +69905,7 @@
 	0.141772825221937]]
 },
 {
-	"name:" "FINO",
+	"name": "FINO",
 	"lon": 6.172,
 	"lat": 54.008,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -70176,7 +70176,7 @@
 	0.045259841058306]]
 },
 {
-	"name:" "FINO2",
+	"name": "FINO2",
 	"lon": 13.157,
 	"lat": 55.012,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -70589,7 +70589,7 @@
 	0.0531797014003007]]
 },
 {
-	"name:" "FINO3",
+	"name": "FINO3",
 	"lon": 7.152,
 	"lat": 55.021,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -70866,7 +70866,7 @@
 	0.0489606898712302]]
 },
 {
-	"name:" "Fischbachau",
+	"name": "Fischbachau",
 	"lon": 11.956,
 	"lat": 47.719,
 	"radio": [["2015-10-13T22:30:00Z",
@@ -70919,7 +70919,7 @@
 	0.139556198729118]]
 },
 {
-	"name:" "Fladungen",
+	"name": "Fladungen",
 	"lon": 10.151,
 	"lat": 50.521,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -71080,7 +71080,7 @@
 	0.13076341905597]]
 },
 {
-	"name:" "Fleetmark",
+	"name": "Fleetmark",
 	"lon": 11.383,
 	"lat": 52.795,
 	"radio": [["2015-10-13T17:40:00Z",
@@ -71169,7 +71169,7 @@
 	0.0946210138474616]]
 },
 {
-	"name:" "Flörsbachtal",
+	"name": "Flörsbachtal",
 	"lon": 9.473,
 	"lat": 50.122,
 	"radio": [["2015-10-12T05:40:00Z",
@@ -71344,7 +71344,7 @@
 	0.103772055384896]]
 },
 {
-	"name:" "Forbach-OT-Gausbach",
+	"name": "Forbach-OT-Gausbach",
 	"lon": 8.364,
 	"lat": 48.685,
 	"radio": [["2015-10-12T02:30:00Z",
@@ -71353,7 +71353,7 @@
 	0.130129609113619]]
 },
 {
-	"name:" "Forbach-OT-Hundsbach",
+	"name": "Forbach-OT-Hundsbach",
 	"lon": 8.280,
 	"lat": 48.614,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -71388,7 +71388,7 @@
 	0.138519755074189]]
 },
 {
-	"name:" "Forstwiesen",
+	"name": "Forstwiesen",
 	"lon": 11.536,
 	"lat": 48.704,
 	"radio": [["2015-10-13T21:50:00Z",
@@ -71419,7 +71419,7 @@
 	0.126808292639906]]
 },
 {
-	"name:" "Frankenhardt-OT-Gründelh.",
+	"name": "Frankenhardt-OT-Gründelh.",
 	"lon": 9.979,
 	"lat": 49.080,
 	"radio": [["2015-10-14T04:10:00Z",
@@ -71428,7 +71428,7 @@
 	0.142296838895456]]
 },
 {
-	"name:" "Frankenthal/Pfalz",
+	"name": "Frankenthal/Pfalz",
 	"lon": 8.371,
 	"lat": 49.541,
 	"radio": [["2015-10-13T22:10:00Z",
@@ -71437,7 +71437,7 @@
 	0.140585303410782]]
 },
 {
-	"name:" "Frankfurt-A.M.",
+	"name": "Frankfurt-A.M.",
 	"lon": 8.529,
 	"lat": 50.022,
 	"radio": [["2015-10-12T10:10:00Z",
@@ -71456,7 +71456,7 @@
 	0.343316601353012]]
 },
 {
-	"name:" "Frankfurt-A.M.-ST-Eschersheim",
+	"name": "Frankfurt-A.M.-ST-Eschersheim",
 	"lon": 8.652,
 	"lat": 50.165,
 	"radio": [["2015-10-12T18:00:00Z",
@@ -71513,7 +71513,7 @@
 	0.129332579438459]]
 },
 {
-	"name:" "Frasdorf",
+	"name": "Frasdorf",
 	"lon": 12.286,
 	"lat": 47.802,
 	"radio": [["2015-10-13T23:10:00Z",
@@ -71592,7 +71592,7 @@
 	0.154148848561977]]
 },
 {
-	"name:" "Fredelsloh",
+	"name": "Fredelsloh",
 	"lon": 9.785,
 	"lat": 51.734,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -71719,7 +71719,7 @@
 	0.110826925230026]]
 },
 {
-	"name:" "Freiberg",
+	"name": "Freiberg",
 	"lon": 13.340,
 	"lat": 50.905,
 	"radio": [["2015-10-14T02:20:00Z",
@@ -71816,7 +71816,7 @@
 	0.133899413587282]]
 },
 {
-	"name:" "Freiburg-I.Br.-Flugplatz",
+	"name": "Freiburg-I.Br.-Flugplatz",
 	"lon": 7.834,
 	"lat": 48.023,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -71937,14 +71937,14 @@
 	0.121354314338322]]
 },
 {
-	"name:" "Freiburg-ST-St.-Georgen",
+	"name": "Freiburg-ST-St.-Georgen",
 	"lon": 7.790,
 	"lat": 47.981,
 	"radio": [["2015-10-13T19:20:00Z",
 	0.134922027587891]]
 },
 {
-	"name:" "Freisen",
+	"name": "Freisen",
 	"lon": 7.252,
 	"lat": 49.549,
 	"radio": [["2015-10-12T01:00:00Z",
@@ -71985,7 +71985,7 @@
 	0.119711057168102]]
 },
 {
-	"name:" "Freistatt",
+	"name": "Freistatt",
 	"lon": 8.651,
 	"lat": 52.623,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -72098,14 +72098,14 @@
 	0.0593053386584063]]
 },
 {
-	"name:" "Freudenstadt",
+	"name": "Freudenstadt",
 	"lon": 8.409,
 	"lat": 48.454,
 	"radio": [["2015-10-14T19:00:00Z",
 	0.135647815736665]]
 },
 {
-	"name:" "Fridolfing",
+	"name": "Fridolfing",
 	"lon": 12.827,
 	"lat": 48.004,
 	"radio": [["2015-10-15T02:10:00Z",
@@ -72116,7 +72116,7 @@
 	0.154668748441854]]
 },
 {
-	"name:" "Friedberg-Hessen",
+	"name": "Friedberg-Hessen",
 	"lon": 8.750,
 	"lat": 50.317,
 	"radio": [["2015-10-15T07:10:00Z",
@@ -72155,7 +72155,7 @@
 	0.118696069404943]]
 },
 {
-	"name:" "Friedeburg",
+	"name": "Friedeburg",
 	"lon": 7.830,
 	"lat": 53.455,
 	"radio": [["2015-10-12T00:50:00Z",
@@ -72238,7 +72238,7 @@
 	0.054002756762296]]
 },
 {
-	"name:" "Friedland-Groß-Schneen",
+	"name": "Friedland-Groß-Schneen",
 	"lon": 9.935,
 	"lat": 51.438,
 	"radio": [["2015-10-12T06:50:00Z",
@@ -72259,7 +72259,7 @@
 	0.158030568081679]]
 },
 {
-	"name:" "Friedrichshafen",
+	"name": "Friedrichshafen",
 	"lon": 9.501,
 	"lat": 47.664,
 	"radio": [["2015-10-13T19:30:00Z",
@@ -72280,7 +72280,7 @@
 	0.0713732579650937]]
 },
 {
-	"name:" "Friedrichsthal",
+	"name": "Friedrichsthal",
 	"lon": 14.346,
 	"lat": 53.156,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -72717,7 +72717,7 @@
 	0.0506073934720335]]
 },
 {
-	"name:" "Friesoythe-Altenoythe",
+	"name": "Friesoythe-Altenoythe",
 	"lon": 7.897,
 	"lat": 53.059,
 	"radio": [["2015-10-12T14:10:00Z",
@@ -72734,14 +72734,14 @@
 	0.0566769570233718]]
 },
 {
-	"name:" "Friesoythe-Augustendorf",
+	"name": "Friesoythe-Augustendorf",
 	"lon": 7.890,
 	"lat": 52.921,
 	"radio": [["2015-10-13T23:00:00Z",
 	0.0521517187919985]]
 },
 {
-	"name:" "Frontenhausen",
+	"name": "Frontenhausen",
 	"lon": 12.515,
 	"lat": 48.543,
 	"radio": [["2015-10-13T23:20:00Z",
@@ -72780,7 +72780,7 @@
 	0.161623001098633]]
 },
 {
-	"name:" "Fürstenstein",
+	"name": "Fürstenstein",
 	"lon": 13.332,
 	"lat": 48.718,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -73257,7 +73257,7 @@
 	0.165461709408728]]
 },
 {
-	"name:" "Fürstenwalde",
+	"name": "Fürstenwalde",
 	"lon": 13.872,
 	"lat": 50.757,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -73600,7 +73600,7 @@
 	0.129816148532879]]
 },
 {
-	"name:" "Fürstenzell-OT-Gföhret",
+	"name": "Fürstenzell-OT-Gföhret",
 	"lon": 13.352,
 	"lat": 48.544,
 	"radio": [["2015-10-14T01:40:00Z",
@@ -73627,7 +73627,7 @@
 	0.134220293243263]]
 },
 {
-	"name:" "Gadebusch",
+	"name": "Gadebusch",
 	"lon": 11.111,
 	"lat": 53.694,
 	"radio": [["2015-10-12T07:20:00Z",
@@ -73680,7 +73680,7 @@
 	0.106959745541664]]
 },
 {
-	"name:" "Gärtenroth",
+	"name": "Gärtenroth",
 	"lon": 11.331,
 	"lat": 50.146,
 	"radio": [["2015-10-13T11:30:00Z",
@@ -73703,7 +73703,7 @@
 	0.133590334237608]]
 },
 {
-	"name:" "Gaggenau-ST-Ottenau",
+	"name": "Gaggenau-ST-Ottenau",
 	"lon": 8.334,
 	"lat": 48.788,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -74112,7 +74112,7 @@
 	0.101096959987857]]
 },
 {
-	"name:" "Gangkofen",
+	"name": "Gangkofen",
 	"lon": 12.567,
 	"lat": 48.438,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -74257,7 +74257,7 @@
 	0.0968876724481879]]
 },
 {
-	"name:" "Garbsen",
+	"name": "Garbsen",
 	"lon": 9.620,
 	"lat": 52.424,
 	"radio": [["2015-10-14T11:40:00Z",
@@ -74328,7 +74328,7 @@
 	0.0625250430064852]]
 },
 {
-	"name:" "Garching-B.-München",
+	"name": "Garching-B.-München",
 	"lon": 11.664,
 	"lat": 48.261,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -74747,7 +74747,7 @@
 	0.0699410356188]]
 },
 {
-	"name:" "Gardelegen",
+	"name": "Gardelegen",
 	"lon": 11.394,
 	"lat": 52.513,
 	"radio": [["2015-10-12T04:30:00Z",
@@ -74760,7 +74760,7 @@
 	0.0594528192058209]]
 },
 {
-	"name:" "Garmisch-P.-OT-Zugspitze",
+	"name": "Garmisch-P.-OT-Zugspitze",
 	"lon": 10.980,
 	"lat": 47.416,
 	"radio": [["2015-10-13T18:10:00Z",
@@ -74775,7 +74775,7 @@
 	0.120946315869329]]
 },
 {
-	"name:" "Garmisch-P.-Zugspitzgipfel",
+	"name": "Garmisch-P.-Zugspitzgipfel",
 	"lon": 10.985,
 	"lat": 47.421,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -75016,7 +75016,7 @@
 	0.115499261487388]]
 },
 {
-	"name:" "Garmisch-Partenkirchen",
+	"name": "Garmisch-Partenkirchen",
 	"lon": 11.061,
 	"lat": 47.483,
 	"radio": [["2015-10-13T21:40:00Z",
@@ -75075,7 +75075,7 @@
 	0.147061377859665]]
 },
 {
-	"name:" "Garrel",
+	"name": "Garrel",
 	"lon": 8.030,
 	"lat": 52.956,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -75442,7 +75442,7 @@
 	0.0619191146915914]]
 },
 {
-	"name:" "Gauting",
+	"name": "Gauting",
 	"lon": 11.374,
 	"lat": 48.078,
 	"radio": [["2015-10-12T17:30:00Z",
@@ -75589,7 +75589,7 @@
 	0.101380274258275]]
 },
 {
-	"name:" "Geesthacht",
+	"name": "Geesthacht",
 	"lon": 10.337,
 	"lat": 53.432,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -75730,7 +75730,7 @@
 	0.0586316362461859]]
 },
 {
-	"name:" "Gefell",
+	"name": "Gefell",
 	"lon": 11.866,
 	"lat": 50.443,
 	"radio": [["2015-10-13T23:30:00Z",
@@ -75749,14 +75749,14 @@
 	0.137804755774194]]
 },
 {
-	"name:" "Gehaus",
+	"name": "Gehaus",
 	"lon": 10.077,
 	"lat": 50.761,
 	"radio": [["2015-10-15T18:10:00Z",
 	0.151317888955918]]
 },
 {
-	"name:" "Gehlberg",
+	"name": "Gehlberg",
 	"lon": 10.769,
 	"lat": 50.655,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -76209,7 +76209,7 @@
 	0.171875150378843]]
 },
 {
-	"name:" "Gehrden",
+	"name": "Gehrden",
 	"lon": 9.600,
 	"lat": 52.303,
 	"radio": [["2015-10-15T06:20:00Z",
@@ -76268,7 +76268,7 @@
 	0.12186957068831]]
 },
 {
-	"name:" "Geisenhausen",
+	"name": "Geisenhausen",
 	"lon": 12.273,
 	"lat": 48.470,
 	"radio": [["2015-10-13T22:40:00Z",
@@ -76285,7 +76285,7 @@
 	0.138219833374023]]
 },
 {
-	"name:" "Geldern",
+	"name": "Geldern",
 	"lon": 6.328,
 	"lat": 51.523,
 	"radio": [["2015-10-15T14:10:00Z",
@@ -76294,7 +76294,7 @@
 	0.0884554885101747]]
 },
 {
-	"name:" "Gelting",
+	"name": "Gelting",
 	"lon": 9.895,
 	"lat": 54.751,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -76507,7 +76507,7 @@
 	0.0766262945403184]]
 },
 {
-	"name:" "Gemmingen",
+	"name": "Gemmingen",
 	"lon": 8.989,
 	"lat": 49.157,
 	"radio": [["2015-10-14T03:40:00Z",
@@ -76516,7 +76516,7 @@
 	0.121975367619126]]
 },
 {
-	"name:" "Gemünden-Felda",
+	"name": "Gemünden-Felda",
 	"lon": 9.051,
 	"lat": 50.689,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -76697,7 +76697,7 @@
 	0.0910229714403006]]
 },
 {
-	"name:" "Gemünden-Wohra",
+	"name": "Gemünden-Wohra",
 	"lon": 8.975,
 	"lat": 50.972,
 	"radio": [["2015-10-15T05:00:00Z",
@@ -76760,7 +76760,7 @@
 	0.122794892082563]]
 },
 {
-	"name:" "Gemünden-Am-Main",
+	"name": "Gemünden-Am-Main",
 	"lon": 9.687,
 	"lat": 50.061,
 	"radio": [["2015-10-15T16:00:00Z",
@@ -76781,7 +76781,7 @@
 	0.13642227895906]]
 },
 {
-	"name:" "Genthin",
+	"name": "Genthin",
 	"lon": 12.160,
 	"lat": 52.387,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -76910,7 +76910,7 @@
 	0.0539529925703306]]
 },
 {
-	"name:" "Georgsdorf",
+	"name": "Georgsdorf",
 	"lon": 7.078,
 	"lat": 52.569,
 	"radio": [["2015-10-12T01:20:00Z",
@@ -76961,7 +76961,7 @@
 	0.0726162112240702]]
 },
 {
-	"name:" "Gera-OT-Leumnitz",
+	"name": "Gera-OT-Leumnitz",
 	"lon": 12.129,
 	"lat": 50.881,
 	"radio": [["2015-10-14T03:30:00Z",
@@ -76978,7 +76978,7 @@
 	0.158238817518759]]
 },
 {
-	"name:" "Geretsried",
+	"name": "Geretsried",
 	"lon": 11.477,
 	"lat": 47.869,
 	"radio": [["2015-10-13T21:10:00Z",
@@ -77023,7 +77023,7 @@
 	0.151992575239265]]
 },
 {
-	"name:" "Gerlenhofen",
+	"name": "Gerlenhofen",
 	"lon": 10.037,
 	"lat": 48.345,
 	"radio": [["2015-10-13T18:30:00Z",
@@ -77046,7 +77046,7 @@
 	0.134412469839674]]
 },
 {
-	"name:" "Geroldsgrün",
+	"name": "Geroldsgrün",
 	"lon": 11.597,
 	"lat": 50.340,
 	"radio": [["2015-10-13T15:20:00Z",
@@ -77059,7 +77059,7 @@
 	0.343427684623983]]
 },
 {
-	"name:" "Gerolfingen",
+	"name": "Gerolfingen",
 	"lon": 10.498,
 	"lat": 49.057,
 	"radio": [["2015-10-12T01:30:00Z",
@@ -77218,7 +77218,7 @@
 	0.106753844833391]]
 },
 {
-	"name:" "Gerolsbach",
+	"name": "Gerolsbach",
 	"lon": 11.364,
 	"lat": 48.497,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -77399,7 +77399,7 @@
 	0.129064513892256]]
 },
 {
-	"name:" "Gerolzhofen-OT-Rügshofen",
+	"name": "Gerolzhofen-OT-Rügshofen",
 	"lon": 10.364,
 	"lat": 49.910,
 	"radio": [["2015-10-15T01:40:00Z",
@@ -77454,7 +77454,7 @@
 	0.128348304358553]]
 },
 {
-	"name:" "Gersfeld/Rhön",
+	"name": "Gersfeld/Rhön",
 	"lon": 9.944,
 	"lat": 50.497,
 	"radio": [["2015-10-13T01:30:00Z",
@@ -77471,7 +77471,7 @@
 	0.134412798520866]]
 },
 {
-	"name:" "Gerzen",
+	"name": "Gerzen",
 	"lon": 12.420,
 	"lat": 48.505,
 	"radio": [["2015-10-13T21:50:00Z",
@@ -77514,14 +77514,14 @@
 	0.155952453613281]]
 },
 {
-	"name:" "Gescher",
+	"name": "Gescher",
 	"lon": 6.992,
 	"lat": 51.949,
 	"radio": [["2015-10-15T08:20:00Z",
 	0.0619325637817383]]
 },
 {
-	"name:" "Gettorf",
+	"name": "Gettorf",
 	"lon": 9.966,
 	"lat": 54.397,
 	"radio": [["2015-10-12T00:50:00Z",
@@ -77624,7 +77624,7 @@
 	0.0874232998501551]]
 },
 {
-	"name:" "Gieboldehausen",
+	"name": "Gieboldehausen",
 	"lon": 10.205,
 	"lat": 51.611,
 	"radio": [["2015-10-15T05:00:00Z",
@@ -77635,7 +77635,7 @@
 	0.145519309747037]]
 },
 {
-	"name:" "Gießen",
+	"name": "Gießen",
 	"lon": 8.644,
 	"lat": 50.602,
 	"radio": [["2015-10-15T09:20:00Z",
@@ -77648,14 +77648,14 @@
 	0.146388090237005]]
 },
 {
-	"name:" "Gifhorn",
+	"name": "Gifhorn",
 	"lon": 10.530,
 	"lat": 52.468,
 	"radio": [["2015-10-13T21:00:00Z",
 	0.0634638911579907]]
 },
 {
-	"name:" "Glücksburg",
+	"name": "Glücksburg",
 	"lon": 9.552,
 	"lat": 54.832,
 	"radio": [["2015-10-12T11:20:00Z",
@@ -77666,7 +77666,7 @@
 	0.0558422542408535]]
 },
 {
-	"name:" "Gnarrenburg",
+	"name": "Gnarrenburg",
 	"lon": 9.000,
 	"lat": 53.393,
 	"radio": [["2015-10-12T10:10:00Z",
@@ -77675,7 +77675,7 @@
 	0.056675985927507]]
 },
 {
-	"name:" "Goch-Asperden",
+	"name": "Goch-Asperden",
 	"lon": 6.111,
 	"lat": 51.691,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -77836,7 +77836,7 @@
 	0.104460166003673]]
 },
 {
-	"name:" "Görisried",
+	"name": "Görisried",
 	"lon": 10.521,
 	"lat": 47.702,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -78151,7 +78151,7 @@
 	0.130913461652086]]
 },
 {
-	"name:" "Görwihl-OT-Görwihl",
+	"name": "Görwihl-OT-Görwihl",
 	"lon": 8.083,
 	"lat": 47.642,
 	"radio": [["2015-10-14T06:50:00Z",
@@ -78160,7 +78160,7 @@
 	0.138116836547852]]
 },
 {
-	"name:" "Göttingen",
+	"name": "Göttingen",
 	"lon": 9.932,
 	"lat": 51.514,
 	"radio": [["2015-10-15T06:40:00Z",
@@ -78181,7 +78181,7 @@
 	0.117037270595429]]
 },
 {
-	"name:" "Göttingen-DWD",
+	"name": "Göttingen-DWD",
 	"lon": 9.951,
 	"lat": 51.500,
 	"radio": [["2015-10-14T04:20:00Z",
@@ -78206,7 +78206,7 @@
 	0.116831638341289]]
 },
 {
-	"name:" "Goldbach",
+	"name": "Goldbach",
 	"lon": 9.174,
 	"lat": 49.998,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -78243,7 +78243,7 @@
 	0.144284941472413]]
 },
 {
-	"name:" "Goldberg",
+	"name": "Goldberg",
 	"lon": 12.184,
 	"lat": 53.618,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -78326,7 +78326,7 @@
 	0.0991448144930903]]
 },
 {
-	"name:" "Golzow",
+	"name": "Golzow",
 	"lon": 12.609,
 	"lat": 52.278,
 	"radio": [["2015-10-12T03:10:00Z",
@@ -78341,14 +78341,14 @@
 	0.110665825642211]]
 },
 {
-	"name:" "Gorleben",
+	"name": "Gorleben",
 	"lon": 11.353,
 	"lat": 53.025,
 	"radio": [["2015-10-12T01:00:00Z",
 	0.0690168485385248]]
 },
 {
-	"name:" "Gotha",
+	"name": "Gotha",
 	"lon": 10.710,
 	"lat": 50.962,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -78495,7 +78495,7 @@
 	0.152716277712966]]
 },
 {
-	"name:" "Graben",
+	"name": "Graben",
 	"lon": 10.829,
 	"lat": 48.188,
 	"radio": [["2015-10-13T20:50:00Z",
@@ -78524,7 +78524,7 @@
 	0.143974413895012]]
 },
 {
-	"name:" "Gräfenberg",
+	"name": "Gräfenberg",
 	"lon": 11.243,
 	"lat": 49.648,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -78649,14 +78649,14 @@
 	0.122994176810057]]
 },
 {
-	"name:" "Gräfenhainichen",
+	"name": "Gräfenhainichen",
 	"lon": 12.479,
 	"lat": 51.731,
 	"radio": [["2015-10-13T03:40:00Z",
 	0.0788392946124077]]
 },
 {
-	"name:" "Gräfensteinberg",
+	"name": "Gräfensteinberg",
 	"lon": 10.815,
 	"lat": 49.152,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -78761,14 +78761,14 @@
 	0.115967646496939]]
 },
 {
-	"name:" "Grambek",
+	"name": "Grambek",
 	"lon": 10.680,
 	"lat": 53.573,
 	"radio": [["2015-10-14T21:10:00Z",
 	0.0731391832232475]]
 },
 {
-	"name:" "Grasberg",
+	"name": "Grasberg",
 	"lon": 8.975,
 	"lat": 53.172,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -79013,7 +79013,7 @@
 	0.0608804975024316]]
 },
 {
-	"name:" "Grasdorf",
+	"name": "Grasdorf",
 	"lon": 9.793,
 	"lat": 52.303,
 	"radio": [["2015-10-14T08:20:00Z",
@@ -79042,7 +79042,7 @@
 	0.0903064846905803]]
 },
 {
-	"name:" "Grassau",
+	"name": "Grassau",
 	"lon": 12.455,
 	"lat": 47.780,
 	"radio": [["2015-10-14T00:00:00Z",
@@ -79083,14 +79083,14 @@
 	0.133590472920812]]
 },
 {
-	"name:" "Grefrath",
+	"name": "Grefrath",
 	"lon": 6.332,
 	"lat": 51.344,
 	"radio": [["2015-10-15T13:40:00Z",
 	0.126598948377543]]
 },
 {
-	"name:" "Grettstadt-OT-Dürrfeld",
+	"name": "Grettstadt-OT-Dürrfeld",
 	"lon": 10.362,
 	"lat": 49.977,
 	"radio": [["2015-10-15T07:00:00Z",
@@ -79099,7 +79099,7 @@
 	0.140172357753861]]
 },
 {
-	"name:" "Greven-Flughafen-MS-OS",
+	"name": "Greven-Flughafen-MS-OS",
 	"lon": 7.697,
 	"lat": 52.135,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -79530,7 +79530,7 @@
 	0.0781672888837915]]
 },
 {
-	"name:" "Griesbach",
+	"name": "Griesbach",
 	"lon": 12.579,
 	"lat": 48.598,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -79603,7 +79603,7 @@
 	0.141713760697553]]
 },
 {
-	"name:" "Gronau-Spechtholtshook",
+	"name": "Gronau-Spechtholtshook",
 	"lon": 7.013,
 	"lat": 52.224,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -79792,7 +79792,7 @@
 	0.0888415416587549]]
 },
 {
-	"name:" "Groß-Denkte",
+	"name": "Groß-Denkte",
 	"lon": 10.628,
 	"lat": 52.146,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -79873,7 +79873,7 @@
 	0.0962664553998433]]
 },
 {
-	"name:" "Gross-Ilsede",
+	"name": "Gross-Ilsede",
 	"lon": 10.229,
 	"lat": 52.266,
 	"radio": [["2015-10-14T09:10:00Z",
@@ -79884,21 +79884,21 @@
 	0.135479938717758]]
 },
 {
-	"name:" "Groß-Kreutz-OT-Jeserig",
+	"name": "Groß-Kreutz-OT-Jeserig",
 	"lon": 12.701,
 	"lat": 52.410,
 	"radio": [["2015-10-14T14:00:00Z",
 	0.121871060999561]]
 },
 {
-	"name:" "Groß-Leine",
+	"name": "Groß-Leine",
 	"lon": 14.066,
 	"lat": 51.998,
 	"radio": [["2015-10-12T19:50:00Z",
 	0.0623497478485496]]
 },
 {
-	"name:" "Groß-Oesingen",
+	"name": "Groß-Oesingen",
 	"lon": 10.459,
 	"lat": 52.652,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -80153,7 +80153,7 @@
 	0.0474464386982715]]
 },
 {
-	"name:" "Groß-Twülpstedt",
+	"name": "Groß-Twülpstedt",
 	"lon": 10.925,
 	"lat": 52.376,
 	"radio": [["2015-10-14T10:30:00Z",
@@ -80190,7 +80190,7 @@
 	0.123621024724492]]
 },
 {
-	"name:" "Groß-Walmstorf",
+	"name": "Groß-Walmstorf",
 	"lon": 11.265,
 	"lat": 53.904,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -80589,14 +80589,14 @@
 	0.0875365303724307]]
 },
 {
-	"name:" "Groß-Gerau",
+	"name": "Groß-Gerau",
 	"lon": 8.479,
 	"lat": 49.913,
 	"radio": [["2015-10-13T01:00:00Z",
 	0.0757474973797798]]
 },
 {
-	"name:" "Großefehn-Bagband",
+	"name": "Großefehn-Bagband",
 	"lon": 7.606,
 	"lat": 53.350,
 	"radio": [["2015-10-12T10:40:00Z",
@@ -80605,7 +80605,7 @@
 	0.0625592399057106]]
 },
 {
-	"name:" "Großenkneten",
+	"name": "Großenkneten",
 	"lon": 8.258,
 	"lat": 52.944,
 	"radio": [["2015-10-14T15:30:00Z",
@@ -80614,7 +80614,7 @@
 	0.100178189068038]]
 },
 {
-	"name:" "Großkampenberg",
+	"name": "Großkampenberg",
 	"lon": 6.218,
 	"lat": 50.155,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -80965,14 +80965,14 @@
 	0.138945107137283]]
 },
 {
-	"name:" "Großrinderfeld",
+	"name": "Großrinderfeld",
 	"lon": 9.739,
 	"lat": 49.665,
 	"radio": [["2015-10-14T04:40:00Z",
 	0.144077217533569]]
 },
 {
-	"name:" "Großschönau",
+	"name": "Großschönau",
 	"lon": 14.663,
 	"lat": 50.894,
 	"radio": [["2015-10-14T05:00:00Z",
@@ -81035,7 +81035,7 @@
 	0.145619266083255]]
 },
 {
-	"name:" "Großsolt",
+	"name": "Großsolt",
 	"lon": 9.502,
 	"lat": 54.706,
 	"radio": [["2015-10-12T04:20:00Z",
@@ -81044,7 +81044,7 @@
 	0.0558426110871124]]
 },
 {
-	"name:" "Großwoltersdorf",
+	"name": "Großwoltersdorf",
 	"lon": 13.088,
 	"lat": 53.070,
 	"radio": [["2015-10-12T10:40:00Z",
@@ -81119,7 +81119,7 @@
 	0.0879380924191333]]
 },
 {
-	"name:" "Gstadt-Am-Chiemsee",
+	"name": "Gstadt-Am-Chiemsee",
 	"lon": 12.414,
 	"lat": 47.887,
 	"radio": [["2015-10-14T00:10:00Z",
@@ -81150,7 +81150,7 @@
 	0.140272763457508]]
 },
 {
-	"name:" "Güstrow",
+	"name": "Güstrow",
 	"lon": 12.186,
 	"lat": 53.802,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -81375,7 +81375,7 @@
 	0.083230542738539]]
 },
 {
-	"name:" "Gütersloh-Hollen",
+	"name": "Gütersloh-Hollen",
 	"lon": 8.370,
 	"lat": 51.956,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -81444,7 +81444,7 @@
 	0.0779648666645717]]
 },
 {
-	"name:" "Gundersweiler",
+	"name": "Gundersweiler",
 	"lon": 7.783,
 	"lat": 49.595,
 	"radio": [["2015-10-12T03:30:00Z",
@@ -81543,7 +81543,7 @@
 	0.130505745390317]]
 },
 {
-	"name:" "Haberskirchen",
+	"name": "Haberskirchen",
 	"lon": 12.649,
 	"lat": 48.513,
 	"radio": [["2015-10-13T23:10:00Z",
@@ -81560,7 +81560,7 @@
 	0.156778335571289]]
 },
 {
-	"name:" "Hagen-Westf.",
+	"name": "Hagen-Westf.",
 	"lon": 7.473,
 	"lat": 51.380,
 	"radio": [["2015-10-14T09:20:00Z",
@@ -81611,14 +81611,14 @@
 	0.125677332134652]]
 },
 {
-	"name:" "Hagermarsch-AS-Hilgenriedersiel",
+	"name": "Hagermarsch-AS-Hilgenriedersiel",
 	"lon": 7.285,
 	"lat": 53.665,
 	"radio": [["2015-10-12T00:00:00Z",
 	0.0875345723844238]]
 },
 {
-	"name:" "Haigerloch-ST-Gruol",
+	"name": "Haigerloch-ST-Gruol",
 	"lon": 8.779,
 	"lat": 48.345,
 	"radio": [["2015-10-12T03:40:00Z",
@@ -81627,7 +81627,7 @@
 	0.133385370020769]]
 },
 {
-	"name:" "Haiming",
+	"name": "Haiming",
 	"lon": 12.885,
 	"lat": 48.212,
 	"radio": [["2015-10-15T02:20:00Z",
@@ -81640,7 +81640,7 @@
 	0.147751194167334]]
 },
 {
-	"name:" "Hainichen-OT-Crumbach",
+	"name": "Hainichen-OT-Crumbach",
 	"lon": 13.104,
 	"lat": 50.978,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -81797,7 +81797,7 @@
 	0.135438556115225]]
 },
 {
-	"name:" "Hainsfarth",
+	"name": "Hainsfarth",
 	"lon": 10.611,
 	"lat": 48.955,
 	"radio": [["2015-10-13T12:30:00Z",
@@ -81838,7 +81838,7 @@
 	0.140410545627791]]
 },
 {
-	"name:" "Halle",
+	"name": "Halle",
 	"lon": 11.966,
 	"lat": 51.519,
 	"radio": [["2015-10-15T03:40:00Z",
@@ -81869,7 +81869,7 @@
 	0.131227015154946]]
 },
 {
-	"name:" "Halsenbach",
+	"name": "Halsenbach",
 	"lon": 7.555,
 	"lat": 50.173,
 	"radio": [["2015-10-12T02:40:00Z",
@@ -81950,7 +81950,7 @@
 	0.130406762876338]]
 },
 {
-	"name:" "Haltern",
+	"name": "Haltern",
 	"lon": 7.206,
 	"lat": 51.735,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -81969,7 +81969,7 @@
 	0.0693251981039744]]
 },
 {
-	"name:" "Hamburg-Finkenwerder",
+	"name": "Hamburg-Finkenwerder",
 	"lon": 9.827,
 	"lat": 53.534,
 	"radio": [["2015-10-12T05:00:00Z",
@@ -81998,14 +81998,14 @@
 	0.0789932336055916]]
 },
 {
-	"name:" "Hamburg-Fuhlsbüttel",
+	"name": "Hamburg-Fuhlsbüttel",
 	"lon": 9.988,
 	"lat": 53.633,
 	"radio": [["2015-10-15T02:20:00Z",
 	0.0588977783982773]]
 },
 {
-	"name:" "Hamburg-Sasel",
+	"name": "Hamburg-Sasel",
 	"lon": 10.110,
 	"lat": 53.650,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -82032,7 +82032,7 @@
 	0.0835157405359892]]
 },
 {
-	"name:" "Hamburg-Wilhelmsburg",
+	"name": "Hamburg-Wilhelmsburg",
 	"lon": 10.020,
 	"lat": 53.491,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -82425,7 +82425,7 @@
 	0.100860728831828]]
 },
 {
-	"name:" "Hamminkeln-Marienthal",
+	"name": "Hamminkeln-Marienthal",
 	"lon": 6.727,
 	"lat": 51.726,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -82716,7 +82716,7 @@
 	0.0761119309883916]]
 },
 {
-	"name:" "Hannover-Flughafen-DWD",
+	"name": "Hannover-Flughafen-DWD",
 	"lon": 9.701,
 	"lat": 52.461,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -82811,7 +82811,7 @@
 	0.0765148884359955]]
 },
 {
-	"name:" "Harburg",
+	"name": "Harburg",
 	"lon": 10.702,
 	"lat": 48.785,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -82946,7 +82946,7 @@
 	0.0709564533158731]]
 },
 {
-	"name:" "Hardheim",
+	"name": "Hardheim",
 	"lon": 9.474,
 	"lat": 49.610,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -83223,7 +83223,7 @@
 	0.129607171121536]]
 },
 {
-	"name:" "Haren/Ems-OT-Rütenbrock",
+	"name": "Haren/Ems-OT-Rütenbrock",
 	"lon": 7.099,
 	"lat": 52.837,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -83310,7 +83310,7 @@
 	0.0539531649565563]]
 },
 {
-	"name:" "Hartkirchen",
+	"name": "Hartkirchen",
 	"lon": 13.388,
 	"lat": 48.396,
 	"radio": [["2015-10-12T01:00:00Z",
@@ -83407,7 +83407,7 @@
 	0.101001057293181]]
 },
 {
-	"name:" "Harzgerode",
+	"name": "Harzgerode",
 	"lon": 11.137,
 	"lat": 51.652,
 	"radio": [["2015-10-15T06:30:00Z",
@@ -83424,7 +83424,7 @@
 	0.133067254133713]]
 },
 {
-	"name:" "Hasselfelde",
+	"name": "Hasselfelde",
 	"lon": 10.847,
 	"lat": 51.693,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -83559,7 +83559,7 @@
 	0.110969677461481]]
 },
 {
-	"name:" "Hausach",
+	"name": "Hausach",
 	"lon": 8.155,
 	"lat": 48.285,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -83716,7 +83716,7 @@
 	0.126655921341855]]
 },
 {
-	"name:" "Hausen-OT-Sulzwiesen",
+	"name": "Hausen-OT-Sulzwiesen",
 	"lon": 10.016,
 	"lat": 49.913,
 	"radio": [["2015-10-15T06:10:00Z",
@@ -83727,7 +83727,7 @@
 	0.157396331429482]]
 },
 {
-	"name:" "Heek-Ahle",
+	"name": "Heek-Ahle",
 	"lon": 7.051,
 	"lat": 52.115,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -83904,7 +83904,7 @@
 	0.0536946033306374]]
 },
 {
-	"name:" "Heemsen",
+	"name": "Heemsen",
 	"lon": 9.263,
 	"lat": 52.706,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -83925,14 +83925,14 @@
 	0.0712801844618198]]
 },
 {
-	"name:" "Heide",
+	"name": "Heide",
 	"lon": 9.153,
 	"lat": 54.192,
 	"radio": [["2015-10-14T21:20:00Z",
 	0.061341719124221]]
 },
 {
-	"name:" "Heideck",
+	"name": "Heideck",
 	"lon": 11.112,
 	"lat": 49.128,
 	"radio": [["2015-10-13T06:10:00Z",
@@ -83977,14 +83977,14 @@
 	0.138013741851431]]
 },
 {
-	"name:" "Heiden",
+	"name": "Heiden",
 	"lon": 6.935,
 	"lat": 51.821,
 	"radio": [["2015-10-12T18:00:00Z",
 	0.0584243667141892]]
 },
 {
-	"name:" "Heidenheim-Am-Hahne",
+	"name": "Heidenheim-Am-Hahne",
 	"lon": 10.736,
 	"lat": 49.020,
 	"radio": [["2015-10-14T03:30:00Z",
@@ -83997,7 +83997,7 @@
 	0.1304447306411]]
 },
 {
-	"name:" "Heikendorf",
+	"name": "Heikendorf",
 	"lon": 10.210,
 	"lat": 54.370,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -84180,7 +84180,7 @@
 	0.086902772268647]]
 },
 {
-	"name:" "Heilsbronn",
+	"name": "Heilsbronn",
 	"lon": 10.793,
 	"lat": 49.341,
 	"radio": [["2015-10-14T00:40:00Z",
@@ -84193,7 +84193,7 @@
 	0.138520197799969]]
 },
 {
-	"name:" "Helgoland-Oberland",
+	"name": "Helgoland-Oberland",
 	"lon": 7.874,
 	"lat": 54.188,
 	"radio": [["2015-10-12T05:10:00Z",
@@ -84622,7 +84622,7 @@
 	0.153124489742091]]
 },
 {
-	"name:" "Hellenthal-Udenbreth",
+	"name": "Hellenthal-Udenbreth",
 	"lon": 6.374,
 	"lat": 50.410,
 	"radio": [["2015-10-15T19:50:00Z",
@@ -84633,14 +84633,14 @@
 	0.14592767443676]]
 },
 {
-	"name:" "Helmstadt",
+	"name": "Helmstadt",
 	"lon": 9.708,
 	"lat": 49.764,
 	"radio": [["2015-10-15T06:30:00Z",
 	0.148695674042562]]
 },
 {
-	"name:" "Helmstadt-Bargen-OT-Barg.",
+	"name": "Helmstadt-Bargen-OT-Barg.",
 	"lon": 9.021,
 	"lat": 49.307,
 	"radio": [["2015-10-14T03:50:00Z",
@@ -84649,7 +84649,7 @@
 	0.135340714689583]]
 },
 {
-	"name:" "Herleshausen",
+	"name": "Herleshausen",
 	"lon": 10.153,
 	"lat": 51.037,
 	"radio": [["2015-10-15T18:00:00Z",
@@ -84660,7 +84660,7 @@
 	0.143765796501451]]
 },
 {
-	"name:" "Hermaringen",
+	"name": "Hermaringen",
 	"lon": 10.251,
 	"lat": 48.597,
 	"radio": [["2015-10-13T19:50:00Z",
@@ -84707,7 +84707,7 @@
 	0.140786443439821]]
 },
 {
-	"name:" "Hermesdorf",
+	"name": "Hermesdorf",
 	"lon": 6.449,
 	"lat": 50.001,
 	"radio": [["2015-10-12T01:10:00Z",
@@ -84748,7 +84748,7 @@
 	0.0911257999614494]]
 },
 {
-	"name:" "Herrischried-OT-Großherrischwand",
+	"name": "Herrischried-OT-Großherrischwand",
 	"lon": 8.007,
 	"lat": 47.680,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -85037,7 +85037,7 @@
 	0.195644393563271]]
 },
 {
-	"name:" "Hessisch-Lichtenau-OT-Quentel",
+	"name": "Hessisch-Lichtenau-OT-Quentel",
 	"lon": 9.651,
 	"lat": 51.200,
 	"radio": [["2015-10-15T06:30:00Z",
@@ -85048,7 +85048,7 @@
 	0.148394924988113]]
 },
 {
-	"name:" "Hildburghausen",
+	"name": "Hildburghausen",
 	"lon": 10.734,
 	"lat": 50.414,
 	"radio": [["2015-10-14T02:10:00Z",
@@ -85071,7 +85071,7 @@
 	0.128346107230776]]
 },
 {
-	"name:" "Hildesheim",
+	"name": "Hildesheim",
 	"lon": 9.984,
 	"lat": 52.149,
 	"radio": [["2015-10-15T05:50:00Z",
@@ -85084,7 +85084,7 @@
 	0.13945100405981]]
 },
 {
-	"name:" "Himmelpforten",
+	"name": "Himmelpforten",
 	"lon": 9.319,
 	"lat": 53.627,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -85163,7 +85163,7 @@
 	0.0786862645372266]]
 },
 {
-	"name:" "Hinterhermsdorf",
+	"name": "Hinterhermsdorf",
 	"lon": 14.358,
 	"lat": 50.926,
 	"radio": [["2015-10-14T04:40:00Z",
@@ -85174,14 +85174,14 @@
 	0.128144247653832]]
 },
 {
-	"name:" "Hipstedt",
+	"name": "Hipstedt",
 	"lon": 8.966,
 	"lat": 53.497,
 	"radio": [["2015-10-15T03:10:00Z",
 	0.0618672445416451]]
 },
 {
-	"name:" "Hirschfelde",
+	"name": "Hirschfelde",
 	"lon": 14.880,
 	"lat": 50.947,
 	"radio": [["2015-10-14T04:40:00Z",
@@ -85192,7 +85192,7 @@
 	0.156143153926794]]
 },
 {
-	"name:" "Hirzenhain",
+	"name": "Hirzenhain",
 	"lon": 9.136,
 	"lat": 50.390,
 	"radio": [["2015-10-15T08:10:00Z",
@@ -85201,7 +85201,7 @@
 	0.147985165894742]]
 },
 {
-	"name:" "Hodenhagen",
+	"name": "Hodenhagen",
 	"lon": 9.611,
 	"lat": 52.763,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -85212,7 +85212,7 @@
 	0.0538996436862996]]
 },
 {
-	"name:" "Höchheim-OT-Irmelshausen",
+	"name": "Höchheim-OT-Irmelshausen",
 	"lon": 10.464,
 	"lat": 50.363,
 	"radio": [["2015-10-15T05:00:00Z",
@@ -85261,7 +85261,7 @@
 	0.144389158780396]]
 },
 {
-	"name:" "Höhenrain",
+	"name": "Höhenrain",
 	"lon": 11.389,
 	"lat": 47.929,
 	"radio": [["2015-10-13T21:10:00Z",
@@ -85288,7 +85288,7 @@
 	0.0796551766280651]]
 },
 {
-	"name:" "Hörnum-Sylt",
+	"name": "Hörnum-Sylt",
 	"lon": 8.286,
 	"lat": 54.769,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -85559,7 +85559,7 @@
 	0.0542071281590595]]
 },
 {
-	"name:" "Hörzhausen",
+	"name": "Hörzhausen",
 	"lon": 11.207,
 	"lat": 48.542,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -85616,14 +85616,14 @@
 	0.0680152118686979]]
 },
 {
-	"name:" "Hötensleben",
+	"name": "Hötensleben",
 	"lon": 11.023,
 	"lat": 52.118,
 	"radio": [["2015-10-14T09:50:00Z",
 	0.129995512251273]]
 },
 {
-	"name:" "Hötzelsdorf",
+	"name": "Hötzelsdorf",
 	"lon": 11.963,
 	"lat": 49.478,
 	"radio": [["2015-10-12T02:50:00Z",
@@ -85708,7 +85708,7 @@
 	0.165897699804036]]
 },
 {
-	"name:" "Höxter",
+	"name": "Höxter",
 	"lon": 9.395,
 	"lat": 51.788,
 	"radio": [["2015-10-15T06:30:00Z",
@@ -85719,14 +85719,14 @@
 	0.143765337004932]]
 },
 {
-	"name:" "Höxter-Bruchhausen",
+	"name": "Höxter-Bruchhausen",
 	"lon": 9.283,
 	"lat": 51.703,
 	"radio": [["2015-10-15T10:00:00Z",
 	0.142534460648828]]
 },
 {
-	"name:" "Hof",
+	"name": "Hof",
 	"lon": 11.876,
 	"lat": 50.313,
 	"radio": [["2015-10-15T04:10:00Z",
@@ -85737,14 +85737,14 @@
 	0.152786799336801]]
 },
 {
-	"name:" "Hofheim-A.T.Wallau",
+	"name": "Hofheim-A.T.Wallau",
 	"lon": 8.367,
 	"lat": 50.064,
 	"radio": [["2015-10-14T04:30:00Z",
 	0.140892003965364]]
 },
 {
-	"name:" "Hohenberg-A.d.Eger",
+	"name": "Hohenberg-A.d.Eger",
 	"lon": 12.224,
 	"lat": 50.092,
 	"radio": [["2015-10-13T23:50:00Z",
@@ -85773,7 +85773,7 @@
 	0.118992513181874]]
 },
 {
-	"name:" "Hohengüstow",
+	"name": "Hohengüstow",
 	"lon": 13.985,
 	"lat": 53.236,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -85958,7 +85958,7 @@
 	0.079957015812397]]
 },
 {
-	"name:" "Hohenpeißenberg",
+	"name": "Hohenpeißenberg",
 	"lon": 11.023,
 	"lat": 47.802,
 	"radio": [["2015-10-13T20:10:00Z",
@@ -86037,7 +86037,7 @@
 	0.149011368778177]]
 },
 {
-	"name:" "Hohenschwangau",
+	"name": "Hohenschwangau",
 	"lon": 10.741,
 	"lat": 47.556,
 	"radio": [["2015-10-13T17:40:00Z",
@@ -86130,7 +86130,7 @@
 	0.146808591790861]]
 },
 {
-	"name:" "Hohenthann",
+	"name": "Hohenthann",
 	"lon": 12.080,
 	"lat": 48.658,
 	"radio": [["2015-10-12T04:20:00Z",
@@ -86283,14 +86283,14 @@
 	0.121976561036752]]
 },
 {
-	"name:" "Holt-Und-Haar-Bad-Benth.",
+	"name": "Holt-Und-Haar-Bad-Benth.",
 	"lon": 7.086,
 	"lat": 52.365,
 	"radio": [["2015-10-14T09:10:00Z",
 	0.066705696284771]]
 },
 {
-	"name:" "Holzappel",
+	"name": "Holzappel",
 	"lon": 7.892,
 	"lat": 50.352,
 	"radio": [["2015-10-13T13:40:00Z",
@@ -86333,7 +86333,7 @@
 	0.141562584910156]]
 },
 {
-	"name:" "Holzheim",
+	"name": "Holzheim",
 	"lon": 10.526,
 	"lat": 48.516,
 	"radio": [["2015-10-14T00:30:00Z",
@@ -86342,7 +86342,7 @@
 	0.168941497802734]]
 },
 {
-	"name:" "Holzminden",
+	"name": "Holzminden",
 	"lon": 9.444,
 	"lat": 51.840,
 	"radio": [["2015-10-12T05:00:00Z",
@@ -86351,7 +86351,7 @@
 	0.122591364227695]]
 },
 {
-	"name:" "Homberg-Efze",
+	"name": "Homberg-Efze",
 	"lon": 9.413,
 	"lat": 51.022,
 	"radio": [["2015-10-15T06:50:00Z",
@@ -86396,7 +86396,7 @@
 	0.155281753719171]]
 },
 {
-	"name:" "Homberg-Ohm",
+	"name": "Homberg-Ohm",
 	"lon": 9.022,
 	"lat": 50.751,
 	"radio": [["2015-10-15T17:50:00Z",
@@ -86405,7 +86405,7 @@
 	0.13492980670569]]
 },
 {
-	"name:" "Hornburg",
+	"name": "Hornburg",
 	"lon": 10.604,
 	"lat": 52.035,
 	"radio": [["2015-10-15T06:30:00Z",
@@ -86422,7 +86422,7 @@
 	0.126497993128717]]
 },
 {
-	"name:" "Hütschenhausen",
+	"name": "Hütschenhausen",
 	"lon": 7.492,
 	"lat": 49.421,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -86505,7 +86505,7 @@
 	0.107141265903419]]
 },
 {
-	"name:" "Hunderdorf",
+	"name": "Hunderdorf",
 	"lon": 12.723,
 	"lat": 48.943,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -86966,14 +86966,14 @@
 	0.128242356354644]]
 },
 {
-	"name:" "Hungen",
+	"name": "Hungen",
 	"lon": 8.892,
 	"lat": 50.471,
 	"radio": [["2015-10-15T17:20:00Z",
 	0.136214226982344]]
 },
 {
-	"name:" "Husum",
+	"name": "Husum",
 	"lon": 9.072,
 	"lat": 54.491,
 	"radio": [["2015-10-12T02:30:00Z",
@@ -86992,14 +86992,14 @@
 	0.0527677880415156]]
 },
 {
-	"name:" "Ichenhausen",
+	"name": "Ichenhausen",
 	"lon": 10.300,
 	"lat": 48.365,
 	"radio": [["2015-10-13T22:50:00Z",
 	0.167602524161339]]
 },
 {
-	"name:" "Idar-Oberstein",
+	"name": "Idar-Oberstein",
 	"lon": 7.354,
 	"lat": 49.700,
 	"radio": [["2015-10-13T21:00:00Z",
@@ -87034,7 +87034,7 @@
 	0.130340661952142]]
 },
 {
-	"name:" "Idstein-OT-Kröftel",
+	"name": "Idstein-OT-Kröftel",
 	"lon": 8.377,
 	"lat": 50.228,
 	"radio": [["2015-10-15T16:40:00Z",
@@ -87047,7 +87047,7 @@
 	0.157030074062564]]
 },
 {
-	"name:" "Ihlewitz",
+	"name": "Ihlewitz",
 	"lon": 11.684,
 	"lat": 51.646,
 	"radio": [["2015-10-15T03:10:00Z",
@@ -87088,7 +87088,7 @@
 	0.144901416359425]]
 },
 {
-	"name:" "Ilmenau",
+	"name": "Ilmenau",
 	"lon": 10.893,
 	"lat": 50.681,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -87657,7 +87657,7 @@
 	0.160867538874653]]
 },
 {
-	"name:" "Ilmmünster",
+	"name": "Ilmmünster",
 	"lon": 11.505,
 	"lat": 48.485,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -87726,7 +87726,7 @@
 	0.0935929824825286]]
 },
 {
-	"name:" "Ilsfeld-OT-Auenstein",
+	"name": "Ilsfeld-OT-Auenstein",
 	"lon": 9.294,
 	"lat": 49.059,
 	"radio": [["2015-10-13T08:10:00Z",
@@ -87759,7 +87759,7 @@
 	0.128142680651111]]
 },
 {
-	"name:" "Ingeleben",
+	"name": "Ingeleben",
 	"lon": 10.872,
 	"lat": 52.103,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -87920,14 +87920,14 @@
 	0.08764090214113]]
 },
 {
-	"name:" "Insel-Neuwerk",
+	"name": "Insel-Neuwerk",
 	"lon": 8.502,
 	"lat": 53.921,
 	"radio": [["2015-10-14T10:30:00Z",
 	0.0528711539512186]]
 },
 {
-	"name:" "Jahrdorf-OT-Sterlwaid",
+	"name": "Jahrdorf-OT-Sterlwaid",
 	"lon": 13.643,
 	"lat": 48.637,
 	"radio": [["2015-10-14T01:40:00Z",
@@ -87952,7 +87952,7 @@
 	0.131946686697767]]
 },
 {
-	"name:" "Jena",
+	"name": "Jena",
 	"lon": 11.618,
 	"lat": 50.955,
 	"radio": [["2015-10-12T08:40:00Z",
@@ -88007,7 +88007,7 @@
 	0.122139310703806]]
 },
 {
-	"name:" "Jesberg",
+	"name": "Jesberg",
 	"lon": 9.141,
 	"lat": 50.998,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -88074,7 +88074,7 @@
 	0.121146614483685]]
 },
 {
-	"name:" "Jettingen-Scheppach",
+	"name": "Jettingen-Scheppach",
 	"lon": 10.437,
 	"lat": 48.379,
 	"radio": [["2015-10-13T22:40:00Z",
@@ -88093,7 +88093,7 @@
 	0.159767165780067]]
 },
 {
-	"name:" "Jevenstedt-OT-Nienkattbek",
+	"name": "Jevenstedt-OT-Nienkattbek",
 	"lon": 9.707,
 	"lat": 54.208,
 	"radio": [["2015-10-12T15:30:00Z",
@@ -88106,7 +88106,7 @@
 	0.0577038820456128]]
 },
 {
-	"name:" "Johanngeorgenstadt",
+	"name": "Johanngeorgenstadt",
 	"lon": 12.708,
 	"lat": 50.434,
 	"radio": [["2015-10-12T07:30:00Z",
@@ -88219,7 +88219,7 @@
 	0.152891197779055]]
 },
 {
-	"name:" "Jülich-Koslar",
+	"name": "Jülich-Koslar",
 	"lon": 6.325,
 	"lat": 50.923,
 	"radio": [["2015-10-15T12:40:00Z",
@@ -88230,7 +88230,7 @@
 	0.127733619438588]]
 },
 {
-	"name:" "Kall-Steinfeld",
+	"name": "Kall-Steinfeld",
 	"lon": 6.561,
 	"lat": 50.503,
 	"radio": [["2015-10-15T19:40:00Z",
@@ -88241,7 +88241,7 @@
 	0.132769165445767]]
 },
 {
-	"name:" "Kalletal-Stemmen",
+	"name": "Kalletal-Stemmen",
 	"lon": 9.000,
 	"lat": 52.172,
 	"radio": [["2015-10-15T09:10:00Z",
@@ -88260,7 +88260,7 @@
 	0.148705147220851]]
 },
 {
-	"name:" "Kaltenbrunn",
+	"name": "Kaltenbrunn",
 	"lon": 11.935,
 	"lat": 49.652,
 	"radio": [["2015-10-12T03:10:00Z",
@@ -88391,14 +88391,14 @@
 	0.144798965937703]]
 },
 {
-	"name:" "Kaltenengers",
+	"name": "Kaltenengers",
 	"lon": 7.550,
 	"lat": 50.409,
 	"radio": [["2015-10-15T21:20:00Z",
 	0.136574089763882]]
 },
 {
-	"name:" "Kamp-Lintfort",
+	"name": "Kamp-Lintfort",
 	"lon": 6.537,
 	"lat": 51.498,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -88515,14 +88515,14 @@
 	0.103023721285108]]
 },
 {
-	"name:" "Karlshausen",
+	"name": "Karlshausen",
 	"lon": 6.225,
 	"lat": 50.021,
 	"radio": [["2015-10-15T23:50:00Z",
 	0.142537248894794]]
 },
 {
-	"name:" "Karsdorf",
+	"name": "Karsdorf",
 	"lon": 11.638,
 	"lat": 51.275,
 	"radio": [["2015-10-15T03:50:00Z",
@@ -88549,7 +88549,7 @@
 	0.139758737977278]]
 },
 {
-	"name:" "Kastellaun",
+	"name": "Kastellaun",
 	"lon": 7.446,
 	"lat": 50.069,
 	"radio": [["2015-10-13T18:50:00Z",
@@ -88562,7 +88562,7 @@
 	0.144284588657555]]
 },
 {
-	"name:" "Katzenelnbogen",
+	"name": "Katzenelnbogen",
 	"lon": 7.979,
 	"lat": 50.269,
 	"radio": [["2015-10-12T20:40:00Z",
@@ -88597,7 +88597,7 @@
 	0.16648721166248]]
 },
 {
-	"name:" "Kaufering",
+	"name": "Kaufering",
 	"lon": 10.878,
 	"lat": 48.086,
 	"radio": [["2015-10-13T20:50:00Z",
@@ -88636,7 +88636,7 @@
 	0.153740911126918]]
 },
 {
-	"name:" "Kempen",
+	"name": "Kempen",
 	"lon": 6.437,
 	"lat": 51.365,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -88649,7 +88649,7 @@
 	0.0793485957061645]]
 },
 {
-	"name:" "Kempten",
+	"name": "Kempten",
 	"lon": 10.335,
 	"lat": 47.723,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -88852,7 +88852,7 @@
 	0.111997852817113]]
 },
 {
-	"name:" "Kiebitzreihe",
+	"name": "Kiebitzreihe",
 	"lon": 9.615,
 	"lat": 53.783,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -89157,7 +89157,7 @@
 	0.0634006223271085]]
 },
 {
-	"name:" "Kienitz",
+	"name": "Kienitz",
 	"lon": 14.432,
 	"lat": 52.673,
 	"radio": [["2015-10-14T16:00:00Z",
@@ -89166,7 +89166,7 @@
 	0.143974661208176]]
 },
 {
-	"name:" "Kirchdorf-Am-Inn",
+	"name": "Kirchdorf-Am-Inn",
 	"lon": 12.981,
 	"lat": 48.245,
 	"radio": [["2015-10-15T02:40:00Z",
@@ -89181,7 +89181,7 @@
 	0.14880649443019]]
 },
 {
-	"name:" "Kirchdorf-Im-Wald",
+	"name": "Kirchdorf-Im-Wald",
 	"lon": 13.265,
 	"lat": 48.909,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -89554,7 +89554,7 @@
 	0.156519531030008]]
 },
 {
-	"name:" "Kirchfembach",
+	"name": "Kirchfembach",
 	"lon": 10.807,
 	"lat": 49.516,
 	"radio": [["2015-10-13T05:30:00Z",
@@ -89589,14 +89589,14 @@
 	0.145549891199956]]
 },
 {
-	"name:" "Kirchhatten",
+	"name": "Kirchhatten",
 	"lon": 8.352,
 	"lat": 53.020,
 	"radio": [["2015-10-13T00:20:00Z",
 	0.061819602608454]]
 },
 {
-	"name:" "Kirchheimbolanden",
+	"name": "Kirchheimbolanden",
 	"lon": 8.013,
 	"lat": 49.661,
 	"radio": [["2015-10-13T00:50:00Z",
@@ -89629,7 +89629,7 @@
 	0.160423925838936]]
 },
 {
-	"name:" "Kirchhundem",
+	"name": "Kirchhundem",
 	"lon": 8.098,
 	"lat": 51.081,
 	"radio": [["2015-10-15T05:50:00Z",
@@ -89662,14 +89662,14 @@
 	0.133487280625954]]
 },
 {
-	"name:" "Kirn/Nahe",
+	"name": "Kirn/Nahe",
 	"lon": 7.484,
 	"lat": 49.789,
 	"radio": [["2015-10-13T23:20:00Z",
 	0.145654783284819]]
 },
 {
-	"name:" "Kissenbrück",
+	"name": "Kissenbrück",
 	"lon": 10.590,
 	"lat": 52.111,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -89688,7 +89688,7 @@
 	0.112684361769412]]
 },
 {
-	"name:" "Klais-OT-Elmau",
+	"name": "Klais-OT-Elmau",
 	"lon": 11.178,
 	"lat": 47.464,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -89951,14 +89951,14 @@
 	0.131221881018527]]
 },
 {
-	"name:" "Klein-Berßen",
+	"name": "Klein-Berßen",
 	"lon": 7.464,
 	"lat": 52.770,
 	"radio": [["2015-10-12T05:10:00Z",
 	0.0569843852957303]]
 },
 {
-	"name:" "Klein-Wanzleben",
+	"name": "Klein-Wanzleben",
 	"lon": 11.372,
 	"lat": 52.069,
 	"radio": [["2015-10-15T05:00:00Z",
@@ -89973,7 +89973,7 @@
 	0.147471512315298]]
 },
 {
-	"name:" "Kleinheubach",
+	"name": "Kleinheubach",
 	"lon": 9.212,
 	"lat": 49.717,
 	"radio": [["2015-10-12T07:30:00Z",
@@ -90066,7 +90066,7 @@
 	0.102121089752802]]
 },
 {
-	"name:" "Klockow",
+	"name": "Klockow",
 	"lon": 14.003,
 	"lat": 53.395,
 	"radio": [["2015-10-12T07:20:00Z",
@@ -90123,7 +90123,7 @@
 	0.100069975273791]]
 },
 {
-	"name:" "Köln-Merheim",
+	"name": "Köln-Merheim",
 	"lon": 7.054,
 	"lat": 50.939,
 	"radio": [["2015-10-12T01:50:00Z",
@@ -90164,7 +90164,7 @@
 	0.0868069587697329]]
 },
 {
-	"name:" "Königs-Wusterhausen",
+	"name": "Königs-Wusterhausen",
 	"lon": 13.644,
 	"lat": 52.298,
 	"radio": [["2015-10-12T03:20:00Z",
@@ -90185,14 +90185,14 @@
 	0.0572929229309224]]
 },
 {
-	"name:" "Königsbrück",
+	"name": "Königsbrück",
 	"lon": 13.891,
 	"lat": 51.271,
 	"radio": [["2015-10-14T11:00:00Z",
 	0.13996777093486]]
 },
 {
-	"name:" "Königsee",
+	"name": "Königsee",
 	"lon": 11.100,
 	"lat": 50.656,
 	"radio": [["2015-10-15T04:30:00Z",
@@ -90215,7 +90215,7 @@
 	0.16021676573795]]
 },
 {
-	"name:" "Königslutter",
+	"name": "Königslutter",
 	"lon": 10.812,
 	"lat": 52.252,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -90348,7 +90348,7 @@
 	0.0590402828266594]]
 },
 {
-	"name:" "Köthen",
+	"name": "Köthen",
 	"lon": 11.952,
 	"lat": 51.725,
 	"radio": [["2015-10-14T09:20:00Z",
@@ -90427,7 +90427,7 @@
 	0.136781713765361]]
 },
 {
-	"name:" "Kolbermoor-OT-Moorkultur",
+	"name": "Kolbermoor-OT-Moorkultur",
 	"lon": 12.076,
 	"lat": 47.864,
 	"radio": [["2015-10-13T16:00:00Z",
@@ -90506,7 +90506,7 @@
 	0.132205970594457]]
 },
 {
-	"name:" "Kolitzheim",
+	"name": "Kolitzheim",
 	"lon": 10.234,
 	"lat": 49.922,
 	"radio": [["2015-10-13T03:10:00Z",
@@ -90517,7 +90517,7 @@
 	0.168220520019531]]
 },
 {
-	"name:" "Konstanz",
+	"name": "Konstanz",
 	"lon": 9.190,
 	"lat": 47.677,
 	"radio": [["2015-10-13T19:20:00Z",
@@ -90532,7 +90532,7 @@
 	0.148807949803097]]
 },
 {
-	"name:" "Konzell",
+	"name": "Konzell",
 	"lon": 12.711,
 	"lat": 49.071,
 	"radio": [["2015-10-12T02:00:00Z",
@@ -90731,7 +90731,7 @@
 	0.146492512896735]]
 },
 {
-	"name:" "Kornbach",
+	"name": "Kornbach",
 	"lon": 11.798,
 	"lat": 50.100,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -90924,28 +90924,28 @@
 	0.167719900060589]]
 },
 {
-	"name:" "Korntal-Münchingen",
+	"name": "Korntal-Münchingen",
 	"lon": 9.137,
 	"lat": 48.832,
 	"radio": [["2015-10-14T03:20:00Z",
 	0.158426284790039]]
 },
 {
-	"name:" "Krefeld-Fischeln",
+	"name": "Krefeld-Fischeln",
 	"lon": 6.538,
 	"lat": 51.302,
 	"radio": [["2015-10-12T04:50:00Z",
 	0.0789887883580214]]
 },
 {
-	"name:" "Krauschwitz-OT-Werdeck",
+	"name": "Krauschwitz-OT-Werdeck",
 	"lon": 14.896,
 	"lat": 51.477,
 	"radio": [["2015-10-14T13:20:00Z",
 	0.128657054189558]]
 },
 {
-	"name:" "Krefeld-Fischeln",
+	"name": "Krefeld-Fischeln",
 	"lon": 6.538,
 	"lat": 51.302,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -91372,7 +91372,7 @@
 	0.0910196314693713]]
 },
 {
-	"name:" "Kressbronn",
+	"name": "Kressbronn",
 	"lon": 9.597,
 	"lat": 47.592,
 	"radio": [["2015-10-13T17:30:00Z",
@@ -91389,7 +91389,7 @@
 	0.152510300896114]]
 },
 {
-	"name:" "Kreuth",
+	"name": "Kreuth",
 	"lon": 11.749,
 	"lat": 47.644,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -91968,7 +91968,7 @@
 	0.107375962090124]]
 },
 {
-	"name:" "Kronau",
+	"name": "Kronau",
 	"lon": 12.046,
 	"lat": 47.976,
 	"radio": [["2015-10-14T22:50:00Z",
@@ -91981,7 +91981,7 @@
 	0.13657175196397]]
 },
 {
-	"name:" "Krummhörn-Campen",
+	"name": "Krummhörn-Campen",
 	"lon": 7.017,
 	"lat": 53.406,
 	"radio": [["2015-10-12T03:00:00Z",
@@ -92042,7 +92042,7 @@
 	0.0979197657123997]]
 },
 {
-	"name:" "Kuchelmiß",
+	"name": "Kuchelmiß",
 	"lon": 12.363,
 	"lat": 53.680,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -92369,7 +92369,7 @@
 	0.0759057030234763]]
 },
 {
-	"name:" "Künzelsau-ST-Nitzenhausen",
+	"name": "Künzelsau-ST-Nitzenhausen",
 	"lon": 9.798,
 	"lat": 49.277,
 	"radio": [["2015-10-14T02:20:00Z",
@@ -92390,7 +92390,7 @@
 	0.135132782573652]]
 },
 {
-	"name:" "Kürten",
+	"name": "Kürten",
 	"lon": 7.265,
 	"lat": 51.048,
 	"radio": [["2015-10-12T05:40:00Z",
@@ -92411,7 +92411,7 @@
 	0.10957004942255]]
 },
 {
-	"name:" "Kulmbach-OT-Mangersreuth",
+	"name": "Kulmbach-OT-Mangersreuth",
 	"lon": 11.445,
 	"lat": 50.085,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -92504,7 +92504,7 @@
 	0.150449473686125]]
 },
 {
-	"name:" "Kyllburg",
+	"name": "Kyllburg",
 	"lon": 6.600,
 	"lat": 50.035,
 	"radio": [["2015-10-12T17:00:00Z",
@@ -92535,14 +92535,14 @@
 	0.148397464883327]]
 },
 {
-	"name:" "Kyritz",
+	"name": "Kyritz",
 	"lon": 12.409,
 	"lat": 52.936,
 	"radio": [["2015-10-12T11:20:00Z",
 	0.0847970768632714]]
 },
 {
-	"name:" "Lahnstein",
+	"name": "Lahnstein",
 	"lon": 7.593,
 	"lat": 50.320,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -92809,7 +92809,7 @@
 	0.123512469311569]]
 },
 {
-	"name:" "Lam",
+	"name": "Lam",
 	"lon": 13.052,
 	"lat": 49.196,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -93076,7 +93076,7 @@
 	0.149940974671287]]
 },
 {
-	"name:" "Langenau",
+	"name": "Langenau",
 	"lon": 10.175,
 	"lat": 48.503,
 	"radio": [["2015-10-13T19:30:00Z",
@@ -93131,7 +93131,7 @@
 	0.0917015075683594]]
 },
 {
-	"name:" "Lanz-OT-Ferbitz",
+	"name": "Lanz-OT-Ferbitz",
 	"lon": 11.564,
 	"lat": 53.100,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -93458,7 +93458,7 @@
 	0.0719289779663086]]
 },
 {
-	"name:" "Lauingen",
+	"name": "Lauingen",
 	"lon": 10.422,
 	"lat": 48.584,
 	"radio": [["2015-10-13T20:10:00Z",
@@ -93495,14 +93495,14 @@
 	0.153123366639217]]
 },
 {
-	"name:" "Lautenthal",
+	"name": "Lautenthal",
 	"lon": 10.291,
 	"lat": 51.874,
 	"radio": [["2015-10-15T09:30:00Z",
 	0.160113187151179]]
 },
 {
-	"name:" "Lauterbach",
+	"name": "Lauterbach",
 	"lon": 9.392,
 	"lat": 50.628,
 	"radio": [["2015-10-12T14:50:00Z",
@@ -93515,7 +93515,7 @@
 	0.13033732945494]]
 },
 {
-	"name:" "Leck",
+	"name": "Leck",
 	"lon": 8.952,
 	"lat": 54.790,
 	"radio": [["2015-10-12T01:10:00Z",
@@ -93528,7 +93528,7 @@
 	0.0526658421594284]]
 },
 {
-	"name:" "Leer",
+	"name": "Leer",
 	"lon": 7.449,
 	"lat": 53.242,
 	"radio": [["2015-10-12T14:00:00Z",
@@ -93549,7 +93549,7 @@
 	0.0548970106956864]]
 },
 {
-	"name:" "Legden",
+	"name": "Legden",
 	"lon": 7.102,
 	"lat": 52.038,
 	"radio": [["2015-10-12T10:50:00Z",
@@ -93560,7 +93560,7 @@
 	0.0542073935140799]]
 },
 {
-	"name:" "Leidersbach",
+	"name": "Leidersbach",
 	"lon": 9.233,
 	"lat": 49.900,
 	"radio": [["2015-10-12T01:50:00Z",
@@ -93629,7 +93629,7 @@
 	0.136260665942635]]
 },
 {
-	"name:" "Leinefelde",
+	"name": "Leinefelde",
 	"lon": 10.312,
 	"lat": 51.393,
 	"radio": [["2015-10-15T05:30:00Z",
@@ -93646,7 +93646,7 @@
 	0.137156553605619]]
 },
 {
-	"name:" "Leipnitz",
+	"name": "Leipnitz",
 	"lon": 12.832,
 	"lat": 51.202,
 	"radio": [["2015-10-14T05:00:00Z",
@@ -93663,14 +93663,14 @@
 	0.14208886889511]]
 },
 {
-	"name:" "Leipzig",
+	"name": "Leipzig",
 	"lon": 12.291,
 	"lat": 51.325,
 	"radio": [["2015-10-14T06:10:00Z",
 	0.126351491193258]]
 },
 {
-	"name:" "Lemgo",
+	"name": "Lemgo",
 	"lon": 8.913,
 	"lat": 52.024,
 	"radio": [["2015-10-12T04:50:00Z",
@@ -93703,7 +93703,7 @@
 	0.0633977863312924]]
 },
 {
-	"name:" "Lengede-Broistedt",
+	"name": "Lengede-Broistedt",
 	"lon": 10.336,
 	"lat": 52.190,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -93928,7 +93928,7 @@
 	0.113923668667131]]
 },
 {
-	"name:" "Lengerich",
+	"name": "Lengerich",
 	"lon": 7.854,
 	"lat": 52.178,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -94187,7 +94187,7 @@
 	0.0765096684294154]]
 },
 {
-	"name:" "Lensahn",
+	"name": "Lensahn",
 	"lon": 10.897,
 	"lat": 54.218,
 	"radio": [["2015-10-12T03:00:00Z",
@@ -94198,7 +94198,7 @@
 	0.0928838144376882]]
 },
 {
-	"name:" "Lenschow",
+	"name": "Lenschow",
 	"lon": 11.921,
 	"lat": 53.546,
 	"radio": [["2015-10-12T07:00:00Z",
@@ -94223,7 +94223,7 @@
 	0.0930788491780912]]
 },
 {
-	"name:" "Leonberg",
+	"name": "Leonberg",
 	"lon": 9.000,
 	"lat": 48.804,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -94382,7 +94382,7 @@
 	0.138376702570931]]
 },
 {
-	"name:" "Leuchtturm-Kiel",
+	"name": "Leuchtturm-Kiel",
 	"lon": 10.273,
 	"lat": 54.500,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -94629,7 +94629,7 @@
 	0.0457736532083632]]
 },
 {
-	"name:" "Leutkirch",
+	"name": "Leutkirch",
 	"lon": 10.017,
 	"lat": 47.818,
 	"radio": [["2015-10-13T20:20:00Z",
@@ -94646,7 +94646,7 @@
 	0.174182382935895]]
 },
 {
-	"name:" "Lichtenfels",
+	"name": "Lichtenfels",
 	"lon": 11.084,
 	"lat": 50.144,
 	"radio": [["2015-10-14T00:00:00Z",
@@ -94681,14 +94681,14 @@
 	0.134417071809802]]
 },
 {
-	"name:" "Liebenau",
+	"name": "Liebenau",
 	"lon": 9.089,
 	"lat": 52.602,
 	"radio": [["2015-10-12T18:40:00Z",
 	0.0545159344714966]]
 },
 {
-	"name:" "Limbach-OT-Krumbach",
+	"name": "Limbach-OT-Krumbach",
 	"lon": 9.183,
 	"lat": 49.452,
 	"radio": [["2015-10-14T00:30:00Z",
@@ -94697,7 +94697,7 @@
 	0.12321662902832]]
 },
 {
-	"name:" "Lindenberg-Im-Allgäu",
+	"name": "Lindenberg-Im-Allgäu",
 	"lon": 9.881,
 	"lat": 47.598,
 	"radio": [["2015-10-13T21:10:00Z",
@@ -94714,7 +94714,7 @@
 	0.15498941478458]]
 },
 {
-	"name:" "Linderhof",
+	"name": "Linderhof",
 	"lon": 10.961,
 	"lat": 47.567,
 	"radio": [["2015-10-14T01:40:00Z",
@@ -94729,7 +94729,7 @@
 	0.163505403906911]]
 },
 {
-	"name:" "Lindlar",
+	"name": "Lindlar",
 	"lon": 7.352,
 	"lat": 51.012,
 	"radio": [["2015-10-12T08:30:00Z",
@@ -94744,7 +94744,7 @@
 	0.128715499201785]]
 },
 {
-	"name:" "Lindow",
+	"name": "Lindow",
 	"lon": 12.994,
 	"lat": 52.967,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -95171,7 +95171,7 @@
 	0.0650070598241401]]
 },
 {
-	"name:" "Lingen-DWD",
+	"name": "Lingen-DWD",
 	"lon": 7.308,
 	"lat": 52.518,
 	"radio": [["2015-10-12T11:50:00Z",
@@ -95192,7 +95192,7 @@
 	0.0484959837238585]]
 },
 {
-	"name:" "Lingen-Schepsdorf",
+	"name": "Lingen-Schepsdorf",
 	"lon": 7.293,
 	"lat": 52.510,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -95549,7 +95549,7 @@
 	0.0640793817456514]]
 },
 {
-	"name:" "Löbau",
+	"name": "Löbau",
 	"lon": 14.657,
 	"lat": 51.102,
 	"radio": [["2015-10-14T10:20:00Z",
@@ -95596,7 +95596,7 @@
 	0.150864728653174]]
 },
 {
-	"name:" "Löchgau",
+	"name": "Löchgau",
 	"lon": 9.109,
 	"lat": 49.004,
 	"radio": [["2015-10-12T01:50:00Z",
@@ -95631,7 +95631,7 @@
 	0.142327112837872]]
 },
 {
-	"name:" "Löwenstedt",
+	"name": "Löwenstedt",
 	"lon": 9.179,
 	"lat": 54.622,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -95828,14 +95828,14 @@
 	0.0465019910133897]]
 },
 {
-	"name:" "Löwenstein",
+	"name": "Löwenstein",
 	"lon": 9.386,
 	"lat": 49.096,
 	"radio": [["2015-10-12T03:10:00Z",
 	0.112788192927837]]
 },
 {
-	"name:" "Lohr-A.Main-OT-Wombach",
+	"name": "Lohr-A.Main-OT-Wombach",
 	"lon": 9.577,
 	"lat": 49.973,
 	"radio": [["2015-10-15T04:20:00Z",
@@ -95868,7 +95868,7 @@
 	0.142230222282634]]
 },
 {
-	"name:" "Loppenhausen",
+	"name": "Loppenhausen",
 	"lon": 10.393,
 	"lat": 48.164,
 	"radio": [["2015-10-12T02:40:00Z",
@@ -95919,7 +95919,7 @@
 	0.135033276997736]]
 },
 {
-	"name:" "Lorch",
+	"name": "Lorch",
 	"lon": 7.796,
 	"lat": 50.046,
 	"radio": [["2015-10-15T09:00:00Z",
@@ -95932,7 +95932,7 @@
 	0.120455061122531]]
 },
 {
-	"name:" "Ludwigshafen/Rhein",
+	"name": "Ludwigshafen/Rhein",
 	"lon": 8.436,
 	"lat": 49.463,
 	"radio": [["2015-10-13T21:30:00Z",
@@ -95941,7 +95941,7 @@
 	0.158266346348609]]
 },
 {
-	"name:" "Lübben",
+	"name": "Lübben",
 	"lon": 13.908,
 	"lat": 51.937,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -96090,7 +96090,7 @@
 	0.0852628251636636]]
 },
 {
-	"name:" "Lüder/Langenbrügge",
+	"name": "Lüder/Langenbrügge",
 	"lon": 10.757,
 	"lat": 52.801,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -96163,14 +96163,14 @@
 	0.071587302632327]]
 },
 {
-	"name:" "Lüneburg",
+	"name": "Lüneburg",
 	"lon": 10.458,
 	"lat": 53.247,
 	"radio": [["2015-10-13T03:10:00Z",
 	0.0710153579711914]]
 },
 {
-	"name:" "Magdeburg",
+	"name": "Magdeburg",
 	"lon": 11.583,
 	"lat": 52.103,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -96309,7 +96309,7 @@
 	0.122896803652206]]
 },
 {
-	"name:" "Mainburg",
+	"name": "Mainburg",
 	"lon": 11.778,
 	"lat": 48.633,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -96826,7 +96826,7 @@
 	0.0951402629334062]]
 },
 {
-	"name:" "Mainz-Hechtsheim",
+	"name": "Mainz-Hechtsheim",
 	"lon": 8.259,
 	"lat": 49.965,
 	"radio": [["2015-10-12T01:00:00Z",
@@ -96845,7 +96845,7 @@
 	0.141607492630548]]
 },
 {
-	"name:" "Mannheim",
+	"name": "Mannheim",
 	"lon": 8.554,
 	"lat": 49.509,
 	"radio": [["2015-10-13T21:40:00Z",
@@ -96856,14 +96856,14 @@
 	0.17224646936113]]
 },
 {
-	"name:" "Marburg",
+	"name": "Marburg",
 	"lon": 8.772,
 	"lat": 50.785,
 	"radio": [["2015-10-14T16:20:00Z",
 	0.0899946834626836]]
 },
 {
-	"name:" "Margertshausen",
+	"name": "Margertshausen",
 	"lon": 10.711,
 	"lat": 48.307,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -97452,7 +97452,7 @@
 	0.10264654501454]]
 },
 {
-	"name:" "Marienhafe/Siegelsum",
+	"name": "Marienhafe/Siegelsum",
 	"lon": 7.302,
 	"lat": 53.497,
 	"radio": [["2015-10-12T04:10:00Z",
@@ -97461,7 +97461,7 @@
 	0.0596211295987955]]
 },
 {
-	"name:" "Marienmünster-Vörden",
+	"name": "Marienmünster-Vörden",
 	"lon": 9.236,
 	"lat": 51.818,
 	"radio": [["2015-10-14T06:20:00Z",
@@ -97470,7 +97470,7 @@
 	0.156725130515737]]
 },
 {
-	"name:" "Markt-Bissingen-OT-Unterringinge",
+	"name": "Markt-Bissingen-OT-Unterringinge",
 	"lon": 10.538,
 	"lat": 48.728,
 	"radio": [["2015-10-12T03:50:00Z",
@@ -97511,7 +97511,7 @@
 	0.0942824129021338]]
 },
 {
-	"name:" "Markt-Indersdorf",
+	"name": "Markt-Indersdorf",
 	"lon": 11.389,
 	"lat": 48.356,
 	"radio": [["2015-10-13T19:00:00Z",
@@ -97530,7 +97530,7 @@
 	0.137088802313425]]
 },
 {
-	"name:" "Marktoberdorf",
+	"name": "Marktoberdorf",
 	"lon": 10.624,
 	"lat": 47.766,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -97937,7 +97937,7 @@
 	0.109988662975718]]
 },
 {
-	"name:" "Marktredwitz",
+	"name": "Marktredwitz",
 	"lon": 12.065,
 	"lat": 50.001,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -98084,7 +98084,7 @@
 	0.134886401516941]]
 },
 {
-	"name:" "Maroldsweisach",
+	"name": "Maroldsweisach",
 	"lon": 10.656,
 	"lat": 50.198,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -98203,7 +98203,7 @@
 	0.150866573134263]]
 },
 {
-	"name:" "Marsberg",
+	"name": "Marsberg",
 	"lon": 8.854,
 	"lat": 51.465,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -98450,7 +98450,7 @@
 	0.126183690988401]]
 },
 {
-	"name:" "Martinsbuch",
+	"name": "Martinsbuch",
 	"lon": 12.419,
 	"lat": 48.745,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -98711,14 +98711,14 @@
 	0.120014806658684]]
 },
 {
-	"name:" "Mechernich",
+	"name": "Mechernich",
 	"lon": 6.659,
 	"lat": 50.592,
 	"radio": [["2015-10-15T20:00:00Z",
 	0.130715839722546]]
 },
 {
-	"name:" "Meeder",
+	"name": "Meeder",
 	"lon": 10.903,
 	"lat": 50.323,
 	"radio": [["2015-10-13T04:20:00Z",
@@ -98771,7 +98771,7 @@
 	0.146956417648652]]
 },
 {
-	"name:" "Meinhard-OT-Hitzelrode",
+	"name": "Meinhard-OT-Hitzelrode",
 	"lon": 10.059,
 	"lat": 51.243,
 	"radio": [["2015-10-15T18:30:00Z",
@@ -98782,7 +98782,7 @@
 	0.149631466259851]]
 },
 {
-	"name:" "Meißendorf",
+	"name": "Meißendorf",
 	"lon": 9.853,
 	"lat": 52.732,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -98953,7 +98953,7 @@
 	0.0541625456678206]]
 },
 {
-	"name:" "Memmingerberg",
+	"name": "Memmingerberg",
 	"lon": 10.210,
 	"lat": 47.987,
 	"radio": [["2015-10-13T18:20:00Z",
@@ -99020,7 +99020,7 @@
 	0.144387040339439]]
 },
 {
-	"name:" "Mengerschied",
+	"name": "Mengerschied",
 	"lon": 7.513,
 	"lat": 49.913,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -99185,14 +99185,14 @@
 	0.122079975428391]]
 },
 {
-	"name:" "Mertingen",
+	"name": "Mertingen",
 	"lon": 10.818,
 	"lat": 48.655,
 	"radio": [["2015-10-14T00:50:00Z",
 	0.134641178418551]]
 },
 {
-	"name:" "Merzig-Silwingen",
+	"name": "Merzig-Silwingen",
 	"lon": 6.582,
 	"lat": 49.427,
 	"radio": [["2015-10-13T18:10:00Z",
@@ -99201,7 +99201,7 @@
 	0.108531013131142]]
 },
 {
-	"name:" "Metten",
+	"name": "Metten",
 	"lon": 12.919,
 	"lat": 48.855,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -99332,21 +99332,21 @@
 	0.194211991899192]]
 },
 {
-	"name:" "Mettlach",
+	"name": "Mettlach",
 	"lon": 6.623,
 	"lat": 49.492,
 	"radio": [["2015-10-13T17:40:00Z",
 	0.133697080828345]]
 },
 {
-	"name:" "Meudt",
+	"name": "Meudt",
 	"lon": 7.896,
 	"lat": 50.490,
 	"radio": [["2015-10-13T18:10:00Z",
 	0.148275641845732]]
 },
 {
-	"name:" "Mindelheim",
+	"name": "Mindelheim",
 	"lon": 10.494,
 	"lat": 48.042,
 	"radio": [["2015-10-13T17:50:00Z",
@@ -99397,7 +99397,7 @@
 	0.127506232037765]]
 },
 {
-	"name:" "Mittelneufnach",
+	"name": "Mittelneufnach",
 	"lon": 10.601,
 	"lat": 48.172,
 	"radio": [["2015-10-13T10:40:00Z",
@@ -99490,7 +99490,7 @@
 	0.172042568322015]]
 },
 {
-	"name:" "Mögglingen",
+	"name": "Mögglingen",
 	"lon": 9.959,
 	"lat": 48.817,
 	"radio": [["2015-10-12T12:50:00Z",
@@ -99509,14 +99509,14 @@
 	0.109884800540184]]
 },
 {
-	"name:" "Mönchhagen",
+	"name": "Mönchhagen",
 	"lon": 12.252,
 	"lat": 54.159,
 	"radio": [["2015-10-14T21:20:00Z",
 	0.0929435904463773]]
 },
 {
-	"name:" "Monheim",
+	"name": "Monheim",
 	"lon": 10.849,
 	"lat": 48.840,
 	"radio": [["2015-10-13T21:00:00Z",
@@ -99545,7 +99545,7 @@
 	0.164533739780539]]
 },
 {
-	"name:" "Moorenweis",
+	"name": "Moorenweis",
 	"lon": 11.077,
 	"lat": 48.169,
 	"radio": [["2015-10-13T21:50:00Z",
@@ -99560,7 +99560,7 @@
 	0.153636233903899]]
 },
 {
-	"name:" "Moorhusen",
+	"name": "Moorhusen",
 	"lon": 9.400,
 	"lat": 53.944,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -99637,7 +99637,7 @@
 	0.0799158263711829]]
 },
 {
-	"name:" "Moormerland-Oldersum",
+	"name": "Moormerland-Oldersum",
 	"lon": 7.342,
 	"lat": 53.331,
 	"radio": [["2015-10-12T10:10:00Z",
@@ -99648,7 +99648,7 @@
 	0.0618165766899725]]
 },
 {
-	"name:" "Moosbach",
+	"name": "Moosbach",
 	"lon": 12.425,
 	"lat": 49.584,
 	"radio": [["2015-10-13T23:00:00Z",
@@ -99677,7 +99677,7 @@
 	0.145863634844024]]
 },
 {
-	"name:" "Mosbach-ST-Reichenbuch",
+	"name": "Mosbach-ST-Reichenbuch",
 	"lon": 9.095,
 	"lat": 49.393,
 	"radio": [["2015-10-14T03:20:00Z",
@@ -99688,7 +99688,7 @@
 	0.131328219725444]]
 },
 {
-	"name:" "Mudau-OT-Schlossau",
+	"name": "Mudau-OT-Schlossau",
 	"lon": 9.157,
 	"lat": 49.541,
 	"radio": [["2015-10-14T00:50:00Z",
@@ -99699,7 +99699,7 @@
 	0.167396545410156]]
 },
 {
-	"name:" "Mücheln",
+	"name": "Mücheln",
 	"lon": 11.793,
 	"lat": 51.300,
 	"radio": [["2015-10-15T04:20:00Z",
@@ -99720,7 +99720,7 @@
 	0.15795486143312]]
 },
 {
-	"name:" "Mügeln",
+	"name": "Mügeln",
 	"lon": 13.031,
 	"lat": 51.232,
 	"radio": [["2015-10-14T04:40:00Z",
@@ -99757,7 +99757,7 @@
 	0.154152107294239]]
 },
 {
-	"name:" "Mühlacker-OT-Lienzingen",
+	"name": "Mühlacker-OT-Lienzingen",
 	"lon": 8.874,
 	"lat": 48.972,
 	"radio": [["2015-10-14T03:20:00Z",
@@ -99768,7 +99768,7 @@
 	0.14181517911837]]
 },
 {
-	"name:" "Mühlhausen",
+	"name": "Mühlhausen",
 	"lon": 10.440,
 	"lat": 51.199,
 	"radio": [["2015-10-15T04:30:00Z",
@@ -99807,21 +99807,21 @@
 	0.152300228802412]]
 },
 {
-	"name:" "Müllrose",
+	"name": "Müllrose",
 	"lon": 14.408,
 	"lat": 52.243,
 	"radio": [["2015-10-12T01:10:00Z",
 	0.0596583630853187]]
 },
 {
-	"name:" "München-Neuhausen",
+	"name": "München-Neuhausen",
 	"lon": 11.543,
 	"lat": 48.163,
 	"radio": [["2015-10-15T02:50:00Z",
 	0.136781379248323]]
 },
 {
-	"name:" "München-Obersendling",
+	"name": "München-Obersendling",
 	"lon": 11.524,
 	"lat": 48.101,
 	"radio": [["2015-10-12T00:50:00Z",
@@ -99912,7 +99912,7 @@
 	0.102749120731737]]
 },
 {
-	"name:" "München-Pasing",
+	"name": "München-Pasing",
 	"lon": 11.454,
 	"lat": 48.145,
 	"radio": [["2015-10-14T00:00:00Z",
@@ -99923,7 +99923,7 @@
 	0.138218343912312]]
 },
 {
-	"name:" "Münnerstadt-OT-Reichenbach",
+	"name": "Münnerstadt-OT-Reichenbach",
 	"lon": 10.155,
 	"lat": 50.259,
 	"radio": [["2015-10-15T08:10:00Z",
@@ -99940,14 +99940,14 @@
 	0.171664851633535]]
 },
 {
-	"name:" "Münster-Kinderhaus",
+	"name": "Münster-Kinderhaus",
 	"lon": 7.594,
 	"lat": 51.997,
 	"radio": [["2015-10-12T10:40:00Z",
 	0.0916678916302233]]
 },
 {
-	"name:" "Münstermaifeld",
+	"name": "Münstermaifeld",
 	"lon": 7.356,
 	"lat": 50.245,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -100028,7 +100028,7 @@
 	0.116498008370399]]
 },
 {
-	"name:" "Mulda",
+	"name": "Mulda",
 	"lon": 13.407,
 	"lat": 50.808,
 	"radio": [["2015-10-12T07:30:00Z",
@@ -100095,7 +100095,7 @@
 	0.141407072844257]]
 },
 {
-	"name:" "Murrhardt",
+	"name": "Murrhardt",
 	"lon": 9.551,
 	"lat": 48.986,
 	"radio": [["2015-10-14T02:50:00Z",
@@ -100112,7 +100112,7 @@
 	0.132459116685048]]
 },
 {
-	"name:" "Naumburg",
+	"name": "Naumburg",
 	"lon": 11.789,
 	"lat": 51.152,
 	"radio": [["2015-10-14T01:50:00Z",
@@ -100151,14 +100151,14 @@
 	0.163300215758946]]
 },
 {
-	"name:" "Neuburg-Am-Rhein",
+	"name": "Neuburg-Am-Rhein",
 	"lon": 8.244,
 	"lat": 48.989,
 	"radio": [["2015-10-14T01:20:00Z",
 	0.167911529541016]]
 },
 {
-	"name:" "Neudrossenfeld",
+	"name": "Neudrossenfeld",
 	"lon": 11.506,
 	"lat": 50.019,
 	"radio": [["2015-10-12T04:00:00Z",
@@ -100227,7 +100227,7 @@
 	0.145416149218564]]
 },
 {
-	"name:" "Neuendorf-Am-See",
+	"name": "Neuendorf-Am-See",
 	"lon": 13.915,
 	"lat": 52.123,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -100386,7 +100386,7 @@
 	0.0424085292045005]]
 },
 {
-	"name:" "Neuenkirchen",
+	"name": "Neuenkirchen",
 	"lon": 7.364,
 	"lat": 52.226,
 	"radio": [["2015-10-12T13:10:00Z",
@@ -100401,7 +100401,7 @@
 	0.046291783520209]]
 },
 {
-	"name:" "Neugersdorf",
+	"name": "Neugersdorf",
 	"lon": 14.607,
 	"lat": 50.978,
 	"radio": [["2015-10-14T07:20:00Z",
@@ -100430,7 +100430,7 @@
 	0.139452368066273]]
 },
 {
-	"name:" "Neuhaus/Rennweg",
+	"name": "Neuhaus/Rennweg",
 	"lon": 11.134,
 	"lat": 50.500,
 	"radio": [["2015-10-14T01:10:00Z",
@@ -100499,7 +100499,7 @@
 	0.137785929257893]]
 },
 {
-	"name:" "Neuhof-A.d.Zenn",
+	"name": "Neuhof-A.d.Zenn",
 	"lon": 10.640,
 	"lat": 49.453,
 	"radio": [["2015-10-15T02:50:00Z",
@@ -100508,7 +100508,7 @@
 	0.161491685889143]]
 },
 {
-	"name:" "Neukirchen-B.Hl.Blut",
+	"name": "Neukirchen-B.Hl.Blut",
 	"lon": 12.976,
 	"lat": 49.265,
 	"radio": [["2015-10-14T00:00:00Z",
@@ -100519,7 +100519,7 @@
 	0.0889125261194859]]
 },
 {
-	"name:" "Neukirchen-Bei-Pfarrkirchen",
+	"name": "Neukirchen-Bei-Pfarrkirchen",
 	"lon": 12.956,
 	"lat": 48.385,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -100750,7 +100750,7 @@
 	0.106619667435191]]
 },
 {
-	"name:" "Neulewin",
+	"name": "Neulewin",
 	"lon": 14.282,
 	"lat": 52.722,
 	"radio": [["2015-10-14T15:40:00Z",
@@ -100763,28 +100763,28 @@
 	0.143153733173071]]
 },
 {
-	"name:" "Neumagen-Dhron",
+	"name": "Neumagen-Dhron",
 	"lon": 6.898,
 	"lat": 49.861,
 	"radio": [["2015-10-13T11:30:00Z",
 	0.144182136428625]]
 },
 {
-	"name:" "Neumarkt-St.Veit",
+	"name": "Neumarkt-St.Veit",
 	"lon": 12.511,
 	"lat": 48.363,
 	"radio": [["2015-10-14T00:20:00Z",
 	0.148696624564914]]
 },
 {
-	"name:" "Neuried-OT-Altenheim",
+	"name": "Neuried-OT-Altenheim",
 	"lon": 7.801,
 	"lat": 48.470,
 	"radio": [["2015-10-14T01:30:00Z",
 	0.164532935388183]]
 },
 {
-	"name:" "Neusalza-Spremberg",
+	"name": "Neusalza-Spremberg",
 	"lon": 14.532,
 	"lat": 51.023,
 	"radio": [["2015-10-12T07:40:00Z",
@@ -101031,7 +101031,7 @@
 	0.102645700103912]]
 },
 {
-	"name:" "Neusitz",
+	"name": "Neusitz",
 	"lon": 11.385,
 	"lat": 50.778,
 	"radio": [["2015-10-15T05:40:00Z",
@@ -101048,7 +101048,7 @@
 	0.168439439748426]]
 },
 {
-	"name:" "Neustadt-An-Der-Aisch",
+	"name": "Neustadt-An-Der-Aisch",
 	"lon": 10.623,
 	"lat": 49.582,
 	"radio": [["2015-10-13T00:20:00Z",
@@ -101083,7 +101083,7 @@
 	0.133694777140775]]
 },
 {
-	"name:" "Neustadt-Bei-Coburg",
+	"name": "Neustadt-Bei-Coburg",
 	"lon": 11.101,
 	"lat": 50.327,
 	"radio": [["2015-10-15T03:50:00Z",
@@ -101100,7 +101100,7 @@
 	0.143975822071473]]
 },
 {
-	"name:" "Neustadt-I.H.",
+	"name": "Neustadt-I.H.",
 	"lon": 10.877,
 	"lat": 54.089,
 	"radio": [["2015-10-14T19:20:00Z",
@@ -101115,14 +101115,14 @@
 	0.0774828747573321]]
 },
 {
-	"name:" "Neuzelle",
+	"name": "Neuzelle",
 	"lon": 14.640,
 	"lat": 52.092,
 	"radio": [["2015-10-13T09:10:00Z",
 	0.0677927799041907]]
 },
 {
-	"name:" "Niedermurach-OT-Pertolzhofen",
+	"name": "Niedermurach-OT-Pertolzhofen",
 	"lon": 12.344,
 	"lat": 49.426,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -101485,7 +101485,7 @@
 	0.177851776245193]]
 },
 {
-	"name:" "Niedernhall",
+	"name": "Niedernhall",
 	"lon": 9.619,
 	"lat": 49.298,
 	"radio": [["2015-10-12T02:00:00Z",
@@ -101562,7 +101562,7 @@
 	0.155588244597217]]
 },
 {
-	"name:" "Niederstetten-OT-Wildentierbach",
+	"name": "Niederstetten-OT-Wildentierbach",
 	"lon": 9.967,
 	"lat": 49.394,
 	"radio": [["2015-10-14T04:40:00Z",
@@ -101575,7 +101575,7 @@
 	0.12530326159102]]
 },
 {
-	"name:" "Niederzier",
+	"name": "Niederzier",
 	"lon": 6.471,
 	"lat": 50.873,
 	"radio": [["2015-10-12T02:40:00Z",
@@ -101590,7 +101590,7 @@
 	0.122175920078464]]
 },
 {
-	"name:" "Nobitz",
+	"name": "Nobitz",
 	"lon": 12.516,
 	"lat": 50.981,
 	"radio": [["2015-10-14T03:10:00Z",
@@ -101689,7 +101689,7 @@
 	0.142534112140813]]
 },
 {
-	"name:" "Nördlingen",
+	"name": "Nördlingen",
 	"lon": 10.505,
 	"lat": 48.852,
 	"radio": [["2015-10-12T01:00:00Z",
@@ -101842,7 +101842,7 @@
 	0.112511388258936]]
 },
 {
-	"name:" "Nordhausen",
+	"name": "Nordhausen",
 	"lon": 10.810,
 	"lat": 51.496,
 	"radio": [["2015-10-12T04:10:00Z",
@@ -101889,7 +101889,7 @@
 	0.138320812874195]]
 },
 {
-	"name:" "Nordholz",
+	"name": "Nordholz",
 	"lon": 8.636,
 	"lat": 53.773,
 	"radio": [["2015-10-12T02:10:00Z",
@@ -101902,7 +101902,7 @@
 	0.0555446729614456]]
 },
 {
-	"name:" "Nordhorn-Frenswegen",
+	"name": "Nordhorn-Frenswegen",
 	"lon": 7.024,
 	"lat": 52.466,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -102035,7 +102035,7 @@
 	0.0537424062274063]]
 },
 {
-	"name:" "Nossen",
+	"name": "Nossen",
 	"lon": 13.274,
 	"lat": 51.056,
 	"radio": [["2015-10-14T04:30:00Z",
@@ -102044,7 +102044,7 @@
 	0.143556928841889]]
 },
 {
-	"name:" "Oberasbach-OT-Kreutles",
+	"name": "Oberasbach-OT-Kreutles",
 	"lon": 10.970,
 	"lat": 49.428,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -102369,7 +102369,7 @@
 	0.141400503544825]]
 },
 {
-	"name:" "Oberaula",
+	"name": "Oberaula",
 	"lon": 9.481,
 	"lat": 50.863,
 	"radio": [["2015-10-15T17:40:00Z",
@@ -102378,7 +102378,7 @@
 	0.14644383578587]]
 },
 {
-	"name:" "Oberdietfurt",
+	"name": "Oberdietfurt",
 	"lon": 12.649,
 	"lat": 48.396,
 	"radio": [["2015-10-13T22:20:00Z",
@@ -102417,7 +102417,7 @@
 	0.145865033457516]]
 },
 {
-	"name:" "Oberding",
+	"name": "Oberding",
 	"lon": 11.813,
 	"lat": 48.347,
 	"radio": [["2015-10-13T05:40:00Z",
@@ -102432,7 +102432,7 @@
 	0.146134709010182]]
 },
 {
-	"name:" "Oberdolling",
+	"name": "Oberdolling",
 	"lon": 11.590,
 	"lat": 48.827,
 	"radio": [["2015-10-14T01:40:00Z",
@@ -102443,7 +102443,7 @@
 	0.133902360721798]]
 },
 {
-	"name:" "Obergünzburg",
+	"name": "Obergünzburg",
 	"lon": 10.409,
 	"lat": 47.847,
 	"radio": [["2015-10-13T17:10:00Z",
@@ -102508,7 +102508,7 @@
 	0.157133255472959]]
 },
 {
-	"name:" "Oberhof",
+	"name": "Oberhof",
 	"lon": 10.689,
 	"lat": 50.705,
 	"radio": [["2015-10-12T06:00:00Z",
@@ -102627,7 +102627,7 @@
 	0.137191611075299]]
 },
 {
-	"name:" "Obermoschel",
+	"name": "Obermoschel",
 	"lon": 7.775,
 	"lat": 49.726,
 	"radio": [["2015-10-12T22:00:00Z",
@@ -102684,14 +102684,14 @@
 	0.135856089995529]]
 },
 {
-	"name:" "Oberschleißheim",
+	"name": "Oberschleißheim",
 	"lon": 11.552,
 	"lat": 48.243,
 	"radio": [["2015-10-12T12:10:00Z",
 	0.0872024492838921]]
 },
 {
-	"name:" "Oberndorf/N.-ST-Lindenhof",
+	"name": "Oberndorf/N.-ST-Lindenhof",
 	"lon": 8.559,
 	"lat": 48.294,
 	"radio": [["2015-10-12T08:20:00Z",
@@ -102722,7 +102722,7 @@
 	0.147331634817125]]
 },
 {
-	"name:" "Oberrodach-OT-Unterrodach",
+	"name": "Oberrodach-OT-Unterrodach",
 	"lon": 11.390,
 	"lat": 50.251,
 	"radio": [["2015-10-12T01:50:00Z",
@@ -102759,7 +102759,7 @@
 	0.122344271783684]]
 },
 {
-	"name:" "Oberschleißheim",
+	"name": "Oberschleißheim",
 	"lon": 11.552,
 	"lat": 48.243,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -103088,14 +103088,14 @@
 	0.0983036439538074]]
 },
 {
-	"name:" "Oberschleißheim-OT-Neuherberg",
+	"name": "Oberschleißheim-OT-Neuherberg",
 	"lon": 11.590,
 	"lat": 48.221,
 	"radio": [["2015-10-15T01:30:00Z",
 	0.130816093086615]]
 },
 {
-	"name:" "Oberstdorf",
+	"name": "Oberstdorf",
 	"lon": 10.277,
 	"lat": 47.399,
 	"radio": [["2015-10-13T15:50:00Z",
@@ -103166,7 +103166,7 @@
 	0.167785512813527]]
 },
 {
-	"name:" "Oberthulba",
+	"name": "Oberthulba",
 	"lon": 9.958,
 	"lat": 50.203,
 	"radio": [["2015-10-15T08:20:00Z",
@@ -103177,7 +103177,7 @@
 	0.178062655377587]]
 },
 {
-	"name:" "Oberwiesenthal",
+	"name": "Oberwiesenthal",
 	"lon": 12.954,
 	"lat": 50.428,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -103244,7 +103244,7 @@
 	0.153331588584342]]
 },
 {
-	"name:" "Öhningen",
+	"name": "Öhningen",
 	"lon": 8.887,
 	"lat": 47.660,
 	"radio": [["2015-10-12T11:20:00Z",
@@ -103285,7 +103285,7 @@
 	0.0784771304358207]]
 },
 {
-	"name:" "Öhringen",
+	"name": "Öhringen",
 	"lon": 9.517,
 	"lat": 49.207,
 	"radio": [["2015-10-12T19:50:00Z",
@@ -103330,21 +103330,21 @@
 	0.117341987913822]]
 },
 {
-	"name:" "Oetzen-SG-Rosche",
+	"name": "Oetzen-SG-Rosche",
 	"lon": 10.661,
 	"lat": 53.018,
 	"radio": [["2015-10-12T13:40:00Z",
 	0.04786610458006]]
 },
 {
-	"name:" "Offenbach-Wetterpark",
+	"name": "Offenbach-Wetterpark",
 	"lon": 8.786,
 	"lat": 50.090,
 	"radio": [["2015-10-12T22:20:00Z",
 	0.0865103156815153]]
 },
 {
-	"name:" "Ohrdruf",
+	"name": "Ohrdruf",
 	"lon": 10.742,
 	"lat": 50.837,
 	"radio": [["2015-10-14T04:20:00Z",
@@ -103403,14 +103403,14 @@
 	0.1657704984507]]
 },
 {
-	"name:" "Ohu",
+	"name": "Ohu",
 	"lon": 12.228,
 	"lat": 48.593,
 	"radio": [["2015-10-14T00:50:00Z",
 	0.15440559387207]]
 },
 {
-	"name:" "Oldenburg",
+	"name": "Oldenburg",
 	"lon": 8.241,
 	"lat": 53.140,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -103475,7 +103475,7 @@
 	0.0553404691156843]]
 },
 {
-	"name:" "Oppenheim",
+	"name": "Oppenheim",
 	"lon": 8.378,
 	"lat": 49.846,
 	"radio": [["2015-10-14T03:00:00Z",
@@ -103484,7 +103484,7 @@
 	0.150659492827943]]
 },
 {
-	"name:" "Oranienburg",
+	"name": "Oranienburg",
 	"lon": 13.265,
 	"lat": 52.764,
 	"radio": [["2015-10-14T14:30:00Z",
@@ -103493,14 +103493,14 @@
 	0.117820830112581]]
 },
 {
-	"name:" "Osterfeld",
+	"name": "Osterfeld",
 	"lon": 11.929,
 	"lat": 51.087,
 	"radio": [["2015-10-15T07:20:00Z",
 	0.151481540074219]]
 },
 {
-	"name:" "Osterh.-Scharmb.-OT-Pennigbüttel",
+	"name": "Osterh.-Scharmb.-OT-Pennigbüttel",
 	"lon": 8.819,
 	"lat": 53.249,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -103519,14 +103519,14 @@
 	0.0567786932872793]]
 },
 {
-	"name:" "Osterwieck-OT-Lüttgenrode",
+	"name": "Osterwieck-OT-Lüttgenrode",
 	"lon": 10.664,
 	"lat": 51.969,
 	"radio": [["2015-10-15T06:10:00Z",
 	0.147779560378058]]
 },
 {
-	"name:" "Ostrach",
+	"name": "Ostrach",
 	"lon": 9.375,
 	"lat": 47.951,
 	"radio": [["2015-10-13T17:30:00Z",
@@ -103539,7 +103539,7 @@
 	0.133696738927384]]
 },
 {
-	"name:" "OstseeBad-Boltenhagen",
+	"name": "OstseeBad-Boltenhagen",
 	"lon": 11.191,
 	"lat": 54.003,
 	"radio": [["2015-10-13T16:40:00Z",
@@ -103548,7 +103548,7 @@
 	0.100107187963692]]
 },
 {
-	"name:" "Ottmaring",
+	"name": "Ottmaring",
 	"lon": 11.006,
 	"lat": 48.328,
 	"radio": [["2015-10-13T20:40:00Z",
@@ -103579,7 +103579,7 @@
 	0.147880555276205]]
 },
 {
-	"name:" "Oybin",
+	"name": "Oybin",
 	"lon": 14.720,
 	"lat": 50.832,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -104204,7 +104204,7 @@
 	0.129782904107859]]
 },
 {
-	"name:" "Oyten",
+	"name": "Oyten",
 	"lon": 9.034,
 	"lat": 53.052,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -104249,7 +104249,7 @@
 	0.0754949180602051]]
 },
 {
-	"name:" "Palling",
+	"name": "Palling",
 	"lon": 12.642,
 	"lat": 47.995,
 	"radio": [["2015-10-15T02:10:00Z",
@@ -104258,7 +104258,7 @@
 	0.152712170469722]]
 },
 {
-	"name:" "Parsberg",
+	"name": "Parsberg",
 	"lon": 11.726,
 	"lat": 49.159,
 	"radio": [["2015-10-15T02:30:00Z",
@@ -104269,7 +104269,7 @@
 	0.126493971611851]]
 },
 {
-	"name:" "Passau-OT-Haibach",
+	"name": "Passau-OT-Haibach",
 	"lon": 13.490,
 	"lat": 48.567,
 	"radio": [["2015-10-13T06:00:00Z",
@@ -104296,7 +104296,7 @@
 	0.164532533200752]]
 },
 {
-	"name:" "Petershagen-Lahde",
+	"name": "Petershagen-Lahde",
 	"lon": 8.995,
 	"lat": 52.375,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -104523,7 +104523,7 @@
 	0.0868014507188562]]
 },
 {
-	"name:" "Pettstädt",
+	"name": "Pettstädt",
 	"lon": 11.885,
 	"lat": 51.234,
 	"radio": [["2015-10-12T01:10:00Z",
@@ -104594,7 +104594,7 @@
 	0.150699843641733]]
 },
 {
-	"name:" "Pfatter",
+	"name": "Pfatter",
 	"lon": 12.392,
 	"lat": 48.962,
 	"radio": [["2015-10-12T03:10:00Z",
@@ -104639,7 +104639,7 @@
 	0.101817948168718]]
 },
 {
-	"name:" "Pfeffenhausen",
+	"name": "Pfeffenhausen",
 	"lon": 11.963,
 	"lat": 48.657,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -104686,7 +104686,7 @@
 	0.108912512519121]]
 },
 {
-	"name:" "Pfünz",
+	"name": "Pfünz",
 	"lon": 11.251,
 	"lat": 48.884,
 	"radio": [["2015-10-12T02:30:00Z",
@@ -104795,7 +104795,7 @@
 	0.119606194223997]]
 },
 {
-	"name:" "Philippsburg",
+	"name": "Philippsburg",
 	"lon": 8.459,
 	"lat": 49.245,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -105104,7 +105104,7 @@
 	0.0867046796937466]]
 },
 {
-	"name:" "Pinneberg",
+	"name": "Pinneberg",
 	"lon": 9.808,
 	"lat": 53.674,
 	"radio": [["2015-10-12T02:10:00Z",
@@ -105163,7 +105163,7 @@
 	0.0500698087553535]]
 },
 {
-	"name:" "Pirna-OT-Graupa",
+	"name": "Pirna-OT-Graupa",
 	"lon": 13.923,
 	"lat": 51.000,
 	"radio": [["2015-10-14T09:00:00Z",
@@ -105172,7 +105172,7 @@
 	0.131126449535176]]
 },
 {
-	"name:" "Plauen",
+	"name": "Plauen",
 	"lon": 12.130,
 	"lat": 50.482,
 	"radio": [["2015-10-15T01:50:00Z",
@@ -105223,7 +105223,7 @@
 	0.158660881916263]]
 },
 {
-	"name:" "Pößneck",
+	"name": "Pößneck",
 	"lon": 11.571,
 	"lat": 50.709,
 	"radio": [["2015-10-15T06:50:00Z",
@@ -105232,7 +105232,7 @@
 	0.14448807829935]]
 },
 {
-	"name:" "Polenzko-OT-Bärenthoren",
+	"name": "Polenzko-OT-Bärenthoren",
 	"lon": 12.278,
 	"lat": 52.001,
 	"radio": [["2015-10-14T11:00:00Z",
@@ -105241,7 +105241,7 @@
 	0.104805647345521]]
 },
 {
-	"name:" "Pommersfelden",
+	"name": "Pommersfelden",
 	"lon": 10.820,
 	"lat": 49.770,
 	"radio": [["2015-10-15T02:10:00Z",
@@ -105288,7 +105288,7 @@
 	0.156209603706002]]
 },
 {
-	"name:" "Poppenhausen",
+	"name": "Poppenhausen",
 	"lon": 10.129,
 	"lat": 50.098,
 	"radio": [["2015-10-15T06:40:00Z",
@@ -105337,7 +105337,7 @@
 	0.147471151726244]]
 },
 {
-	"name:" "Potsdam",
+	"name": "Potsdam",
 	"lon": 13.062,
 	"lat": 52.381,
 	"radio": [["2015-10-12T12:10:00Z",
@@ -105406,14 +105406,14 @@
 	0.076624982130759]]
 },
 {
-	"name:" "Pottenstein",
+	"name": "Pottenstein",
 	"lon": 11.408,
 	"lat": 49.775,
 	"radio": [["2015-10-15T04:30:00Z",
 	0.148600164571645]]
 },
 {
-	"name:" "Prenzlau",
+	"name": "Prenzlau",
 	"lon": 13.872,
 	"lat": 53.313,
 	"radio": [["2015-10-13T17:20:00Z",
@@ -105422,7 +105422,7 @@
 	0.0919477514829168]]
 },
 {
-	"name:" "Prex",
+	"name": "Prex",
 	"lon": 12.096,
 	"lat": 50.308,
 	"radio": [["2015-10-13T23:30:00Z",
@@ -105467,7 +105467,7 @@
 	0.158880805456326]]
 },
 {
-	"name:" "Prichsenstadt",
+	"name": "Prichsenstadt",
 	"lon": 10.352,
 	"lat": 49.815,
 	"radio": [["2015-10-15T05:50:00Z",
@@ -105494,7 +105494,7 @@
 	0.142481243293515]]
 },
 {
-	"name:" "Probstried",
+	"name": "Probstried",
 	"lon": 10.325,
 	"lat": 47.816,
 	"radio": [["2015-10-13T19:10:00Z",
@@ -105533,7 +105533,7 @@
 	0.152714037317287]]
 },
 {
-	"name:" "Pullach",
+	"name": "Pullach",
 	"lon": 12.012,
 	"lat": 47.849,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -106124,14 +106124,14 @@
 	0.0921509263818968]]
 },
 {
-	"name:" "Pyrbaum",
+	"name": "Pyrbaum",
 	"lon": 11.278,
 	"lat": 49.295,
 	"radio": [["2015-10-14T04:00:00Z",
 	0.133065127717514]]
 },
 {
-	"name:" "Radebeul",
+	"name": "Radebeul",
 	"lon": 13.675,
 	"lat": 51.119,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -106348,7 +106348,7 @@
 	0.142686073433739]]
 },
 {
-	"name:" "Raitenbuch",
+	"name": "Raitenbuch",
 	"lon": 11.127,
 	"lat": 49.014,
 	"radio": [["2015-10-13T22:20:00Z",
@@ -106367,7 +106367,7 @@
 	0.153537940492195]]
 },
 {
-	"name:" "Ramsau",
+	"name": "Ramsau",
 	"lon": 12.909,
 	"lat": 47.606,
 	"radio": [["2015-10-14T01:10:00Z",
@@ -106376,7 +106376,7 @@
 	0.158571252364737]]
 },
 {
-	"name:" "Rannungen",
+	"name": "Rannungen",
 	"lon": 10.201,
 	"lat": 50.160,
 	"radio": [["2015-10-15T16:10:00Z",
@@ -106403,7 +106403,7 @@
 	0.166795589428033]]
 },
 {
-	"name:" "Rastatt",
+	"name": "Rastatt",
 	"lon": 8.197,
 	"lat": 48.865,
 	"radio": [["2015-10-13T22:10:00Z",
@@ -106420,7 +106420,7 @@
 	0.138421250455924]]
 },
 {
-	"name:" "Ravensburg",
+	"name": "Ravensburg",
 	"lon": 9.633,
 	"lat": 47.798,
 	"radio": [["2015-10-13T19:10:00Z",
@@ -106447,21 +106447,21 @@
 	0.158765765615762]]
 },
 {
-	"name:" "Rehlingen",
+	"name": "Rehlingen",
 	"lon": 10.224,
 	"lat": 53.104,
 	"radio": [["2015-10-13T17:00:00Z",
 	0.0548256827541856]]
 },
 {
-	"name:" "Rehlingen-Siersburg-Hemmersdorf",
+	"name": "Rehlingen-Siersburg-Hemmersdorf",
 	"lon": 6.617,
 	"lat": 49.364,
 	"radio": [["2015-10-13T03:10:00Z",
 	0.106131553649902]]
 },
 {
-	"name:" "Reichelsheim-Odw",
+	"name": "Reichelsheim-Odw",
 	"lon": 8.840,
 	"lat": 49.717,
 	"radio": [["2015-10-14T00:00:00Z",
@@ -106484,14 +106484,14 @@
 	0.139657981722279]]
 },
 {
-	"name:" "Reichenbach",
+	"name": "Reichenbach",
 	"lon": 11.870,
 	"lat": 50.863,
 	"radio": [["2015-10-15T05:40:00Z",
 	0.149734269142736]]
 },
 {
-	"name:" "Reichersbeuern",
+	"name": "Reichersbeuern",
 	"lon": 11.633,
 	"lat": 47.757,
 	"radio": [["2015-10-13T20:40:00Z",
@@ -106588,7 +106588,7 @@
 	0.162790622954049]]
 },
 {
-	"name:" "Reinheim",
+	"name": "Reinheim",
 	"lon": 8.836,
 	"lat": 49.824,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -107095,7 +107095,7 @@
 	0.0986282860848565]]
 },
 {
-	"name:" "Reischach-OT-Hoheneck",
+	"name": "Reischach-OT-Hoheneck",
 	"lon": 12.711,
 	"lat": 48.311,
 	"radio": [["2015-10-14T00:20:00Z",
@@ -107108,7 +107108,7 @@
 	0.163509401079139]]
 },
 {
-	"name:" "Reitzenhain",
+	"name": "Reitzenhain",
 	"lon": 13.218,
 	"lat": 50.561,
 	"radio": [["2015-10-12T04:50:00Z",
@@ -107231,14 +107231,14 @@
 	0.144485605440348]]
 },
 {
-	"name:" "Remchingen-OT-Singen",
+	"name": "Remchingen-OT-Singen",
 	"lon": 8.565,
 	"lat": 48.955,
 	"radio": [["2015-10-14T01:50:00Z",
 	0.171520233154297]]
 },
 {
-	"name:" "Remlingen-Asse-II",
+	"name": "Remlingen-Asse-II",
 	"lon": 10.673,
 	"lat": 52.129,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -107461,28 +107461,28 @@
 	0.116898060585237]]
 },
 {
-	"name:" "Remlingen-NLB05",
+	"name": "Remlingen-NLB05",
 	"lon": 10.682,
 	"lat": 52.118,
 	"radio": [["2015-10-15T05:40:00Z",
 	0.156929962417778]]
 },
 {
-	"name:" "Remscheid-Lennep",
+	"name": "Remscheid-Lennep",
 	"lon": 7.268,
 	"lat": 51.193,
 	"radio": [["2015-10-15T10:20:00Z",
 	0.116110503973025]]
 },
 {
-	"name:" "Rendsburg",
+	"name": "Rendsburg",
 	"lon": 9.667,
 	"lat": 54.295,
 	"radio": [["2015-10-13T12:50:00Z",
 	0.0891408264241486]]
 },
 {
-	"name:" "Rennerod",
+	"name": "Rennerod",
 	"lon": 8.066,
 	"lat": 50.600,
 	"radio": [["2015-10-12T21:20:00Z",
@@ -107495,14 +107495,14 @@
 	0.126251026724106]]
 },
 {
-	"name:" "Reppenstedt-OT-Südergellersen",
+	"name": "Reppenstedt-OT-Südergellersen",
 	"lon": 10.299,
 	"lat": 53.211,
 	"radio": [["2015-10-13T04:20:00Z",
 	0.0557517313484574]]
 },
 {
-	"name:" "Rheinmünster-OT-Greffern",
+	"name": "Rheinmünster-OT-Greffern",
 	"lon": 8.000,
 	"lat": 48.752,
 	"radio": [["2015-10-13T21:20:00Z",
@@ -107515,14 +107515,14 @@
 	0.156770458405573]]
 },
 {
-	"name:" "Rheinstetten",
+	"name": "Rheinstetten",
 	"lon": 8.330,
 	"lat": 48.973,
 	"radio": [["2015-10-14T03:00:00Z",
 	0.148486844218897]]
 },
 {
-	"name:" "Rhinow",
+	"name": "Rhinow",
 	"lon": 12.350,
 	"lat": 52.757,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -107615,7 +107615,7 @@
 	0.0777432755270265]]
 },
 {
-	"name:" "Rodenäs",
+	"name": "Rodenäs",
 	"lon": 8.700,
 	"lat": 54.890,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -107954,7 +107954,7 @@
 	0.070762693936157]]
 },
 {
-	"name:" "Rodewisch",
+	"name": "Rodewisch",
 	"lon": 12.417,
 	"lat": 50.538,
 	"radio": [["2015-10-13T06:30:00Z",
@@ -107973,7 +107973,7 @@
 	0.154778653726655]]
 },
 {
-	"name:" "Roding-OT-Piendling",
+	"name": "Roding-OT-Piendling",
 	"lon": 12.534,
 	"lat": 49.215,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -108190,7 +108190,7 @@
 	0.138992537056971]]
 },
 {
-	"name:" "Röbel",
+	"name": "Röbel",
 	"lon": 12.599,
 	"lat": 53.375,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -108369,7 +108369,7 @@
 	0.083652667742356]]
 },
 {
-	"name:" "Rosenthal",
+	"name": "Rosenthal",
 	"lon": 14.056,
 	"lat": 50.852,
 	"radio": [["2015-10-14T05:00:00Z",
@@ -108398,7 +108398,7 @@
 	0.111482947781249]]
 },
 {
-	"name:" "Rot-A-D.-Rot",
+	"name": "Rot-A-D.-Rot",
 	"lon": 10.037,
 	"lat": 48.016,
 	"radio": [["2015-10-13T21:20:00Z",
@@ -108427,7 +108427,7 @@
 	0.117652727422489]]
 },
 {
-	"name:" "Rotenburg",
+	"name": "Rotenburg",
 	"lon": 9.396,
 	"lat": 53.111,
 	"radio": [["2015-10-12T04:50:00Z",
@@ -108454,7 +108454,7 @@
 	0.0562659773457304]]
 },
 {
-	"name:" "Rotenburg-A.d.Fulda",
+	"name": "Rotenburg-A.d.Fulda",
 	"lon": 9.748,
 	"lat": 50.981,
 	"radio": [["2015-10-15T17:30:00Z",
@@ -108471,7 +108471,7 @@
 	0.152715530892758]]
 },
 {
-	"name:" "Rothenberg",
+	"name": "Rothenberg",
 	"lon": 8.924,
 	"lat": 49.501,
 	"radio": [["2015-10-13T23:50:00Z",
@@ -108494,14 +108494,14 @@
 	0.157028922394399]]
 },
 {
-	"name:" "Rübenau",
+	"name": "Rübenau",
 	"lon": 13.298,
 	"lat": 50.598,
 	"radio": [["2015-10-15T07:10:00Z",
 	0.140787131928545]]
 },
 {
-	"name:" "Ruppichteroth",
+	"name": "Ruppichteroth",
 	"lon": 7.495,
 	"lat": 50.847,
 	"radio": [["2015-10-12T08:20:00Z",
@@ -108528,7 +108528,7 @@
 	0.124462833635039]]
 },
 {
-	"name:" "Salzgitter-Beddingen1",
+	"name": "Salzgitter-Beddingen1",
 	"lon": 10.411,
 	"lat": 52.172,
 	"radio": [["2015-10-12T04:40:00Z",
@@ -108557,7 +108557,7 @@
 	0.152960543281713]]
 },
 {
-	"name:" "Salzgitter-Lebenstedt",
+	"name": "Salzgitter-Lebenstedt",
 	"lon": 10.331,
 	"lat": 52.150,
 	"radio": [["2015-10-15T05:30:00Z",
@@ -108580,14 +108580,14 @@
 	0.125056160024793]]
 },
 {
-	"name:" "Salzgitter-Lichtenberg",
+	"name": "Salzgitter-Lichtenberg",
 	"lon": 10.294,
 	"lat": 52.128,
 	"radio": [["2015-10-15T10:00:00Z",
 	0.138312617394056]]
 },
 {
-	"name:" "Sarstedt",
+	"name": "Sarstedt",
 	"lon": 9.858,
 	"lat": 52.240,
 	"radio": [["2015-10-15T06:20:00Z",
@@ -108596,7 +108596,7 @@
 	0.136678235271202]]
 },
 {
-	"name:" "Sauerlach",
+	"name": "Sauerlach",
 	"lon": 11.632,
 	"lat": 47.968,
 	"radio": [["2015-10-12T00:10:00Z",
@@ -108995,7 +108995,7 @@
 	0.0755986046096434]]
 },
 {
-	"name:" "Schalkau",
+	"name": "Schalkau",
 	"lon": 10.999,
 	"lat": 50.393,
 	"radio": [["2015-10-15T04:00:00Z",
@@ -109012,7 +109012,7 @@
 	0.164742445851569]]
 },
 {
-	"name:" "Schauenburg-Hoof",
+	"name": "Schauenburg-Hoof",
 	"lon": 9.359,
 	"lat": 51.284,
 	"radio": [["2015-10-15T10:30:00Z",
@@ -109023,7 +109023,7 @@
 	0.144386687283855]]
 },
 {
-	"name:" "Scheinfeld",
+	"name": "Scheinfeld",
 	"lon": 10.461,
 	"lat": 49.672,
 	"radio": [["2015-10-14T06:40:00Z",
@@ -109050,7 +109050,7 @@
 	0.15836527306141]]
 },
 {
-	"name:" "Schemmerhofen-OT-Ingerk.",
+	"name": "Schemmerhofen-OT-Ingerk.",
 	"lon": 9.777,
 	"lat": 48.201,
 	"radio": [["2015-10-13T19:40:00Z",
@@ -109075,14 +109075,14 @@
 	0.128761755550995]]
 },
 {
-	"name:" "Scheßlitz",
+	"name": "Scheßlitz",
 	"lon": 11.030,
 	"lat": 49.973,
 	"radio": [["2015-10-15T05:00:00Z",
 	0.15610756808712]]
 },
 {
-	"name:" "Schierke/Brocken",
+	"name": "Schierke/Brocken",
 	"lon": 10.618,
 	"lat": 51.799,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -109493,7 +109493,7 @@
 	0.123820296970074]]
 },
 {
-	"name:" "Schifferstadt",
+	"name": "Schifferstadt",
 	"lon": 8.391,
 	"lat": 49.397,
 	"radio": [["2015-10-13T20:40:00Z",
@@ -109504,7 +109504,7 @@
 	0.175120762215667]]
 },
 {
-	"name:" "Schillingsfürst",
+	"name": "Schillingsfürst",
 	"lon": 10.265,
 	"lat": 49.283,
 	"radio": [["2015-10-13T23:00:00Z",
@@ -109517,7 +109517,7 @@
 	0.153836159222356]]
 },
 {
-	"name:" "Schleching",
+	"name": "Schleching",
 	"lon": 12.396,
 	"lat": 47.705,
 	"radio": [["2015-10-14T07:20:00Z",
@@ -109534,21 +109534,21 @@
 	0.153743918306178]]
 },
 {
-	"name:" "Schlitz",
+	"name": "Schlitz",
 	"lon": 9.566,
 	"lat": 50.668,
 	"radio": [["2015-10-15T18:20:00Z",
 	0.153729798284223]]
 },
 {
-	"name:" "Schloß-Holte-Stukenbrock",
+	"name": "Schloß-Holte-Stukenbrock",
 	"lon": 8.660,
 	"lat": 51.916,
 	"radio": [["2015-10-13T14:30:00Z",
 	0.0560589068828318]]
 },
 {
-	"name:" "Schlüchtern",
+	"name": "Schlüchtern",
 	"lon": 9.527,
 	"lat": 50.351,
 	"radio": [["2015-10-15T08:20:00Z",
@@ -109583,7 +109583,7 @@
 	0.150451680705204]]
 },
 {
-	"name:" "Schmalfeld",
+	"name": "Schmalfeld",
 	"lon": 9.975,
 	"lat": 53.877,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -109690,7 +109690,7 @@
 	0.0525883051008862]]
 },
 {
-	"name:" "Schmalkalden",
+	"name": "Schmalkalden",
 	"lon": 10.445,
 	"lat": 50.720,
 	"radio": [["2015-10-14T02:20:00Z",
@@ -109703,7 +109703,7 @@
 	0.156000573197317]]
 },
 {
-	"name:" "Schmallenberg",
+	"name": "Schmallenberg",
 	"lon": 8.287,
 	"lat": 51.161,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -110162,7 +110162,7 @@
 	0.128445776374241]]
 },
 {
-	"name:" "Schmidmühlen",
+	"name": "Schmidmühlen",
 	"lon": 11.925,
 	"lat": 49.265,
 	"radio": [["2015-10-15T04:20:00Z",
@@ -110171,7 +110171,7 @@
 	0.144488784876579]]
 },
 {
-	"name:" "Schmitten-Arnoldshain",
+	"name": "Schmitten-Arnoldshain",
 	"lon": 8.450,
 	"lat": 50.265,
 	"radio": [["2015-10-15T11:20:00Z",
@@ -110182,7 +110182,7 @@
 	0.128239729237568]]
 },
 {
-	"name:" "Schnaitsee-OT-Poschen",
+	"name": "Schnaitsee-OT-Poschen",
 	"lon": 12.428,
 	"lat": 48.065,
 	"radio": [["2015-10-15T00:00:00Z",
@@ -110195,7 +110195,7 @@
 	0.182675745987353]]
 },
 {
-	"name:" "Schömberg",
+	"name": "Schömberg",
 	"lon": 8.767,
 	"lat": 48.209,
 	"radio": [["2015-10-12T01:10:00Z",
@@ -110250,7 +110250,7 @@
 	0.127609911129005]]
 },
 {
-	"name:" "Schönau1",
+	"name": "Schönau1",
 	"lon": 12.836,
 	"lat": 48.484,
 	"radio": [["2015-10-13T23:00:00Z",
@@ -110321,14 +110321,14 @@
 	0.148909295958522]]
 },
 {
-	"name:" "Schönau-ST-Altneudorf",
+	"name": "Schönau-ST-Altneudorf",
 	"lon": 8.806,
 	"lat": 49.462,
 	"radio": [["2015-10-15T15:10:00Z",
 	0.112509734928608]]
 },
 {
-	"name:" "Schöneck",
+	"name": "Schöneck",
 	"lon": 12.345,
 	"lat": 50.395,
 	"radio": [["2015-10-12T08:10:00Z",
@@ -110379,7 +110379,7 @@
 	0.159599210144572]]
 },
 {
-	"name:" "Schönthal",
+	"name": "Schönthal",
 	"lon": 12.606,
 	"lat": 49.356,
 	"radio": [["2015-10-13T22:40:00Z",
@@ -110436,7 +110436,7 @@
 	0.168953395161947]]
 },
 {
-	"name:" "Schortens-Heidmühle",
+	"name": "Schortens-Heidmühle",
 	"lon": 7.938,
 	"lat": 53.551,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -110523,7 +110523,7 @@
 	0.0498883831297097]]
 },
 {
-	"name:" "Schotten-OT-Breungeshain",
+	"name": "Schotten-OT-Breungeshain",
 	"lon": 9.225,
 	"lat": 50.508,
 	"radio": [["2015-10-13T13:10:00Z",
@@ -110532,7 +110532,7 @@
 	0.0804683925999769]]
 },
 {
-	"name:" "Schwäbisch-Hall",
+	"name": "Schwäbisch-Hall",
 	"lon": 9.727,
 	"lat": 49.098,
 	"radio": [["2015-10-14T03:40:00Z",
@@ -110563,14 +110563,14 @@
 	0.143452035415376]]
 },
 {
-	"name:" "Schwaförden-Sudwalde",
+	"name": "Schwaförden-Sudwalde",
 	"lon": 8.842,
 	"lat": 52.794,
 	"radio": [["2015-10-15T12:00:00Z",
 	0.101926504453555]]
 },
 {
-	"name:" "Schwarzenfeld",
+	"name": "Schwarzenfeld",
 	"lon": 12.140,
 	"lat": 49.396,
 	"radio": [["2015-10-15T04:50:00Z",
@@ -110589,14 +110589,14 @@
 	0.141039468090862]]
 },
 {
-	"name:" "Schweinfurt",
+	"name": "Schweinfurt",
 	"lon": 10.213,
 	"lat": 50.044,
 	"radio": [["2015-10-15T16:00:00Z",
 	0.174612060189247]]
 },
 {
-	"name:" "Schwendi",
+	"name": "Schwendi",
 	"lon": 9.975,
 	"lat": 48.181,
 	"radio": [["2015-10-13T16:10:00Z",
@@ -110647,7 +110647,7 @@
 	0.110619570968743]]
 },
 {
-	"name:" "Schwindkirchen",
+	"name": "Schwindkirchen",
 	"lon": 12.217,
 	"lat": 48.263,
 	"radio": [["2015-10-13T23:30:00Z",
@@ -110672,7 +110672,7 @@
 	0.128918098323096]]
 },
 {
-	"name:" "Seehausen",
+	"name": "Seehausen",
 	"lon": 11.730,
 	"lat": 52.891,
 	"radio": [["2015-10-12T11:30:00Z",
@@ -110693,7 +110693,7 @@
 	0.0732397455479465]]
 },
 {
-	"name:" "Seeshaupt",
+	"name": "Seeshaupt",
 	"lon": 11.300,
 	"lat": 47.824,
 	"radio": [["2015-10-13T20:20:00Z",
@@ -110762,7 +110762,7 @@
 	0.139758396245007]]
 },
 {
-	"name:" "Seinsheim",
+	"name": "Seinsheim",
 	"lon": 10.224,
 	"lat": 49.642,
 	"radio": [["2015-10-14T06:30:00Z",
@@ -110775,14 +110775,14 @@
 	0.157338850342033]]
 },
 {
-	"name:" "Seligenstadt",
+	"name": "Seligenstadt",
 	"lon": 8.970,
 	"lat": 50.046,
 	"radio": [["2015-10-14T03:10:00Z",
 	0.0954475328326225]]
 },
 {
-	"name:" "Senden",
+	"name": "Senden",
 	"lon": 7.480,
 	"lat": 51.853,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -111205,7 +111205,7 @@
 	0.0915230166680927]]
 },
 {
-	"name:" "Seßlach",
+	"name": "Seßlach",
 	"lon": 10.845,
 	"lat": 50.186,
 	"radio": [["2015-10-12T02:50:00Z",
@@ -111242,7 +111242,7 @@
 	0.158264798604892]]
 },
 {
-	"name:" "Söchtenau",
+	"name": "Söchtenau",
 	"lon": 12.234,
 	"lat": 47.928,
 	"radio": [["2015-10-12T21:10:00Z",
@@ -111315,7 +111315,7 @@
 	0.160725243314351]]
 },
 {
-	"name:" "Sömmerda",
+	"name": "Sömmerda",
 	"lon": 11.114,
 	"lat": 51.164,
 	"radio": [["2015-10-15T04:00:00Z",
@@ -111360,7 +111360,7 @@
 	0.157821809905269]]
 },
 {
-	"name:" "Sommersdorf",
+	"name": "Sommersdorf",
 	"lon": 14.177,
 	"lat": 53.285,
 	"radio": [["2015-10-13T13:50:00Z",
@@ -111369,7 +111369,7 @@
 	0.1367760276349]]
 },
 {
-	"name:" "Sondershausen",
+	"name": "Sondershausen",
 	"lon": 10.906,
 	"lat": 51.375,
 	"radio": [["2015-10-12T01:40:00Z",
@@ -111492,7 +111492,7 @@
 	0.147881639991671]]
 },
 {
-	"name:" "Sonneberg-Neufang",
+	"name": "Sonneberg-Neufang",
 	"lon": 11.183,
 	"lat": 50.376,
 	"radio": [["2015-10-15T05:10:00Z",
@@ -111505,7 +111505,7 @@
 	0.148909660044751]]
 },
 {
-	"name:" "Speicher",
+	"name": "Speicher",
 	"lon": 6.641,
 	"lat": 49.938,
 	"radio": [["2015-10-13T14:40:00Z",
@@ -111526,14 +111526,14 @@
 	0.145106670374067]]
 },
 {
-	"name:" "Speyer",
+	"name": "Speyer",
 	"lon": 8.446,
 	"lat": 49.309,
 	"radio": [["2015-10-13T09:10:00Z",
 	0.0903482437133789]]
 },
 {
-	"name:" "St.-Georgen",
+	"name": "St.-Georgen",
 	"lon": 8.385,
 	"lat": 48.124,
 	"radio": [["2015-10-13T02:20:00Z",
@@ -111542,14 +111542,14 @@
 	0.130862246020445]]
 },
 {
-	"name:" "St.-Goarshausen",
+	"name": "St.-Goarshausen",
 	"lon": 7.730,
 	"lat": 50.153,
 	"radio": [["2015-10-15T22:10:00Z",
 	0.140688799333579]]
 },
 {
-	"name:" "St.-Märgen",
+	"name": "St.-Märgen",
 	"lon": 8.091,
 	"lat": 48.008,
 	"radio": [["2015-10-13T18:40:00Z",
@@ -111570,14 +111570,14 @@
 	0.158505539178881]]
 },
 {
-	"name:" "St.-Margarethen",
+	"name": "St.-Margarethen",
 	"lon": 9.260,
 	"lat": 53.882,
 	"radio": [["2015-10-12T03:10:00Z",
 	0.076324462890625]]
 },
 {
-	"name:" "St.-Peter-Ording",
+	"name": "St.-Peter-Ording",
 	"lon": 8.603,
 	"lat": 54.328,
 	"radio": [["2015-10-12T11:10:00Z",
@@ -111586,7 +111586,7 @@
 	0.0525624773846515]]
 },
 {
-	"name:" "Stadtallendorf",
+	"name": "Stadtallendorf",
 	"lon": 8.989,
 	"lat": 50.820,
 	"radio": [["2015-10-12T02:10:00Z",
@@ -111619,7 +111619,7 @@
 	0.112998008728027]]
 },
 {
-	"name:" "Steinheim",
+	"name": "Steinheim",
 	"lon": 9.082,
 	"lat": 51.876,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -111828,21 +111828,21 @@
 	0.103165693131672]]
 },
 {
-	"name:" "Sternenfels",
+	"name": "Sternenfels",
 	"lon": 8.848,
 	"lat": 49.048,
 	"radio": [["2015-10-14T03:20:00Z",
 	0.163890838623047]]
 },
 {
-	"name:" "Stutensee-OT-Friedrichst.",
+	"name": "Stutensee-OT-Friedrichst.",
 	"lon": 8.478,
 	"lat": 49.094,
 	"radio": [["2015-10-13T09:10:00Z",
 	0.093293197453022]]
 },
 {
-	"name:" "Sulingen",
+	"name": "Sulingen",
 	"lon": 8.823,
 	"lat": 52.690,
 	"radio": [["2015-10-12T04:40:00Z",
@@ -111859,7 +111859,7 @@
 	0.0521509528273023]]
 },
 {
-	"name:" "Surberg",
+	"name": "Surberg",
 	"lon": 12.707,
 	"lat": 47.859,
 	"radio": [["2015-10-14T02:10:00Z",
@@ -111868,7 +111868,7 @@
 	0.144499119284323]]
 },
 {
-	"name:" "Swisttal-Miel",
+	"name": "Swisttal-Miel",
 	"lon": 6.935,
 	"lat": 50.659,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -112067,7 +112067,7 @@
 	0.136323038918823]]
 },
 {
-	"name:" "Tambach-Dietharz",
+	"name": "Tambach-Dietharz",
 	"lon": 10.611,
 	"lat": 50.789,
 	"radio": [["2015-10-12T04:30:00Z",
@@ -112134,7 +112134,7 @@
 	0.155932885371466]]
 },
 {
-	"name:" "Tannenberg",
+	"name": "Tannenberg",
 	"lon": 10.790,
 	"lat": 47.783,
 	"radio": [["2015-10-13T17:30:00Z",
@@ -112213,7 +112213,7 @@
 	0.167005256917477]]
 },
 {
-	"name:" "Teisnach",
+	"name": "Teisnach",
 	"lon": 12.991,
 	"lat": 49.040,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -112404,14 +112404,14 @@
 	0.171527346186234]]
 },
 {
-	"name:" "Teuschnitz",
+	"name": "Teuschnitz",
 	"lon": 11.385,
 	"lat": 50.397,
 	"radio": [["2015-10-14T06:40:00Z",
 	0.13122926171397]]
 },
 {
-	"name:" "Thannhausen",
+	"name": "Thannhausen",
 	"lon": 10.469,
 	"lat": 48.273,
 	"radio": [["2015-10-14T00:20:00Z",
@@ -112422,7 +112422,7 @@
 	0.172653198242188]]
 },
 {
-	"name:" "Tholey",
+	"name": "Tholey",
 	"lon": 7.039,
 	"lat": 49.474,
 	"radio": [["2015-10-12T00:30:00Z",
@@ -112459,7 +112459,7 @@
 	0.131019151445078]]
 },
 {
-	"name:" "Thundorf-I.UFr.",
+	"name": "Thundorf-I.UFr.",
 	"lon": 10.317,
 	"lat": 50.212,
 	"radio": [["2015-10-15T05:20:00Z",
@@ -112516,7 +112516,7 @@
 	0.152679960116802]]
 },
 {
-	"name:" "Tirschenreuth",
+	"name": "Tirschenreuth",
 	"lon": 12.343,
 	"lat": 49.881,
 	"radio": [["2015-10-13T23:00:00Z",
@@ -112563,7 +112563,7 @@
 	0.138938672805936]]
 },
 {
-	"name:" "Todendorf",
+	"name": "Todendorf",
 	"lon": 10.600,
 	"lat": 54.363,
 	"radio": [["2015-10-12T03:30:00Z",
@@ -112578,7 +112578,7 @@
 	0.0663426716411783]]
 },
 {
-	"name:" "Torgelow",
+	"name": "Torgelow",
 	"lon": 14.016,
 	"lat": 53.638,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -112837,7 +112837,7 @@
 	0.0600678301843327]]
 },
 {
-	"name:" "Trendelburg-OT-Langenthal",
+	"name": "Trendelburg-OT-Langenthal",
 	"lon": 9.396,
 	"lat": 51.611,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -113068,7 +113068,7 @@
 	0.105904152665858]]
 },
 {
-	"name:" "Triebel",
+	"name": "Triebel",
 	"lon": 12.134,
 	"lat": 50.375,
 	"radio": [["2015-10-13T23:50:00Z",
@@ -113121,7 +113121,7 @@
 	0.182361726528116]]
 },
 {
-	"name:" "Twist",
+	"name": "Twist",
 	"lon": 7.087,
 	"lat": 52.647,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -113188,7 +113188,7 @@
 	0.0519458903610705]]
 },
 {
-	"name:" "Überacker",
+	"name": "Überacker",
 	"lon": 11.271,
 	"lat": 48.231,
 	"radio": [["2015-10-12T21:50:00Z",
@@ -113263,7 +113263,7 @@
 	0.0900733442327858]]
 },
 {
-	"name:" "Üchtelhausen-OT-Hesselbach",
+	"name": "Üchtelhausen-OT-Hesselbach",
 	"lon": 10.327,
 	"lat": 50.111,
 	"radio": [["2015-10-15T02:00:00Z",
@@ -113272,21 +113272,21 @@
 	0.162652969360352]]
 },
 {
-	"name:" "Ühlingen-Birkendorf",
+	"name": "Ühlingen-Birkendorf",
 	"lon": 8.322,
 	"lat": 47.719,
 	"radio": [["2015-10-15T15:10:00Z",
 	0.119852058589458]]
 },
 {
-	"name:" "Ühlingen-Birkendorf-OT-Berau",
+	"name": "Ühlingen-Birkendorf-OT-Berau",
 	"lon": 8.254,
 	"lat": 47.692,
 	"radio": [["2015-10-14T03:10:00Z",
 	0.13517951965332]]
 },
 {
-	"name:" "Uffing-A.-Staffelsee",
+	"name": "Uffing-A.-Staffelsee",
 	"lon": 11.169,
 	"lat": 47.712,
 	"radio": [["2015-10-13T17:20:00Z",
@@ -113395,7 +113395,7 @@
 	0.146440613208909]]
 },
 {
-	"name:" "Unter-Schefflenz",
+	"name": "Unter-Schefflenz",
 	"lon": 9.275,
 	"lat": 49.398,
 	"radio": [["2015-10-14T04:40:00Z",
@@ -113404,7 +113404,7 @@
 	0.109643928706646]]
 },
 {
-	"name:" "Untergrafenried",
+	"name": "Untergrafenried",
 	"lon": 12.690,
 	"lat": 49.419,
 	"radio": [["2015-10-13T22:20:00Z",
@@ -113433,7 +113433,7 @@
 	0.169060318695699]]
 },
 {
-	"name:" "Uttigkofen",
+	"name": "Uttigkofen",
 	"lon": 13.028,
 	"lat": 48.580,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -113950,7 +113950,7 @@
 	0.0972889995214991]]
 },
 {
-	"name:" "Vahlberg-OT-Berklingen",
+	"name": "Vahlberg-OT-Berklingen",
 	"lon": 10.730,
 	"lat": 52.122,
 	"radio": [["2015-10-12T08:30:00Z",
@@ -114025,7 +114025,7 @@
 	0.12070234842064]]
 },
 {
-	"name:" "Vahlberg-OT-Groß-Vahlberg-NLB02",
+	"name": "Vahlberg-OT-Groß-Vahlberg-NLB02",
 	"lon": 10.702,
 	"lat": 52.137,
 	"radio": [["2015-10-15T09:30:00Z",
@@ -114034,21 +114034,21 @@
 	0.136573421796851]]
 },
 {
-	"name:" "Vahrendorf",
+	"name": "Vahrendorf",
 	"lon": 9.908,
 	"lat": 53.436,
 	"radio": [["2015-10-14T21:10:00Z",
 	0.0775375440716744]]
 },
 {
-	"name:" "Vechelde-OT-Gr.Gleidingen",
+	"name": "Vechelde-OT-Gr.Gleidingen",
 	"lon": 10.418,
 	"lat": 52.228,
 	"radio": [["2015-10-14T05:20:00Z",
 	0.107751607623455]]
 },
 {
-	"name:" "Velden-OT-Viehweide",
+	"name": "Velden-OT-Viehweide",
 	"lon": 12.249,
 	"lat": 48.371,
 	"radio": [["2015-10-13T22:30:00Z",
@@ -114059,7 +114059,7 @@
 	0.147293090820312]]
 },
 {
-	"name:" "Vilsbiburg",
+	"name": "Vilsbiburg",
 	"lon": 12.372,
 	"lat": 48.445,
 	"radio": [["2015-10-13T23:00:00Z",
@@ -114068,7 +114068,7 @@
 	0.167705535888672]]
 },
 {
-	"name:" "Vilshofen",
+	"name": "Vilshofen",
 	"lon": 13.188,
 	"lat": 48.623,
 	"radio": [["2015-10-12T01:00:00Z",
@@ -114269,7 +114269,7 @@
 	0.123622234249195]]
 },
 {
-	"name:" "Vlotho",
+	"name": "Vlotho",
 	"lon": 8.864,
 	"lat": 52.170,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -114502,7 +114502,7 @@
 	0.103668220032934]]
 },
 {
-	"name:" "Vöhrenbach-ST-Hammereis.",
+	"name": "Vöhrenbach-ST-Hammereis.",
 	"lon": 8.319,
 	"lat": 47.996,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -114839,7 +114839,7 @@
 	0.142295474492165]]
 },
 {
-	"name:" "Vorderriß-II",
+	"name": "Vorderriß-II",
 	"lon": 11.436,
 	"lat": 47.557,
 	"radio": [["2015-10-13T19:20:00Z",
@@ -114934,7 +114934,7 @@
 	0.127934553791177]]
 },
 {
-	"name:" "Wahrenberg",
+	"name": "Wahrenberg",
 	"lon": 11.670,
 	"lat": 52.990,
 	"radio": [["2015-10-12T02:00:00Z",
@@ -114963,7 +114963,7 @@
 	0.072854995727539]]
 },
 {
-	"name:" "Waidhaus",
+	"name": "Waidhaus",
 	"lon": 12.503,
 	"lat": 49.635,
 	"radio": [["2015-10-12T00:50:00Z",
@@ -115104,14 +115104,14 @@
 	0.136165519245732]]
 },
 {
-	"name:" "Waischenfeld-OT-Nankendorf",
+	"name": "Waischenfeld-OT-Nankendorf",
 	"lon": 11.334,
 	"lat": 49.865,
 	"radio": [["2015-10-15T05:30:00Z",
 	0.137470362990294]]
 },
 {
-	"name:" "Waldenburg",
+	"name": "Waldenburg",
 	"lon": 12.585,
 	"lat": 50.879,
 	"radio": [["2015-10-14T02:30:00Z",
@@ -115148,7 +115148,7 @@
 	0.12845394360261]]
 },
 {
-	"name:" "Waldhäuser",
+	"name": "Waldhäuser",
 	"lon": 13.465,
 	"lat": 48.929,
 	"radio": [["2015-10-14T00:00:00Z",
@@ -115235,7 +115235,7 @@
 	0.159293159869382]]
 },
 {
-	"name:" "Waldheim",
+	"name": "Waldheim",
 	"lon": 13.042,
 	"lat": 51.067,
 	"radio": [["2015-10-15T06:40:00Z",
@@ -115244,7 +115244,7 @@
 	0.152201151113004]]
 },
 {
-	"name:" "Waldkappel",
+	"name": "Waldkappel",
 	"lon": 9.869,
 	"lat": 51.142,
 	"radio": [["2015-10-15T18:10:00Z",
@@ -115255,7 +115255,7 @@
 	0.145622826830267]]
 },
 {
-	"name:" "Waldkirch-ST-Siensbach",
+	"name": "Waldkirch-ST-Siensbach",
 	"lon": 7.988,
 	"lat": 48.100,
 	"radio": [["2015-10-13T18:50:00Z",
@@ -115272,7 +115272,7 @@
 	0.15702969016761]]
 },
 {
-	"name:" "Waldmichelbach-ST-Gadern",
+	"name": "Waldmichelbach-ST-Gadern",
 	"lon": 8.814,
 	"lat": 49.587,
 	"radio": [["2015-10-14T02:40:00Z",
@@ -115281,14 +115281,14 @@
 	0.132123572769943]]
 },
 {
-	"name:" "Waldshut-Tiengen",
+	"name": "Waldshut-Tiengen",
 	"lon": 8.223,
 	"lat": 47.617,
 	"radio": [["2015-10-12T08:40:00Z",
 	0.0899979864590507]]
 },
 {
-	"name:" "Wallhausen",
+	"name": "Wallhausen",
 	"lon": 10.076,
 	"lat": 49.216,
 	"radio": [["2015-10-12T06:00:00Z",
@@ -115319,7 +115319,7 @@
 	0.149728411773923]]
 },
 {
-	"name:" "Wanfried",
+	"name": "Wanfried",
 	"lon": 10.176,
 	"lat": 51.186,
 	"radio": [["2015-10-15T18:40:00Z",
@@ -115328,7 +115328,7 @@
 	0.145824515154321]]
 },
 {
-	"name:" "Wangen-Im-Allgäu",
+	"name": "Wangen-Im-Allgäu",
 	"lon": 9.830,
 	"lat": 47.696,
 	"radio": [["2015-10-13T20:30:00Z",
@@ -115341,14 +115341,14 @@
 	0.166104803162251]]
 },
 {
-	"name:" "Wanna",
+	"name": "Wanna",
 	"lon": 8.801,
 	"lat": 53.743,
 	"radio": [["2015-10-13T21:10:00Z",
 	0.0644445419311523]]
 },
 {
-	"name:" "Wartmannsroth",
+	"name": "Wartmannsroth",
 	"lon": 9.802,
 	"lat": 50.185,
 	"radio": [["2015-10-15T07:10:00Z",
@@ -115371,14 +115371,14 @@
 	0.156770959495864]]
 },
 {
-	"name:" "Wasserburg-Am-Inn",
+	"name": "Wasserburg-Am-Inn",
 	"lon": 12.216,
 	"lat": 48.064,
 	"radio": [["2015-10-14T23:30:00Z",
 	0.136779037764769]]
 },
 {
-	"name:" "Wasserlosen-OT-Kaisten",
+	"name": "Wasserlosen-OT-Kaisten",
 	"lon": 10.041,
 	"lat": 50.046,
 	"radio": [["2015-10-14T06:40:00Z",
@@ -115417,7 +115417,7 @@
 	0.131739455686985]]
 },
 {
-	"name:" "Wegendorf",
+	"name": "Wegendorf",
 	"lon": 13.748,
 	"lat": 52.603,
 	"radio": [["2015-10-14T13:50:00Z",
@@ -115426,14 +115426,14 @@
 	0.114258982577617]]
 },
 {
-	"name:" "Wegscheid",
+	"name": "Wegscheid",
 	"lon": 13.790,
 	"lat": 48.596,
 	"radio": [["2015-10-15T04:10:00Z",
 	0.148497726466474]]
 },
 {
-	"name:" "Wehldorf",
+	"name": "Wehldorf",
 	"lon": 8.801,
 	"lat": 53.830,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -115484,7 +115484,7 @@
 	0.0655189830552168]]
 },
 {
-	"name:" "Weiden-OT-Stockerhut",
+	"name": "Weiden-OT-Stockerhut",
 	"lon": 12.137,
 	"lat": 49.675,
 	"radio": [["2015-10-13T23:00:00Z",
@@ -115517,7 +115517,7 @@
 	0.14222570107214]]
 },
 {
-	"name:" "Weilheim-OT-Deutenhausen",
+	"name": "Weilheim-OT-Deutenhausen",
 	"lon": 11.169,
 	"lat": 47.826,
 	"radio": [["2015-10-13T17:20:00Z",
@@ -115610,35 +115610,35 @@
 	0.16021363252978]]
 },
 {
-	"name:" "Weilmünster",
+	"name": "Weilmünster",
 	"lon": 8.381,
 	"lat": 50.428,
 	"radio": [["2015-10-15T09:20:00Z",
 	0.137601499626473]]
 },
 {
-	"name:" "Weisendorf",
+	"name": "Weisendorf",
 	"lon": 10.829,
 	"lat": 49.622,
 	"radio": [["2015-10-15T06:00:00Z",
 	0.15908445408708]]
 },
 {
-	"name:" "Weißenborn-Lüderode",
+	"name": "Weißenborn-Lüderode",
 	"lon": 10.424,
 	"lat": 51.534,
 	"radio": [["2015-10-15T07:30:00Z",
 	0.158160454495211]]
 },
 {
-	"name:" "Weißenburg",
+	"name": "Weißenburg",
 	"lon": 10.968,
 	"lat": 49.047,
 	"radio": [["2015-10-14T03:50:00Z",
 	0.159813577287657]]
 },
 {
-	"name:" "Weißenburg-I.Bay.-OT-Emetzheim",
+	"name": "Weißenburg-I.Bay.-OT-Emetzheim",
 	"lon": 10.931,
 	"lat": 49.011,
 	"radio": [["2015-10-14T00:50:00Z",
@@ -115647,7 +115647,7 @@
 	0.146340673963254]]
 },
 {
-	"name:" "Weißwasser",
+	"name": "Weißwasser",
 	"lon": 14.632,
 	"lat": 51.489,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -116024,7 +116024,7 @@
 	0.0890659516274162]]
 },
 {
-	"name:" "Weitnau",
+	"name": "Weitnau",
 	"lon": 10.129,
 	"lat": 47.639,
 	"radio": [["2015-10-13T19:00:00Z",
@@ -116079,7 +116079,7 @@
 	0.152303207708525]]
 },
 {
-	"name:" "Welden",
+	"name": "Welden",
 	"lon": 10.667,
 	"lat": 48.459,
 	"radio": [["2015-10-13T23:20:00Z",
@@ -116108,7 +116108,7 @@
 	0.143873369184787]]
 },
 {
-	"name:" "Wemding",
+	"name": "Wemding",
 	"lon": 10.726,
 	"lat": 48.865,
 	"radio": [["2015-10-14T02:10:00Z",
@@ -116121,7 +116121,7 @@
 	0.157955633743833]]
 },
 {
-	"name:" "Werder",
+	"name": "Werder",
 	"lon": 12.928,
 	"lat": 52.379,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -116352,7 +116352,7 @@
 	0.0834947473113111]]
 },
 {
-	"name:" "Werlte",
+	"name": "Werlte",
 	"lon": 7.678,
 	"lat": 52.857,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -116531,7 +116531,7 @@
 	0.0732163600774332]]
 },
 {
-	"name:" "Werneck",
+	"name": "Werneck",
 	"lon": 10.110,
 	"lat": 49.986,
 	"radio": [["2015-10-13T03:10:00Z",
@@ -116558,7 +116558,7 @@
 	0.160834325565897]]
 },
 {
-	"name:" "Wernigerode",
+	"name": "Wernigerode",
 	"lon": 10.768,
 	"lat": 51.845,
 	"radio": [["2015-10-12T00:20:00Z",
@@ -116725,7 +116725,7 @@
 	0.122683383685499]]
 },
 {
-	"name:" "Westermarkelsdorf-Fehmarn",
+	"name": "Westermarkelsdorf-Fehmarn",
 	"lon": 11.060,
 	"lat": 54.528,
 	"radio": [["2015-10-12T10:20:00Z",
@@ -116736,7 +116736,7 @@
 	0.0742608867705465]]
 },
 {
-	"name:" "Westre",
+	"name": "Westre",
 	"lon": 9.008,
 	"lat": 54.860,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -116907,7 +116907,7 @@
 	0.0516251316931586]]
 },
 {
-	"name:" "Wiehl",
+	"name": "Wiehl",
 	"lon": 7.551,
 	"lat": 50.957,
 	"radio": [["2015-10-12T00:40:00Z",
@@ -117058,7 +117058,7 @@
 	0.117649222278715]]
 },
 {
-	"name:" "Wieling",
+	"name": "Wieling",
 	"lon": 11.271,
 	"lat": 47.960,
 	"radio": [["2015-10-12T02:00:00Z",
@@ -117107,14 +117107,14 @@
 	0.133277998572409]]
 },
 {
-	"name:" "Wiepersdorf",
+	"name": "Wiepersdorf",
 	"lon": 13.246,
 	"lat": 51.881,
 	"radio": [["2015-10-13T15:10:00Z",
 	0.0705156321332407]]
 },
 {
-	"name:" "Willebadessen",
+	"name": "Willebadessen",
 	"lon": 9.050,
 	"lat": 51.634,
 	"radio": [["2015-10-15T06:20:00Z",
@@ -117135,7 +117135,7 @@
 	0.149115992644497]]
 },
 {
-	"name:" "Windach",
+	"name": "Windach",
 	"lon": 11.033,
 	"lat": 48.071,
 	"radio": [["2015-10-13T18:20:00Z",
@@ -117164,7 +117164,7 @@
 	0.15908289856404]]
 },
 {
-	"name:" "Winterberg-Kahler-Asten",
+	"name": "Winterberg-Kahler-Asten",
 	"lon": 8.489,
 	"lat": 51.180,
 	"radio": [["2015-10-12T09:20:00Z",
@@ -117175,7 +117175,7 @@
 	0.108106944038367]]
 },
 {
-	"name:" "Wittenburg",
+	"name": "Wittenburg",
 	"lon": 11.092,
 	"lat": 53.501,
 	"radio": [["2015-10-12T02:10:00Z",
@@ -117212,7 +117212,7 @@
 	0.0987094481672842]]
 },
 {
-	"name:" "Wittingen",
+	"name": "Wittingen",
 	"lon": 10.730,
 	"lat": 52.731,
 	"radio": [["2015-10-14T06:30:00Z",
@@ -117237,7 +117237,7 @@
 	0.0950068177890684]]
 },
 {
-	"name:" "Wittingen-Boitzenhagen",
+	"name": "Wittingen-Boitzenhagen",
 	"lon": 10.811,
 	"lat": 52.616,
 	"radio": [["2015-10-12T07:30:00Z",
@@ -117268,7 +117268,7 @@
 	0.055338979040557]]
 },
 {
-	"name:" "Wittstock-OT-Neu-Daber",
+	"name": "Wittstock-OT-Neu-Daber",
 	"lon": 12.559,
 	"lat": 53.222,
 	"radio": [["2015-10-12T01:20:00Z",
@@ -117299,7 +117299,7 @@
 	0.0765234591781915]]
 },
 {
-	"name:" "Witzenhausen",
+	"name": "Witzenhausen",
 	"lon": 9.857,
 	"lat": 51.349,
 	"radio": [["2015-10-15T09:20:00Z",
@@ -117308,7 +117308,7 @@
 	0.149426225721218]]
 },
 {
-	"name:" "Wolfegg",
+	"name": "Wolfegg",
 	"lon": 9.795,
 	"lat": 47.820,
 	"radio": [["2015-10-13T19:30:00Z",
@@ -117339,7 +117339,7 @@
 	0.165973247715579]]
 },
 {
-	"name:" "Wolfhagen",
+	"name": "Wolfhagen",
 	"lon": 9.175,
 	"lat": 51.307,
 	"radio": [["2015-10-15T06:30:00Z",
@@ -117352,21 +117352,21 @@
 	0.127687420134678]]
 },
 {
-	"name:" "Wolken",
+	"name": "Wolken",
 	"lon": 7.465,
 	"lat": 50.340,
 	"radio": [["2015-10-15T11:40:00Z",
 	0.152818705926822]]
 },
 {
-	"name:" "Wrixum-Föhr",
+	"name": "Wrixum-Föhr",
 	"lon": 8.529,
 	"lat": 54.693,
 	"radio": [["2015-10-13T05:30:00Z",
 	0.0495453637421441]]
 },
 {
-	"name:" "Wünschensuhl",
+	"name": "Wünschensuhl",
 	"lon": 10.155,
 	"lat": 50.936,
 	"radio": [["2015-10-14T05:10:00Z",
@@ -117383,14 +117383,14 @@
 	0.154885024056862]]
 },
 {
-	"name:" "Würzburg",
+	"name": "Würzburg",
 	"lon": 9.958,
 	"lat": 49.770,
 	"radio": [["2015-10-15T06:10:00Z",
 	0.143030632444907]]
 },
 {
-	"name:" "Wurzbach",
+	"name": "Wurzbach",
 	"lon": 11.530,
 	"lat": 50.462,
 	"radio": [["2015-10-15T03:20:00Z",
@@ -117415,7 +117415,7 @@
 	0.165664868744845]]
 },
 {
-	"name:" "Wyhl",
+	"name": "Wyhl",
 	"lon": 7.641,
 	"lat": 48.163,
 	"radio": [["2015-10-13T18:10:00Z",
@@ -117424,7 +117424,7 @@
 	0.115903172599818]]
 },
 {
-	"name:" "Wymeer",
+	"name": "Wymeer",
 	"lon": 7.227,
 	"lat": 53.128,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -117495,7 +117495,7 @@
 	0.0415683313562239]]
 },
 {
-	"name:" "Zerf",
+	"name": "Zerf",
 	"lon": 6.688,
 	"lat": 49.598,
 	"radio": [["2015-10-13T17:20:00Z",
@@ -117520,14 +117520,14 @@
 	0.0875359709481222]]
 },
 {
-	"name:" "Zierenberg",
+	"name": "Zierenberg",
 	"lon": 9.302,
 	"lat": 51.371,
 	"radio": [["2015-10-15T10:00:00Z",
 	0.159397126121324]]
 },
 {
-	"name:" "Zusmarshausen",
+	"name": "Zusmarshausen",
 	"lon": 10.611,
 	"lat": 48.405,
 	"radio": [["2015-10-12T00:00:00Z",
@@ -117880,7 +117880,7 @@
 	0.0824916622347913]]
 },
 {
-	"name:" "Zwenkau",
+	"name": "Zwenkau",
 	"lon": 12.323,
 	"lat": 51.222,
 	"radio": [["2015-10-15T05:50:00Z",
@@ -117903,7 +117903,7 @@
 	0.153842205781754]]
 },
 {
-	"name:" "Zwickau",
+	"name": "Zwickau",
 	"lon": 12.467,
 	"lat": 50.682,
 	"radio": [["2015-10-14T02:20:00Z",
@@ -117922,7 +117922,7 @@
 	0.154673274102916]]
 },
 {
-	"name:" "Zwiesel",
+	"name": "Zwiesel",
 	"lon": 13.238,
 	"lat": 49.028,
 	"radio": [["2015-10-12T19:30:00Z",
