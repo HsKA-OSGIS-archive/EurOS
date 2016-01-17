@@ -1,5 +1,5 @@
 /*global sharedObject, d3*/
-
+Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTCsqcF7vfEJ4ZzVh3';
 (function() {
     "use strict";
     var yearPerSec = 86400;
