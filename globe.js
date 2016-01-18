@@ -1,7 +1,3 @@
-setInterval(function(){
-    entity.polygon.material = Cesium.Color.fromRandom({alpha: 1.0});
-}, 2000);
-
 /*global sharedObject, d3*/
 Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTCsqcF7vfEJ4ZzVh3';
 (function() {
@@ -28,7 +24,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
         this._year = Cesium.JulianDate.fromIso8601("2015-10-12T00:00:00Z");
 /* 
         this._radioScale = d3.scale.linear().domain([0, 5e8]).range([0, 10000000.0]); */
-        this._colorScale = d3.scale.category20c();
+        this._colorScale = d3.scale.linear().domain([0,0.1]).range(['blue', 'beige', 'red']);
         this._selectedEntity = undefined;
     };
 
@@ -147,6 +143,9 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
             // Construct Population related Properties
 			var radiation1 = new Cesium.SampledPositionProperty();
             var sampledRadiation = new Cesium.SampledProperty(Number);
+			
+			var colorPolyline = new Cesium.SampledProperty(Number);
+			
 			var heightPosition = Cesium.Cartesian3.fromDegrees(station.lon, station.lat, station.radio[0][1]*1000000);
 
 			radiation1.addSample(Cesium.JulianDate.fromIso8601("2015"), heightPosition);
@@ -159,8 +158,14 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 				heightPosition = Cesium.Cartesian3.fromDegrees(station.lon, station.lat, radio*1000000);
 				
                 radiation1.addSample(Cesium.JulianDate.fromIso8601(year), heightPosition);
-                sampledRadiation.addSample(Cesium.JulianDate.fromIso8601(year), radio);
+                //Metemos en la lista todos los valores de radiacion
+				sampledRadiation.addSample(Cesium.JulianDate.fromIso8601(year), radio);
+				
+							
+				
             }
+			
+			
 			
 			radiation1.addSample(Cesium.JulianDate.fromIso8601("2015"), heightPosition);
             sampledRadiation.addSample(Cesium.JulianDate.fromIso8601("2015"), radio);
@@ -170,8 +175,16 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
             polyline.show = new Cesium.ConstantProperty(true);
 			
 			// CAMBIO DE COLOR
+			
+			
+			
+			
             var outlineMaterial = new Cesium.PolylineOutlineMaterialProperty();
-            outlineMaterial.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString(this._colorScale(station.radio[0][1]))); // Hay que poner rangos
+			//con getValue recogemos el valor interpolado
+            outlineMaterial.color = Cesium.Color.fromCssColorString(this._colorScale(sampledRadiation.getValue(Cesium.JulianDate.fromIso8601(year))));
+			
+			console.log(sampledRadiation.getValue(Cesium.JulianDate.fromIso8601(year)));
+			
             outlineMaterial.outlineColor = new Cesium.ConstantProperty(new Cesium.Color(0.0, 0.0, 0.0, 1.0));
             outlineMaterial.outlineWidth = new Cesium.ConstantProperty(3.0);
             polyline.material = outlineMaterial;
@@ -244,7 +257,8 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 	
 	HealthAndWealthDataSource.prototype.update = function(time) {
 		//El tiempo en cesium siempre es el juliano, que es el que hemos predefinido como inicial en la variable _year
-
+		
+		
         if (time !== this._year ){
             this._setInfoDialog(time);
         }
