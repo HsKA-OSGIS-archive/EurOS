@@ -181,10 +181,10 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 			
             var outlineMaterial = new Cesium.PolylineOutlineMaterialProperty();
 			//con getValue recogemos el valor interpolado
-            outlineMaterial.color = Cesium.Color.fromCssColorString(this._colorScale(sampledRadiation.getValue(Cesium.JulianDate.fromIso8601(year))));
+            //outlineMaterial.color = Cesium.Color.fromCssColorString(this._colorScale(sampledRadiation.getValue(Cesium.JulianDate.fromIso8601(year))));
 			
-			console.log(sampledRadiation.getValue(Cesium.JulianDate.fromIso8601(year)));
-			
+			//console.log(sampledRadiation.getValue(Cesium.JulianDate.fromIso8601(year)));
+			outlineMaterial.color = new Cesium.ConstantProperty(new Cesium.Color.fromCssColorString("#ffc44d"));
             outlineMaterial.outlineColor = new Cesium.ConstantProperty(new Cesium.Color(0.0, 0.0, 0.0, 1.0));
             outlineMaterial.outlineWidth = new Cesium.ConstantProperty(3.0);
             polyline.material = outlineMaterial;
