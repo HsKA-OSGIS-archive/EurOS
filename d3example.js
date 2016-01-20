@@ -3,7 +3,6 @@
     "use strict";
 
     // Various accessors that specify the four dimensions of data to visualize.
-<<<<<<< HEAD
     function x(d) { return d.lat; }
     function y(d) { return d.lon; }
     function radius(d) { return d.radio[0][1]; }
@@ -11,14 +10,6 @@
     function key(d) { return d.name; }
 
 
-=======
-    function x(d) { return d.radio; }
-    function y(d) { return d.radio; }
-    function radius(d) { return d.radio; }
-    function color(d) { return d.name; }
-    function key(d) { return d.name; }
-
->>>>>>> origin/master
     // Chart dimensions. dimensiones de la tabla dentro de su zona.
     var margin = {top: 19.5, right: 19.5, bottom: 20.5, left: 39.5},
         width = 960 - margin.right,
@@ -69,15 +60,9 @@
         .attr("transform", "rotate(-90)")
         .text("Radiation (x 1e15)");
 
-<<<<<<< HEAD
     // Add the year label; the value is set on transition.
     var label = svg.append("text")
         .attr("class", "year label")
-=======
-    // Add the day label; the value is set on transition.
-    var label = svg.append("text")
-        .attr("class", "day label")
->>>>>>> origin/master
         .attr("text-anchor", "start")
         .attr("y", 28)
         .attr("x", 30)
@@ -100,7 +85,6 @@
       function order(a, b) {
         return radius(b) - radius(a);
       }
-<<<<<<< HEAD
       // Interpolates the dataset for the given (fractional) year.
       function interpolateData(year) {
         sharedObject.yearData = nations.map(function(d) {
@@ -121,23 +105,6 @@
         });
 
         return sharedObject.yearData;
-=======
-      // Interpolates the dataset for the given (fractional) day.
-      function interpolateData(day) {
-        sharedObject.dayData = nations.map(function(d) {
-          return {
-            name: d.name,
-            //region: d.region,
-            income: interpolateValues(d.radio, day),
-            //population: interpolateValues(d.population, day),
-           // lifeExpectancy: interpolateValues(d.lifeExpectancy, day),
-            lat: d.lat,
-            lon: d.lon
-          };
-        });
-
-        return sharedObject.dayData;
->>>>>>> origin/master
       }
 
       // Add a dot per nation. Initialize the data at 0, and set the colors.
@@ -162,7 +129,6 @@
           .text(function(d) { return d.name; });
 
 
-<<<<<<< HEAD
 
       // Updates the display to show the specified year.
       function displayDay(year) {
@@ -171,29 +137,10 @@
       }
 		
 	
-=======
-      // Tweens the entire chart by first tweening the day, and then the data.
-      // For the interpolated data, the dots and label are redrawn.
-      function tweenDay() {
-        var day = d3.interpolateNumber(0, 5);
-        return function(t) { displayDay(day(t)); };
-      }
-
-      // Updates the display to show the specified day.
-      function displayDay(day) {
-        dot.data(interpolateData(day), key).call(position).sort(order);
-        label.text(Math.round(day));
-      }
-		
-		function (time){
-			console.log(Cesium.clock.currentTime);	
-		}
->>>>>>> origin/master
 		
       // make displayDay global
       window.displayDay = displayDay;
 
-<<<<<<< HEAD
       // Finds (and possibly interpolates) the value for the specified year.
       function interpolateValues(values, year) {
 		console.log(year);
@@ -203,15 +150,6 @@
         if (i > 0) {
           var b = values[i - 1],
               t = (year - a[0]) / (b[0] - a[0]);
-=======
-      // Finds (and possibly interpolates) the value for the specified day.
-      function interpolateValues(values, day) {
-        var i = bisect.left(values, day, 0, values.length - 1),
-            a = values[i];
-        if (i > 0) {
-          var b = values[i - 1],
-              t = (day - a[0]) / (b[0] - a[0]);
->>>>>>> origin/master
           return a[1] * (1 - t) + b[1] * t;
         }
         return a[1];
