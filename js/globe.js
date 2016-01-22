@@ -316,7 +316,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 
 
     var healthAndWealth = new HealthAndWealthDataSource();
-    healthAndWealth.loadUrl('radiologic.json');
+    healthAndWealth.loadUrl('../radiologic.json');
     viewer.dataSources.add(healthAndWealth);
 
 	

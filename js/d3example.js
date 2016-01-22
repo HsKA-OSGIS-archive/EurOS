@@ -69,7 +69,7 @@
         .text(0);
 
     // Load the data.
-    d3.json("radiologic.json", function(nations) {
+    d3.json("../radiologic.json", function(nations) {
 
       // A bisector since many nation's data is sparsely-defined.
       var bisect = d3.bisector(function(d) { return d[0]; });
