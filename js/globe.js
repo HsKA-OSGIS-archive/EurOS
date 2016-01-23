@@ -51,7 +51,9 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
             set : function(e) {
                 if (Cesium.defined(this._selectedEntity)) {
                     var entity = this._selectedEntity;
-                    entity.polyline.material.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString(this._colorScale(entity.radio)));
+                    //entity.polyline.material.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString(this._colorScale(entity.radio)));
+					
+					entity.polyline.material.color = new Cesium.ConstantProperty(new Cesium.Color.fromCssColorString("#ffc44d"));
                 }
                 if (Cesium.defined(e)) {
                     e.polyline.material.color = new Cesium.ConstantProperty(Cesium.Color.fromCssColorString('#00ff00'));
