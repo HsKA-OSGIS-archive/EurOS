@@ -176,13 +176,13 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
             var polyline = new Cesium.PolylineGraphics();
             polyline.show = new Cesium.ConstantProperty(true);
 			
-			// CAMBIO DE COLOR
+			// Change of color
 			
 			
 			
 			
             var outlineMaterial = new Cesium.PolylineOutlineMaterialProperty();
-			//con getValue recogemos el valor interpolado
+			//with getValue we get the value interpolated
             //outlineMaterial.color = Cesium.Color.fromCssColorString(this._colorScale(sampledRadiation.getValue(Cesium.JulianDate.fromIso8601(year))));
 			
 			//console.log(sampledRadiation.getValue(Cesium.JulianDate.fromIso8601(year)));
@@ -190,7 +190,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
             outlineMaterial.outlineColor = new Cesium.ConstantProperty(new Cesium.Color(0.0, 0.0, 0.0, 1.0));
             outlineMaterial.outlineWidth = new Cesium.ConstantProperty(3.0);
             polyline.material = outlineMaterial;
-            polyline.width = 5.0;
+            polyline.width = 10.0;
             polyline.followSurface = new Cesium.ConstantProperty(false);
 
             var entity = new Cesium.Entity(station.name);
@@ -204,7 +204,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 
             entity.addProperty('surfacePosition');
             entity.surfacePosition = surfacePosition;
-            entity.addProperty('stationData'); // CAMBIAR NATIONDATA POR ESTACION
+            entity.addProperty('stationData'); 
             entity.stationData = station;
             entity.addProperty('radio');
             entity.radio = sampledRadiation;
@@ -228,8 +228,8 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
     };
 	
 
+	// We create the table that will appear each time that will be different to 2015-10-12T01:00:00Z
 
-	//Creamos la tabla que aparecerá cada vez que el tiempo sea diferente a 2015-10-12T01:00:00Z
     HealthAndWealthDataSource.prototype._setInfoDialog = function(time) {
 		
 		if (Cesium.defined(this._selectedEntity)) {
@@ -255,10 +255,12 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
             $("#info").data("dataSource", this);
         }
     };
-	// Se actualizará la tabla si el tiempo es diferente del inicial
+
+	//We update the table if the time is different to the initial time
 	
 	HealthAndWealthDataSource.prototype.update = function(time) {
-		//El tiempo en cesium siempre es el juliano, que es el que hemos predefinido como inicial en la variable _year
+
+		// The time of cesium always is the Julian, it was predefined at the variable _year
 		
 		
         if (time !== this._year ){
@@ -292,19 +294,19 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 	
 	
 	
-	//Le damos funcionalidad al boton home
+	//Home button functionality
 	viewer.homeButton.viewModel.command.beforeExecute.addEventListener(function(commandInfo){
-	//Si se pulsa hacemos un flyto
+	
 		FlyTogermany()
-		//Le decimos al botón que no haga nada mas
+		//Cancel other functionality of the home button
 		commandInfo.cancel = true;
 	});
 	
 	
 	FlyTogermany();
 	
-	
-	//Creamos la funcion flytogermany q nos llevara a alemania. Colocamos unas coordenadas aproximadas a nuestros datos
+	// Create the function flytogermany. Put aprrox coordinates to your data
+
 	function FlyTogermany (){
 		viewer.camera.flyTo({
 			destination : Cesium.Cartesian3.fromDegrees(10.2, 43.2, 1000000.0),
@@ -322,8 +324,8 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
     viewer.dataSources.add(healthAndWealth);
 
 	
-	//Seleccionamos el map provider más basico
-	var stamenTonerImagery = viewer.baseLayerPicker.viewModel.imageryProviderViewModels[11];
+	//Selecc the map provider
+	var stamenTonerImagery = viewer.baseLayerPicker.viewModel.imageryProviderViewModels[0];
     viewer.baseLayerPicker.viewModel.selectedImagery = stamenTonerImagery;
 	
 	
