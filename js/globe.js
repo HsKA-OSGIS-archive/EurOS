@@ -243,7 +243,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
             $("#info table").css("font-size", "10px");
             $("#info").dialog({
                 title : this._selectedEntity.stationData.name,
-                width: 250,
+                width: 300,
                 height: 100,
                 modal: false,
                 position: {my: "right center", at: "right center", of: "canvas"},
