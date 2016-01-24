@@ -309,7 +309,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 
 	function FlyTogermany (){
 		viewer.camera.flyTo({
-			destination : Cesium.Cartesian3.fromDegrees(10.2, 43.2, 1000000.0),
+			destination : Cesium.Cartesian3.fromDegrees(10.2, 43.6, 1000000.0),
 			orientation : {
 				heading : Cesium.Math.toRadians(0.0),
 				pitch : Cesium.Math.toRadians(-55.0),
