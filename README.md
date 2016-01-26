@@ -47,16 +47,16 @@ Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 	- D3 v3.0
 	
 #Structure of folders
-</thead><tbody>
-<tr>
-<td align="left">static</td>
-<td align="left">contains the static part of the WSGI Web site</td>
-</tr>
-<tr>
-<td align="left">/3rdParty</td>
-<td align="left">Contains js librarys (Cesium, d3, Jquery)</td>
-</tr>
-</tbody></table>
+|Folder name | Description |
+|:------------|:-------------|
+|static |contains the static part to WSGI Web site|
+|/3rdParty|contains js libraries (Cesium, D3 and JQuery)|
+|/css|contains style sheet language|
+|/fonts|contains leters types|
+|/img|contains all necessary image-files|
+|/js|contains all necessary javascript-files|
+|templates|contains all html files|
+
 
 
 # Installation Steps:
