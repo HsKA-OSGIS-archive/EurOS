@@ -45,6 +45,19 @@ Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 	- Cesium 1.17
 	- jQuery UI 1.10.3
 	- D3 v3.0
+	
+#Structure of folders
+</thead><tbody>
+<tr>
+<td align="left">static</td>
+<td align="left">contains the static part of the WSGI Web site</td>
+</tr>
+<tr>
+<td align="left">/3rdParty</td>
+<td align="left">Contains js librarys (Cesium, d3, Jquery)</td>
+</tr>
+</tbody></table>
+
 
 # Installation Steps:
 	
