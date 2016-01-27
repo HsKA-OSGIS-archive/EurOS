@@ -62,10 +62,14 @@ Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 # Installation Steps:
 	
 1. In pgAdminIII create a table named hska_exp in the postgres database. To make work easier is provided a SQL query in the repository.(you can change the default database by you own database)
-2. Import the data from the CSV file in the created table.
-3. Install the Python libraries. You can use the links provided in the External libraries chapter.
-4. In the index.py file edit the line 17 with your own user and password (if you create the hska_exp table in a different database you must change in this step): 
-		engine = create_engine('postgresql://name:password@localhost/databasename')
 
+2. Import the data from the CSV file in the created table.
+
+3. Install the Python libraries. You can use the links provided in the External libraries chapter.
+
+4. In the index.py file edit the line 17 with your own user and password (if you create the hska_exp table in a different database you must change in this step): 
+	engine = create_engine('postgresql://name:password@localhost/databasename')
+
+Note: You need to adapt your server to use wsgi. 
 
 
