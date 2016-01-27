@@ -77,7 +77,10 @@ Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 
 3. Install the Python libraries. You can use the links provided in the External libraries chapter.
 
-4. In the index.py file edit the line 17 with your own user and password (if you create the hska_exp table in a different database you must change in this step): 
+4. Download <a href='https://github.com/AnalyticalGraphicsInc/cesium.git'>Cesium</a> repository and put it in:
+	static/3rdParty/cesium
+
+5. In the index.py file edit the line 17 with your own user and password (if you create the hska_exp table in a different database you must change in this step): 
 	engine = create_engine('postgresql://name:password@localhost/databasename')
 
 Note: You need to adapt your server to use wsgi. 
