@@ -13,11 +13,11 @@ var sphere = viewer.entities.add({
     }
 });
 
-	//Le damos funcionalidad al boton home
+	//Home button functionality
 		viewer.homeButton.viewModel.command.beforeExecute.addEventListener(function(commandInfo){
-	//Si se pulsa hacemos un flyto
+	
 		FlyTo()
-		//Le decimos al botón que no haga nada mas
+		//Cancel other functionality of the home button
 		commandInfo.cancel = true;
 	});
 	
@@ -25,7 +25,7 @@ var sphere = viewer.entities.add({
 	FlyTo();
 	
 	
-	//Creamos la funcion flytogermany q nos llevara a alemania. Colocamos unas coordenadas aproximadas a nuestros datos
+	// Create the function flytogermany. Put aprrox coordinates to your data
 	function FlyTo (){
 		viewer.camera.flyTo({
 			destination : Cesium.Cartesian3.fromDegrees(-79, 34.7, 40000),
