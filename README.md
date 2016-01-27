@@ -49,10 +49,10 @@ Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 
 # External Libraries
 
-	- <a href='http://flask.pocoo.org/'>Flask <a> 0.10.1 (Python)
-	- <a href='http://www.sqlalchemy.org/'> sqlalchemy<a> 1.0.11 (Python) 
-	- <a href='https://pypi.python.org/pypi/psycopg2'> psycopg2<a> 2.6.1 (Python) 
-	- <a href='https://github.com/AnalyticalGraphicsInc/cesium.git'>Cesium</a> 1.17
+	- Flask 0.10.1 (Python) http://flask.pocoo.org/
+	- sqlalchemy 1.0.11 (Python) http://www.sqlalchemy.org/
+	- pyscogp2 2.6.1 (Python) https://pypi.python.org/pypi/psycopg2
+	- Cesium 1.17
 	- jQuery UI 1.10.3
 	- D3 v3.0
 	
