@@ -40,6 +40,13 @@ http://odlinfo.bfs.de/
 	
 Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 
+# Lenguages Used
+
+	- Python 2.7
+	- JavaScript 1.8
+	- HTML5
+	- CSS3
+
 # External Libraries
 
 	- Flask 0.10.1 (Python) http://flask.pocoo.org/
@@ -76,4 +83,4 @@ Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 Note: You need to adapt your server to use wsgi. 
 
 Copyright (c) 2016, EurOpenSource Company
-see <div src='https://github.com/HsKA-OSGIS/EurOS/blob/master/License'>LICENSE.txt</div>
+see <div href='https://github.com/HsKA-OSGIS/EurOS/blob/master/License'>LICENSE.txt</div>
