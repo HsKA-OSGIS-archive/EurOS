@@ -70,7 +70,7 @@ Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 
 # Installation Steps:
 	
-1. In pgAdminIII create a table named hska_exp in the postgres database. To make work easier is provided a SQL query in the repository.(you can change the default database by you own database)
+1. In pgAdminIII create a table named hska_exp in the postgres database. To make work easier is provided a SQL query in the repository, you can change the default database by your own database.
 
 2. Import the data from the CSV file in the created table.
 
