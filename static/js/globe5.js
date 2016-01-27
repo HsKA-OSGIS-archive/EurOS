@@ -160,7 +160,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 				heightPosition = Cesium.Cartesian3.fromDegrees(station.lon, station.lat, radio*1000000);
 				
                 radiation1.addSample(Cesium.JulianDate.fromIso8601(year), heightPosition);
-                //Metemos en la lista todos los valores de radiacion
+                //Add the data radiation into the Sample
 				sampledRadiation.addSample(Cesium.JulianDate.fromIso8601(year), radio);
 				
 							
