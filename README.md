@@ -1,6 +1,10 @@
 # EurOS
 
 WebGIS-Application with animated radiologic data (4D) using Cesium
+<p align="center">
+<a href="https://github.com/HsKA-OSGIS/EurOS/blob/master/static/img/Logo.png?raw=true"><img src="https://github.com/HsKA-OSGIS/EurOS/blob/master/static/img/Logo.png?raw=true" height="150" /></a>&nbsp;
+</p>
+
 
 # About the Application
 
