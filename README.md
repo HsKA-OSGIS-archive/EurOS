@@ -40,7 +40,7 @@ http://odlinfo.bfs.de/
 	
 Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 
-# Lenguages Used
+# Languages Used
 
 	- Python 2.7
 	- JavaScript 1.8
@@ -49,14 +49,15 @@ Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 
 # External Libraries
 
-	- Flask 0.10.1 (Python) http://flask.pocoo.org/
-	- sqlalchemy 1.0.11 (Python) http://www.sqlalchemy.org/
-	- pyscogp2 2.6.1 (Python) https://pypi.python.org/pypi/psycopg2
-	- Cesium 1.17
+	- <a href='http://flask.pocoo.org/'>Flask <a> 0.10.1 (Python)
+	- <a href='http://www.sqlalchemy.org/'> sqlalchemy<a> 1.0.11 (Python) 
+	- <a href='https://pypi.python.org/pypi/psycopg2'> psycopg2<a> 2.6.1 (Python) 
+	- <a href='https://github.com/AnalyticalGraphicsInc/cesium.git'>Cesium</a> 1.17
 	- jQuery UI 1.10.3
 	- D3 v3.0
 	
 #Structure of folders
+
 |Folder name | Description |
 |:------------|:-------------|
 |static |contains the static part to WSGI Web site|
@@ -66,8 +67,6 @@ Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 |/img|contains all necessary image-files|
 |/js|contains all necessary javascript-files|
 |templates|contains all html files|
-
-
 
 # Installation Steps:
 	
