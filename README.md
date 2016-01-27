@@ -72,7 +72,10 @@ Note: If you are using OSGEO-Live 9.0 the three last programs are pre-installed.
 	
 1. In pgAdminIII create a table named hska_exp in the postgres database. To make work easier is provided a SQL query in the repository, you can change the default database by your own database.
 
-2. Import the data from the CSV file in the created table.
+2. Import the data from the CSV file in the created table. The parameters to import the Radiation.CSV file into the table are:
+		Format: CSV		
+		Encoding: ISO _8859_5
+		Delimiter: ";"
 
 3. Install the Python libraries. You can use the links provided in the External libraries chapter.
 
