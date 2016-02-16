@@ -6,7 +6,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
     var gregorianDate = new Cesium.GregorianDate();
     var cartesian3Scratch = new Cesium.Cartesian3();
 
-    var HealthAndWealthDataSource = function() {
+    var RadiationDataSource = function() {
         // private declarations
         this._name = "Health and Wealth";
         this._entityCollection = new Cesium.EntityCollection();
@@ -28,7 +28,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
         this._selectedEntity = undefined;
     };
 
-    Object.defineProperties(HealthAndWealthDataSource.prototype, {
+    Object.defineProperties(RadiationDataSource.prototype, {
         name : {
             get : function() {
                 return this._name;
@@ -63,7 +63,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
         },
         /**
          * Gets a value indicating if the data source is currently loading data.
-         * @memberof HealthAndWealthDataSource.prototype
+         * @memberof RadiationDataSource.prototype
          * @type {Boolean}
          */
         isLoading : {
@@ -73,7 +73,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
         },
         /**
          * Gets an event that will be raised when the underlying data changes.
-         * @memberof HealthAndWealthDataSource.prototype
+         * @memberof RadiationDataSource.prototype
          * @type {Event}
          */
         changedEvent : {
@@ -84,7 +84,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
         /**
          * Gets an event that will be raised if an error is encountered during
          * processing.
-         * @memberof HealthAndWealthDataSource.prototype
+         * @memberof RadiationDataSource.prototype
          * @type {Event}
          */
         errorEvent : {
@@ -95,7 +95,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
         /**
          * Gets an event that will be raised when the data source either starts or
          * stops loading.
-         * @memberof HealthAndWealthDataSource.prototype
+         * @memberof RadiationDataSource.prototype
          * @type {Event}
          */
         loadingEvent : {
@@ -105,7 +105,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
         }
     });
 
-    HealthAndWealthDataSource.prototype.loadUrl = function(url) {
+    RadiationDataSource.prototype.loadUrl = function(url) {
         if (!Cesium.defined(url)) {
             throw new Cesium.DeveloperError("url must be defined.");
         }
@@ -121,7 +121,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
     };
 
 	
-    HealthAndWealthDataSource.prototype.load = function(data) {
+    RadiationDataSource.prototype.load = function(data) {
         if (!Cesium.defined(data)) {
             throw new Cesium.DeveloperError("data must be defined.");
         }
@@ -220,7 +220,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
         this._setLoading(false);
     };
 
-    HealthAndWealthDataSource.prototype._setLoading = function(isLoading) {
+    RadiationDataSource.prototype._setLoading = function(isLoading) {
         if (this._isLoading !== isLoading) {
             this._isLoading = isLoading;
             this._loading.raiseEvent(this, isLoading);
@@ -230,7 +230,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 
 	// We create the table that will appear each time that will be different to 2015-10-12T01:00:00Z
 
-    HealthAndWealthDataSource.prototype._setInfoDialog = function(time) {
+    RadiationDataSource.prototype._setInfoDialog = function(time) {
 		
 		if (Cesium.defined(this._selectedEntity)) {
             var radio = this._selectedEntity.radio.getValue(time);
@@ -258,7 +258,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 
 	//We update the table if the time is different to the initial time
 	
-	HealthAndWealthDataSource.prototype.update = function(time) {
+	RadiationDataSource.prototype.update = function(time) {
 
 		// The time of cesium always is the Julian, it was predefined at the variable _year
 		
@@ -319,10 +319,10 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
 	};
 
 
-    var healthAndWealth = new HealthAndWealthDataSource();
+    var RadiationVar = new RadiationDataSource();
 	console.log("hola6")
-    healthAndWealth.loadUrl('../static/radiologic.json');
-    viewer.dataSources.add(healthAndWealth);
+    RadiationVar.loadUrl('../static/radiologic.json');
+    viewer.dataSources.add(RadiationVar);
 
 	
 	//Selecc the map provider
@@ -338,7 +338,7 @@ Cesium.BingMapsApi.defaultKey='AtY1kYr6lhh9xdzGagEbKz8-yBzMO4YcHXQ6u22ViKjhf3mTC
             if (Cesium.defined(pickedObject) && Cesium.defined(pickedObject.id)) {
                 if (Cesium.defined(pickedObject.id.stationData)) {
                     sharedObject.dispatch.nationMouseover(pickedObject.id.stationData, pickedObject);
-                    healthAndWealth.selectedEntity = pickedObject.id;
+                    RadiationVar.selectedEntity = pickedObject.id;
                 }
             }
         },
